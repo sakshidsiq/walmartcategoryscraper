@@ -1,0 +1,810 @@
+[
+  {
+    "department": "Pharmacy, Health & Wellness",
+    "subcategories": [
+      {
+        "name": "Vitamins & Supplements",
+        "url": "https://www.walmart.com/cp/vitamins-supplements/1005863?povid=GlobalNav_rWeb_PharmacyHealthWellness_Wellness_VitaminsSupplements"
+      },
+      {
+        "name": "Summer Fitness",
+        "url": "https://www.walmart.com/shop/deals/SummerFitness"
+      },
+      {
+        "name": "Protein, Fitness, & Weight Management",
+        "url": "https://www.walmart.com/cp/protein-fitness/1166769?povid=GlobalNav_rWeb_PharmacyHealthWellness_Wellness_ProteinSupplements"
+      },
+      {
+        "name": "Digestive Health & Wellness",
+        "url": "https://www.walmart.com/cp/digestive-health/1396434?povid=GlobalNav_rWeb_PharmacyHealthWellness_Wellness_DigestiveHealth"
+      },
+      {
+        "name": "Pain Management",
+        "url": "https://www.walmart.com/browse/health/pain-relievers/976760_6972993?povid=GlobalNav_rWeb_PharmacyHealthWellness_HealthCare_PainManagement"
+      },
+      {
+        "name": "Allergy & Sinus",
+        "url": "https://www.walmart.com/cp/allergy-sinus/3771182?povid=GlobalNav_rWeb_PharmacyHealthWellness_HealthCare_AllergySinusAsthma"
+      },
+      {
+        "name": "Medical Supplies & Equipment",
+        "url": "https://www.walmart.com/cp/caregiver/2915579?povid=GlobalNav_rWeb_PharmacyHealthWellness_FeaturedShops_Caregiver"
+      },
+      {
+        "name": "First Aid",
+        "url": "https://www.walmart.com/cp/2571007?povid=GlobalNav_rweb_PharmacyHealthWellness_Health_FirstAid"
+      },
+      {
+        "name": "Diabetes Management",
+        "url": "https://www.walmart.com/cp/diabetes-support/1231757?povid=GlobalNav_rweb_PharmacyHealthWellness_Health_diabetes"
+      },
+      {
+        "name": "OTC & FSA/HSA",
+        "url": "https://www.walmart.com/cp/benefit-programs/4137417?povid=GlobalNav_rWeb_PharmacyHealthWellness_BenefitsHub_AllBenefits"
+      },
+      {
+        "name": "Pharmacy",
+        "url": "https://www.walmart.com/cp/pharmacy/5431?povid=GlobalNav_rWeb_PharmacyHealthWellness_Pharmacy_Pharmacy"
+      },
+      {
+        "name": "Vision Center",
+        "url": "https://www.walmart.com/cp/vision-centers/1078944?povid=GlobalNav_rWeb_PharmacyHealthWellness_VisionCenter_VisionCenter"
+      }
+    ]
+  },
+  {
+    "department": "Clothing, Shoes, & Accessories",
+    "subcategories": [
+      {
+        "name": "All Clothing, Shoes, & Accessories",
+        "url": "https://www.walmart.com/cp/clothing/5438?povid=GlobalNav_rWeb_ClothingShoesAccessories_Fashion"
+      },
+      {
+        "name": "New Arrivals",
+        "url": "https://www.walmart.com/shop/clothing-and-accessories/new-arrivals?povid=GlobalNav_rWeb_ClothingShoesAccessories_NewArrivals"
+      },
+      {
+        "name": "Women",
+        "url": "https://www.walmart.com/cp/womens-clothing-apparel/133162?povid=GlobalNav_rWeb_ClothingShoesAccessories_Women"
+      },
+      {
+        "name": "Women's Plus",
+        "url": "https://www.walmart.com/cp/womens-plus/133195?povid=GlobalNav_rWeb_ClothingShoesAccessories_WomensPlus"
+      },
+      {
+        "name": "Men",
+        "url": "https://www.walmart.com/cp/mens-clothing/133197?povid=GlobalNav_rWeb_ClothingShoesAccessories_Men"
+      },
+      {
+        "name": "Young Adult",
+        "url": "https://www.walmart.com/cp/young-adult/9055522?povid=GlobalNav_rWeb_ClothingShoesAccessories_YoungAdult"
+      },
+      {
+        "name": "Tween",
+        "url": "https://www.walmart.com/browse/clothing/tween/5438_2149324_4407913?povid=GlobalNav_rWeb_ClothingShoesAccessories_Tween"
+      },
+      {
+        "name": "Kids",
+        "url": "https://www.walmart.com/cp/kids-clothing/7712430?povid=GlobalNav_rWeb_ClothingShoesAccessories_Kids"
+      },
+      {
+        "name": "Toddler",
+        "url": "https://www.walmart.com/browse/clothing/toddler-clothing/5438_7712430_2700757_2676407?povid=GlobalNav_rWeb_ClothingShoesAccessories_Toddler"
+      },
+      {
+        "name": "Baby",
+        "url": "https://www.walmart.com/browse/clothing/baby-clothes/5438_7712430_8775031_4648145?povid=GlobalNav_rWeb_ClothingShoesAccessories_Baby"
+      },
+      {
+        "name": "Shoes",
+        "url": "https://www.walmart.com/cp/shoes/1045804?povid=GlobalNav_rWeb_ClothingShoesAccessories_Shoes"
+      },
+      {
+        "name": "Jewelry & Watches",
+        "url": "https://www.walmart.com/cp/jewelry/3891?povid=GlobalNav_rWeb_ClothingShoesAccessories_JewelryWatches"
+      },
+      {
+        "name": "Bags & Accessories",
+        "url": "https://www.walmart.com/browse/clothing/bags-accessories/5438_1045799_6841567?povid=GlobalNav_rWeb_ClothingShoesAccessories_BagsAccessories"
+      },
+      {
+        "name": "Scrubs",
+        "url": "https://www.walmart.com/cp/scrubs/6824908?povid=GlobalNav_rWeb_ClothingShoesAccessories_Scrubs"
+      }
+    ]
+  },
+  {
+    "department": "Baby & Kids",
+    "subcategories": [
+      {
+        "name": "All Baby",
+        "url": "https://www.walmart.com/cp/baby-products/5427?povid=GlobalNav_rWeb_BabyKids_AllBaby"
+      },
+      {
+        "name": "Diapers & Wipes",
+        "url": "https://www.walmart.com/cp/diapering/486190?povid=GlobalNav_rWeb_BabyKids_diaperswipes"
+      },
+      {
+        "name": "Baby Registry",
+        "url": "https://www.walmart.com/cp/baby-registry/1229485?povid=GlobalNav_rWeb_BabyKids_babyregistry"
+      },
+      {
+        "name": "Baby Clothing",
+        "url": "https://www.walmart.com/browse/clothing/baby-clothes/5438_7712430_8775031_4648145?povid=GlobalNav_rWeb_BabyKids_BabyClothing"
+      },
+      {
+        "name": "Toddler Clothing",
+        "url": "https://www.walmart.com/browse/clothing/toddler-clothing/5438_7712430_2700757_2676407?povid=GlobalNav_rWeb_BabyKids_ToddlerClothing"
+      },
+      {
+        "name": "Kids Clothing",
+        "url": "https://www.walmart.com/cp/kids-clothing/7712430?povid=GlobalNav_rWeb_BabyKids_KidsClothing"
+      },
+      {
+        "name": "All Kids",
+        "url": "https://www.walmart.com/cp/6957270?povid=GlobalNav_rWeb_BabyKids_KidsClothing"
+      }
+    ]
+  },
+  {
+    "department": "Beauty",
+    "subcategories": [
+      {
+        "name": "All Beauty",
+        "url": "https://www.walmart.com/cp/beauty/1085666?povid=GlobalNav_rWeb_Beauty_Beauty_ShopAll_051123"
+      },
+      {
+        "name": "Premium Beauty",
+        "url": "https://www.walmart.com/cp/7924299?povid=GlobalNav_rWeb_Beauty_PremiumBeauty_ShopAll_051123"
+      },
+      {
+        "name": "Makeup",
+        "url": "https://www.walmart.com/cp/makeup/1007040?povid=GlobalNav_rWeb_Beauty_Beauty_Makeup_051123"
+      },
+      {
+        "name": "Haircare",
+        "url": "https://www.walmart.com/cp/hair-care/1007219?povid=GlobalNav_rWeb_Beauty_Beauty_HairCare_051123"
+      },
+      {
+        "name": "Skincare",
+        "url": "https://www.walmart.com/cp/skincare/1007039?povid=GlobalNav_rWeb_Beauty_Beauty_Skincare_051123"
+      },
+      {
+        "name": "Fragrance",
+        "url": "https://www.walmart.com/cp/fragrances/133225?povid=GlobalNav_rWeb_Beauty_Beauty_Fragrance_051123"
+      },
+      {
+        "name": "Nail Care",
+        "url": "https://www.walmart.com/browse/beauty/nail-care/1085666_3592123?povid=GlobalNav_rWeb_Beauty_Beauty_NailCare_051123"
+      },
+      {
+        "name": "Suncare & Tanning",
+        "url": "https://www.walmart.com/browse/beauty/facial-sunscreen/1085666_1007039_4046177?povid=Beauty_SkincareCP_Hubspokes_Shopbycategory_Suncare_081324"
+      },
+      {
+        "name": "Beauty Tech & Tools",
+        "url": "https://www.walmart.com/browse/beauty/beauty-tools-tech/1085666_2446618?povid=GlobalNav_rWeb_Beauty_Beauty_BeautyTechTools_051123"
+      },
+      {
+        "name": "Men's Grooming",
+        "url": "https://www.walmart.com/cp/mens-essentials/1056884?povid=GlobalNav_rWeb_Beauty_Beauty_mensgrooming"
+      },
+      {
+        "name": "Beauty Box - Subscribe now!",
+        "url": "https://www.walmart.com/browse/beauty/walmart-beauty-box/1085666_4820682_9411485?povid=GlobalNav_rWeb_Beauty_BeautyBox_TrendinginBeauty_100523"
+      }
+    ]
+  },
+  {
+    "department": "Home, Garden & Tools",
+    "subcategories": [
+      {
+        "name": "All Home",
+        "url": "/cp/home/4044?povid=GlobalNav_rWeb_HomeGardenTools_Department_ShopAllHome"
+      },
+      {
+        "name": "Patio & Garden",
+        "url": "/cp/patio-garden/5428?povid=GlobalNav_rWeb_HomeGardenTools_Department_ShopAllPatioGarden"
+      },
+      {
+        "name": "Kitchen & Dining",
+        "url": "/cp/kitchen-dining/623679?povid=GlobalNav_rWeb_HomeGardenTools_KitchenDining_ShopAll"
+      },
+      {
+        "name": "Furniture",
+        "url": "/cp/furniture/103150?povid=GlobalNav_rWeb_HomeGardenTools_Furniture_ShopAll"
+      },
+      {
+        "name": "Mattresses",
+        "url": "/cp/mattresses-accessories/539386?povid=GlobalNav_rWeb_HomeGardenTools_Furniture_Mattresses"
+      },
+      {
+        "name": "Appliances",
+        "url": "/cp/appliances/90548?povid=GlobalNav_rWeb_HomeGardenTools_Appliances_ShopAll"
+      },
+      {
+        "name": "Vacuums, Steamers & Floorcare",
+        "url": "https://www.walmart.com/cp/vacuums-steamers-floor-care/4047?povid=GlobalNav_rWeb_HomeGardenTools_VacuumsSteamersFloorcare_ShopAll"
+      },
+      {
+        "name": "Home Décor",
+        "url": "/cp/decor/133012?povid=GlobalNav_rWeb_HomeGardenTools_HomeDecor_ShopAll"
+      },
+      {
+        "name": "Bedding",
+        "url": "/cp/bedding/539103?povid=GlobalNav_rWeb_HomeGardenTools_Bedding_ShopAll"
+      },
+      {
+        "name": "Bath",
+        "url": "/cp/bath/539095?povid=GlobalNav_rWeb_HomeGardenTools_Bath_ShopAll"
+      },
+      {
+        "name": "Storage & Organization",
+        "url": "/cp/storage-organization/90828?povid=GlobalNav_rWeb_HomeGardenTools_StorageOrganization_ShopAll"
+      },
+      {
+        "name": "Luggage & Travel",
+        "url": "/cp/luggage/7333633?povid=GlobalNav_rWeb_HomeGardenTools_LuggageTravel_ShopAll"
+      },
+      {
+        "name": "Tools & Home Improvement",
+        "url": "/cp/home-improvement/1072864?povid=GlobalNav_rWeb_HomeGardenTools_Department_ShopAllHomeImprovement"
+      },
+      {
+        "name": "Registry & Lists",
+        "url": "/cp/gifts-registry/1094765?povid=GlobalNav_rWeb_HomeGardenTools_Featured_Registry"
+      }
+    ]
+  },
+  {
+    "department": "Tech & Electronics",
+    "subcategories": [
+      {
+        "name": "All Electronics",
+        "url": "https://www.walmart.com/cp/electronics/3944?povid=GlobalNav_rWeb_ETS_techelectronics_electronics"
+      },
+      {
+        "name": "TVs & Home Entertainment",
+        "url": "https://www.walmart.com/cp/televisions-video/1060825?povid=GlobalNav_rWeb_ETS_techelectronics_tvshomeentertainment"
+      },
+      {
+        "name": "Laptops, PCs & Tablets",
+        "url": "https://www.walmart.com/cp/computers-laptops-tablets/1089430?povid=GlobalNav_rWeb_ETS_techelectronics_laptopspcstablets"
+      },
+      {
+        "name": "Cameras & Photos",
+        "url": "https://www.walmart.com/cp/cameras-camcorders/133277?povid=GlobalNav_rWeb_ETS_techelectronics_camerasphotos"
+      },
+      {
+        "name": "Smart Home & Wi-Fi",
+        "url": "https://www.walmart.com/cp/smart-home/1229875?povid=GlobalNav_rWeb_ETS_techelectronics_smarthomewifi"
+      },
+      {
+        "name": "Audio",
+        "url": "https://www.walmart.com/browse/electronics/audio/3944_133251?sort=best_match&cat_id=3944_133251_8375901&stores=2648&ps=40?povid=GlobalNav_rWeb_ETS_techelectronics_audio"
+      },
+      {
+        "name": "Printers & Accessories",
+        "url": "https://www.walmart.com/browse/electronics/printers-supplies/3944_1089430_37807?povid=GlobalNav_rWeb_ETS_techelectronics_printersaccessories"
+      },
+      {
+        "name": "Home Appliances",
+        "url": "https://www.walmart.com/cp/appliances/90548?povid=GlobalNav_rWeb_HomeGardenTools_Appliances_ShopAll?povid=GlobalNav_rWeb_ETS_techelectronics_homeappliances"
+      },
+      {
+        "name": "Cell Phones",
+        "url": "https://www.walmart.com/cp/cell-phones/1105910?povid=GlobalNav_rWeb_ETS_techelectronics_cellphones"
+      },
+      {
+        "name": "Wearables & Smart Tech",
+        "url": "https://www.walmart.com/browse/wearable-technology/3944_1229723?povid=GlobalNav_rWeb_ETS_techelectronics_wearablessmarttech"
+      }
+    ]
+  },
+  {
+    "department": "Gaming & Entertainment",
+    "subcategories": [
+      {
+        "name": "Consoles & Bundles",
+        "url": "https://www.walmart.com/cp/video-games/2636?povid=GlobalNav_rWeb_ETS_gamingentertainment_consolesbundles"
+      },
+      {
+        "name": "Gaming Laptops & PCs",
+        "url": "https://www.walmart.com/cp/pc-gaming/7052607?povid=ETS_vg_hubspoke_vgcp_pcgamingcp?povid=GlobalNav_rWeb_ETS_gamingentertainment_gaminglaptopspcs"
+      },
+      {
+        "name": "Video & PC Games",
+        "url": "https://www.walmart.com/cp/video-games/2636?povid=GlobalNav_rWeb_ETS_gamingentertainment_videopcgames"
+      },
+      {
+        "name": "VR Headsets & Gear",
+        "url": "https://www.walmart.com/browse/video-games/virtual-reality/2636_5454301?povid=GlobalNav_rWeb_ETS_gamingentertainment_vrheadsetsgear"
+      },
+      {
+        "name": "Gaming Accessories",
+        "url": "https://www.walmart.com/browse/video-games/video-game-accessories/2636_1229019?povid=GlobalNav_rWeb_ETS_gamingentertainment_gamingaccessories"
+      },
+      {
+        "name": "Movies & TV Shows",
+        "url": "https://www.walmart.com/cp/movies-tv/4096?povid=GlobalNav_rWeb_ETS_gamingentertainment_moviestvshows"
+      },
+      {
+        "name": "Books",
+        "url": "https://www.walmart.com/cp/books/3920?povid=GlobalNav_rWeb_ETS_gamingentertainment_books"
+      },
+      {
+        "name": "Music & Vinyl",
+        "url": "https://www.walmart.com/cp/music/4104?povid=GlobalNav_rWeb_ETS_gamingentertainment_musicvinyl"
+      },
+      {
+        "name": "Musical Instruments",
+        "url": "https://www.walmart.com/browse/musical-instruments/7796869?povid=GlobalNav_rWeb_ETS_gamingentertainment_musicalinstruments"
+      }
+    ]
+  },
+  {
+    "department": "Toys & Outdoor Play",
+    "subcategories": [
+      {
+        "name": "All Toys & Outdoor Play",
+        "url": "https://www.walmart.com/cp/toys/4171?povid=GlobalNav_rweb_ToysGames_ShopAllToys"
+      },
+      {
+        "name": "Action Figures",
+        "url": "https://www.walmart.com/cp/action-figures/4172?povid=GlobalNav_rweb_ToysGames_ShopActionFigures"
+      },
+      {
+        "name": "Dolls",
+        "url": "https://www.walmart.com/shop/new-toys?facet=facet_product_type%3ADolls%7C%7Cfacet_product_type%3AAction+Figures?povid=GlobalNav_rweb_ETS_toysoutdoorplay_actionfiguresdolls"
+      },
+      {
+        "name": "Building Sets & Blocks",
+        "url": "https://www.walmart.com/browse/toys/building-sets-blocks/4171_4186?povid=ets_toys_hubspoke_toyscp_buildingsetsblocks"
+      },
+      {
+        "name": "Preschool Toys",
+        "url": "https://www.walmart.com/cp/preschool-toys/1077545?povid=GlobalNav_rweb_ToysGames_PreschoolToys"
+      },
+      {
+        "name": "Outdoor Play & Ride Ons",
+        "url": "https://www.walmart.com/cp/outdoor-toys/14521?povid=GlobalNav_rWeb_BabyKidsToys_ToysGames_OutdoorToys"
+      },
+      {
+        "name": "Games & Puzzles",
+        "url": "https://www.walmart.com/browse/toys/board-games/4171_4191_133123?povid=GlobalNav_rWeb_BabyKidsToys_ToysGames_GamesPuzzles"
+      },
+      {
+        "name": "Collectibles & Exclusives",
+        "url": "https://www.walmart.com/cp/collectibles/5967908?povid=GlobalNav_rWeb_BabyKidsToys_FeaturedShops_Collectibles"
+      },
+      {
+        "name": "Cars & Remote Controls",
+        "url": "https://www.walmart.com/browse/cars-rc-drones-trains/4171_1111647?povid=ets_toys_hubspoke_toyscp_rctoysvehicles"
+      },
+      {
+        "name": "Arts & Crafts",
+        "url": "https://www.walmart.com/browse/toys/arts-crafts-for-kids/4171_645779?povid=GlobalNav_rWeb_BabyKidsToys_ToysGames_KidsArtCrafts"
+      }
+    ]
+  },
+  {
+    "department": "Paper & Cleaning",
+    "subcategories": [
+      {
+        "name": "All Paper & Cleaning",
+        "url": "https://www.walmart.com/cp/household-essentials/1115193?povid=GlobalNav_rWeb_HouseholdEssentials_AllPaperCleaning"
+      },
+      {
+        "name": "Delivery Subscriptions",
+        "url": "https://www.walmart.com/browse/household-essentials/household-essentials-subscription/1115193_7023530?facet=subscription_eligible%3ASubscription&povid=GlobalNav_rWeb_HouseholdEssentials_HHEsubscriptions"
+      },
+      {
+        "name": "Cleaning Supplies",
+        "url": "https://www.walmart.com/browse/household-essentials/cleaning-supplies/1115193_1071966?povid=GlobalNav_rWeb_HouseholdEssentials_CleaningSupplies"
+      },
+      {
+        "name": "Laundry",
+        "url": "https://www.walmart.com/browse/laundry/1115193_1071967?povid=GlobalNav_rWeb_HouseholdEssentials_Laundry"
+      },
+      {
+        "name": "Bathroom",
+        "url": "https://www.walmart.com/browse/bathroom/1115193_1071965?povid=GlobalNav_rWeb_HouseholdEssentials_Bathroom"
+      },
+      {
+        "name": "Kitchen",
+        "url": "https://www.walmart.com/browse/kitchen/1115193_1071968?povid=GlobalNav_rWeb_HouseholdEssentials_Kitchen"
+      },
+      {
+        "name": "Paper & Plastic",
+        "url": "https://www.walmart.com/browse/household-essentials/paper-plastic/1115193_1073264?povid=GlobalNav_rWeb_HouseholdEssentials_PaperPlastic"
+      },
+      {
+        "name": "Air Fresheners",
+        "url": "https://www.walmart.com/browse/household-essentials/air-fresheners/1115193_1025739?povid=GlobalNav_rWeb_HouseholdEssentials_AirFresheners"
+      },
+      {
+        "name": "Cold & Flu Supplies",
+        "url": "https://www.walmart.com/browse/household-essentials/cough-allergy-supplies/1115193_3787768?povid=GlobalNav_rWeb_HouseholdEssentials_CCF"
+      },
+      {
+        "name": "Pest Control",
+        "url": "https://www.walmart.com/browse/household-essentials/pest-control/1115193_1025745?povid=GlobalNav_rWeb_HouseholdEssentials_PestControl"
+      },
+      {
+        "name": "Batteries",
+        "url": "https://www.walmart.com/cp/batteries/1076905?povid=GlobalNav_rWeb_HouseholdEssentials_Batteries"
+      },
+      {
+        "name": "Walmart Business",
+        "url": "https://business.walmart.com/account/logout?vid=b2b&tid=0&returnUrl=/cp/restroom/8398061%3Fpovid%3D8398061_flyout_WMThouseholdessentialsFlyout"
+      }
+    ]
+  },
+  {
+    "department": "Grocery",
+    "subcategories": [
+      {
+        "name": "All Grocery",
+        "url": "https://www.walmart.com/cp/food/976759?povid=GlobalNav_rWeb_Grocery_GroceryShopAll"
+      },
+      {
+        "name": "Recipes",
+        "url": "https://www.walmart.com/i/recipe-library?povid=GlobalNav_rWeb_Grocery_Grocery_Recipes"
+      },
+      {
+        "name": "Dinner Tonight",
+        "url": "https://www.walmart.com/cp/everyday-meals/5681029?povid=GlobalNav_rWeb_Grocery_Grocery_EverydayMeals"
+      },
+      {
+        "name": "International Food",
+        "url": "https://www.walmart.com/cp/international-food/7404240?povid=GlobalNav_rWeb_Grocery_SpecialtyShops_InternationalShop"
+      },
+      {
+        "name": "Fresh Produce",
+        "url": "https://www.walmart.com/cp/fresh-produce/976793?povid=GlobalNav_rWeb_Grocery_FreshProduce_ShopAll"
+      },
+      {
+        "name": "Meat & Seafood",
+        "url": "https://www.walmart.com/cp/meat-seafood/9569500?povid=GlobalNav_rWeb_Grocery_MeatSeafood_ShopAll"
+      },
+      {
+        "name": "Deli",
+        "url": "https://www.walmart.com/cp/deli/976789?povid=GlobalNav_rWeb_Grocery_Deli_ShopAll"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "https://www.walmart.com/cp/dairy-eggs/9176907?povid=GlobalNav_rWeb_Grocery_DairyEggs_ShopAll"
+      },
+      {
+        "name": "Bakery & Bread",
+        "url": "https://www.walmart.com/cp/bakery-bread/976779?povid=GlobalNav_rWeb_Grocery_BakeryBread_ShopAll"
+      },
+      {
+        "name": "Frozen",
+        "url": "https://www.walmart.com/cp/frozen-foods/976791?povid=GlobalNav_rWeb_Grocery_Frozen_ShopAll"
+      },
+      {
+        "name": "Pantry",
+        "url": "https://www.walmart.com/cp/pantry/976794?povid=GlobalNav_rWeb_Grocery_Pantry_ShopAll"
+      },
+      {
+        "name": "Breakfast & Cereal",
+        "url": "https://www.walmart.com/cp/breakfast-cereal/976783?povid=GlobalNav_rWeb_Grocery_BreakfastCereal_ShopAll"
+      },
+      {
+        "name": "Baking",
+        "url": "https://www.walmart.com/cp/baking/976780?povid=GlobalNav_rWeb_Grocery_Baking_ShopAll"
+      },
+      {
+        "name": "Snacks",
+        "url": "https://www.walmart.com/cp/snacks-cookies-chips/976787?povid=GlobalNav_rWeb_Grocery_Snacks_ShopAll"
+      },
+      {
+        "name": "Candy",
+        "url": "https://www.walmart.com/cp/candy/1096070?povid=GlobalNav_rWeb_Grocery_Candy_ShopAll"
+      },
+      {
+        "name": "Beverages",
+        "url": "https://www.walmart.com/cp/beverages/976782?povid=GlobalNav_rWeb_Grocery_Beverages_ShopAll"
+      },
+      {
+        "name": "Alcohol",
+        "url": "https://www.walmart.com/cp/alcohol/2975985?povid=GlobalNav_rWeb_Grocery_Alcohol_ShopAll"
+      }
+    ]
+  },
+  {
+    "department": "Pets",
+    "subcategories": [
+      {
+        "name": "All Pet Supplies",
+        "url": "https://www.walmart.com/cp/pets/5440?povid=GlobalNav_rWeb_Pets_PetSupplies_AllPetSupplies"
+      },
+      {
+        "name": "Pet Profiles",
+        "url": "https://www.walmart.com/account/pet-hub?povid=GlobalNav_rWeb_Pets_PetSupplies_PetProfiles"
+      },
+      {
+        "name": "Pet Prescriptions",
+        "url": "https://www.walmart.com/cp/8328098?povid=GlobalNav_rWeb_Pets_PetSupplies_PetPharmacy"
+      },
+      {
+        "name": "Dog Supplies",
+        "url": "https://www.walmart.com/cp/dogs/202072?povid=GlobalNav_rWeb_Pets_PetSupplies_DogCP"
+      },
+      {
+        "name": "Dog Food",
+        "url": "https://www.walmart.com/browse/pets/dog-food-and-treats/5440_202072_6432755?povid=GlobalNav_rWeb_Pets_PetSupplies_DogFood"
+      },
+      {
+        "name": "Dog Toys",
+        "url": "https://www.walmart.com/browse/pets/all-dog-toys/5440_202072_2243339_202086?povid=GlobalNav_rWeb_Pets_PetSupplies_DogToys"
+      },
+      {
+        "name": "Cat Supplies",
+        "url": "https://www.walmart.com/cp/cats/202073?povid=Globalnav_rweb_Pets_PetSupplies_CatCP"
+      },
+      {
+        "name": "Cat Food",
+        "url": "https://www.walmart.com/browse/pets/cat-food/5440_202073_1749780?povid=Globalnav_rweb_Pets_PetSupplies_CatFood"
+      },
+      {
+        "name": "Cat Toys",
+        "url": "https://www.walmart.com/browse/pets/all-cat-toys/5440_202073_2584809_1920023?povid=GlobalNav_rWeb_Pets_PetSupplies_CatToys"
+      },
+      {
+        "name": "Fish & Aquatic Pets",
+        "url": "https://www.walmart.com/cp/fish-supplies/202074?povid=Globalnav_rweb_Pets_PetSupplies_FishCP"
+      },
+      {
+        "name": "Farm Animals",
+        "url": "https://www.walmart.com/cp/farm-animals/4024509?povid=Globalnav_rweb_Pets_PetSupplies_FarmAnimalCP"
+      },
+      {
+        "name": "Small Animals",
+        "url": "https://www.walmart.com/cp/small-animals/1001299?povid=Globalnav_rweb_Pets_PetSupplies_SmallAnimalCP"
+      },
+      {
+        "name": "Reptiles",
+        "url": "https://www.walmart.com/cp/reptiles/6833286?povid=Globalnav_rweb_Pets_PetSupplies_ReptileCP"
+      },
+      {
+        "name": "Birds",
+        "url": "https://www.walmart.com/cp/birds/228734?povid=Globalnav_rweb_Pets_PetSupplies_BirdCP"
+      }
+    ]
+  },
+  {
+    "department": "Personal Care",
+    "subcategories": [
+      {
+        "name": "All Personal Care",
+        "url": "https://www.walmart.com/cp/personal-care/1005862?povid=GlobalNav_rWeb_PersonalCare_3.19"
+      },
+      {
+        "name": "Bath and Body",
+        "url": "https://www.walmart.com/cp/bath-body/1071969?povid=GlobalNav_rWeb_PersonalCare_BathBody_3.19"
+      },
+      {
+        "name": "Deodorant",
+        "url": "https://www.walmart.com/browse/personal-care/deodorants-antiperspirants/1005862_1001487?povid=GlobalNav_rWeb_PersonalCare_deodorant_3.19"
+      },
+      {
+        "name": "Oral Care",
+        "url": "https://www.walmart.com/cp/oral-care/1007221?povid=GlobalNav_rWeb_PersonalCare_OralCare_3.19"
+      },
+      {
+        "name": "Feminine Care",
+        "url": "https://www.walmart.com/cp/feminine-care/1091866?povid=GlobalNav_rWeb_PersonalCare_FeminineCare_3.19"
+      },
+      {
+        "name": "Incontinence",
+        "url": "https://www.walmart.com/cp/incontinence/1225655?povid=GlobalNav_rWeb_PersonalCare_Incontinence_3.19"
+      },
+      {
+        "name": "Men's Grooming",
+        "url": "https://www.walmart.com/cp/mens-essentials/1056884?povid=GlobalNav_rWeb_PersonalCare_mensgrooming_3.19"
+      },
+      {
+        "name": "Shave",
+        "url": "https://www.walmart.com/cp/shaving/1007220?povid=GlobalNav_rWeb_PersonalCare_Shave_3.19"
+      },
+      {
+        "name": "Sexual Wellness",
+        "url": "https://www.walmart.com/cp/sexual-wellness/1414629?povid=GlobalNav_rWeb_PersonalCare_sexualwellness_3.19"
+      },
+      {
+        "name": "Haircare",
+        "url": "https://www.walmart.com/cp/hair-care/1007219?povid=GlobalNav_rWeb_Beauty_Beauty_HairCare_051123"
+      },
+      {
+        "name": "Suncare & Tanning",
+        "url": "https://www.walmart.com/browse/beauty/facial-sunscreen/1085666_1007039_4046177?povid=Beauty_SkincareCP_Hubspokes_Shopbycategory_Suncare_081324"
+      }
+    ]
+  },
+  {
+    "department": "Auto & Tires",
+    "subcategories": [
+      {
+        "name": "All Auto & Tires",
+        "url": "https://www.walmart.com/cp/auto-tires/91083?povid=GlobalNav_rWeb_AutoTires_AutoandTires_ShopAllAutoandTires"
+      },
+      {
+        "name": "Tires & Installation",
+        "url": "https://www.walmart.com/cp/tires-accessories/1077064?povid=GlobalNav_rWeb_AutoTires_Tires_AllTires"
+      },
+      {
+        "name": "Batteries & Accessories",
+        "url": "https://www.walmart.com/cp/batteries-accessories/1104292?povid=GlobalNav_rWeb_AutoTires_BatteriesandAccessories"
+      },
+      {
+        "name": "Auto Parts & Accessories",
+        "url": "https://www.walmart.com/cp/automotive-replacement-parts/1074765?povid=GlobalNav_rWeb_AutoTires_AutoPartsAccessories_AllReplacementAutoParts"
+      },
+      {
+        "name": "Oil and Fluids",
+        "url": "https://www.walmart.com/cp/oils-fluids/1104294?povid=GlobalNav_rWeb_AutoTires_OilsandFluids_AllOilsandFluids"
+      },
+      {
+        "name": "Auto Detailing & Car Care",
+        "url": "https://www.walmart.com/cp/car-detailing/1212910?povid=GlobalNav_rWeb_AutoTires_AutoDetailingCarCare_AllAutoDetailingCarCare"
+      },
+      {
+        "name": "Automotive Tools & Equipment",
+        "url": "https://www.walmart.com/browse/auto-tires/automotive-tools-equipment/91083_5941050?povid=GlobalNav_rWeb_AutoTires_AutomotiveToolsEquipment_AllAutomotiveToolsEquipment"
+      },
+      {
+        "name": "Auto Electronics",
+        "url": "https://www.walmart.com/cp/auto-electronics/3947?povid=GlobalNav_rWeb_AutoTires_AutoElectronics_AllAutoElectronics"
+      },
+      {
+        "name": "Car Safety & Security",
+        "url": "https://www.walmart.com/browse/auto-tires/car-safety-car-security/91083_1074766?povid=GlobalNav_rWeb_AutoTires_CarSafetyCarSecurity_AllCarSafetyCarSecurity"
+      },
+      {
+        "name": "Vehicles",
+        "url": "https://www.walmart.com/browse/auto-tires/vehicles/91083_5320758?povid_GlobalNav_rWeb_AutoTires_Vehicles_ShopallVehicles"
+      },
+      {
+        "name": "Auto Care Center",
+        "url": "https://www.walmart.com/cp/auto-services/1087266?povid=GlobalNav_rWeb_AutoTires_AutoCareCenter_AutoCareCenterServices"
+      },
+      {
+        "name": "Tire Maintenance",
+        "url": "https://www.walmart.com/cp/tire-maintenance/2092391?povid=GlobalNav_rWeb_AutoTires_AutoCareCenter_TireMaintenance"
+      },
+      {
+        "name": "Schedule an Oil Change",
+        "url": "https://www.walmart.com/cp/oil-change-service/3304723?povid=GlobalNav_rWeb_AutoTires_AutoCareCenter_ScheduleOilChange"
+      }
+    ]
+  },
+  {
+    "department": "Party Supplies",
+    "subcategories": [
+      {
+        "name": "All Party Supplies",
+        "url": "https://www.walmart.com/cp/party-occasions/2637?povid=GlobalNav_rWeb_SeasonalPartySupplies_PartySupplies?povid=GlobalNav_rWeb_ETS_partysupplies_allpartysupplies"
+      },
+      {
+        "name": "Decorations & Kits",
+        "url": "https://www.walmart.com/browse/party-occasions/birthday-party-supplies/2637_8972913_8516046?povid=GlobalNav_rWeb_SeasonalPartySupplies_PartySupplies_PartyDecorations?povid=GlobalNav_rWeb_ETS_partysupplies_decorationskits"
+      },
+      {
+        "name": "Party Tableware",
+        "url": "https://www.walmart.com/browse/party-occasions/party-tableware/2637_1042319_1212904?povid=GlobalNav_rWeb_SeasonalPartySupplies_PartySupplies_PartyTableware?povid=GlobalNav_rWeb_ETS_partysupplies_partytableware"
+      },
+      {
+        "name": "Balloons",
+        "url": "https://www.walmart.com/browse/party-occasions/balloons/2637_1042319_1212898_3956207?povid=GlobalNav_rWeb_ETS_partysupplies_balloons"
+      },
+      {
+        "name": "Party Hats, Pinatas, & More",
+        "url": "https://www.walmart.com/cp/birthday-shop/8972913?povid=GlobalNav_rWeb_ETS_partysupplies_partyhatspinatasmore"
+      },
+      {
+        "name": "Party Favors",
+        "url": "https://www.walmart.com/browse/party-favors/2637_1042319_4922655?povid=GlobalNav_rWeb_ETS_partysupplies_partyfavors"
+      },
+      {
+        "name": "Gift Wrap & Bags",
+        "url": "https://www.walmart.com/browse/gift-wrap-supplies/wrapping-paper/2637_9402292_3028287?povid=GlobalNav_rWeb_ETS_partysupplies_giftwrapbags"
+      },
+      {
+        "name": "Greeting Cards",
+        "url": "https://www.walmart.com/browse/party-occasions/greeting-cards/2637_8304047?povid=GlobalNav_rWeb_ETS_partysupplies_greetingcards"
+      },
+      {
+        "name": "Personalized Cards & Gifts",
+        "url": "https://photos3.walmart.com/?povid=GlobalNav_rWeb_ETS_partysupplies_personalizedcardsgifts"
+      }
+    ]
+  },
+  {
+    "department": "Sports & Outdoors",
+    "subcategories": [
+      {
+        "name": "All Sports & Outdoors",
+        "url": "https://www.walmart.com/cp/sports-outdoors/4125?povid=GlobalNav_rWeb_SportsOutdoors_SportsOutdoors_ShopallSportsOutdoors"
+      },
+      {
+        "name": "Exercise & Fitness",
+        "url": "https://www.walmart.com/cp/exercise-and-fitness/4134?povid=GlobalNav_rWeb_SportsOutdoors_ExerciseFitness_ShopallExerciseFitness"
+      },
+      {
+        "name": "Sports",
+        "url": "https://www.walmart.com/cp/sports/4161?povid=GlobalNav_rWeb_SportsOutdoors_Sports_ShopallSports"
+      },
+      {
+        "name": "Outdoor Sports",
+        "url": "https://www.walmart.com/cp/outdoor-sports/546956?povid=GlobalNav_rWeb_SportsOutdoors_OutdoorSports_ShopallOutdoorSports"
+      },
+      {
+        "name": "Camping",
+        "url": "https://www.walmart.com/cp/camping-gear/4128?povid=GlobalNav_rWeb_SportsOutdoors_OutdoorSports_Camping"
+      },
+      {
+        "name": "Bikes",
+        "url": "https://www.walmart.com/cp/bikes/1081404?povid=GlobalNav_rWeb_SportsOutdoors_Bikes_ShopallBikes"
+      },
+      {
+        "name": "Games & Outdoor Recreation",
+        "url": "https://www.walmart.com/cp/recreation/1224931?povid=GlobalNav_rWeb_SportsOutdoors_Recreation_ShopallRecreation"
+      },
+      {
+        "name": "Pools, Hot Tubs & Supplies",
+        "url": "https://www.walmart.com/cp/swimming-pools-and-spas/132873?povid=GlobalNav_rWeb_SportsOutdoors_Recreation_PoolsHotTubsSupplies"
+      }
+    ]
+  },
+  {
+    "department": "School, Office & Art Supplies",
+    "subcategories": [
+      {
+        "name": "All School Supplies",
+        "url": "/cp/school-supplies/1086045?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Department_ShopAllSchoolSupplies"
+      },
+      {
+        "name": "Classroom Registry",
+        "url": "/cp/classroom-registry/2019567?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Featured_ClassroomRegistry"
+      },
+      {
+        "name": "Teacher's Classroom Shop",
+        "url": "/cp/teaching-classroom-supplies/3462603?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Featured_TeachersClassroomSupplies"
+      },
+      {
+        "name": "All Office Supplies",
+        "url": "/cp/office-supplies/1229749?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Department_ShopAllOfficeSupplies"
+      },
+      {
+        "name": "Shipping & Moving",
+        "url": "/cp/shipping-moving/2696828?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_OfficeSupplies_ShippingMoving"
+      },
+      {
+        "name": "All Arts, Crafts & Sewing",
+        "url": "/cp/arts-crafts-and-sewing/1334134?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Department_ShopAllArtsCraftsSewing"
+      },
+      {
+        "name": "Art Supplies",
+        "url": "/cp/art-supplies/5899871?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_ArtSupplies"
+      },
+      {
+        "name": "Crafting",
+        "url": "/cp/crafting/6172404?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_Crafting"
+      },
+      {
+        "name": "Fabric",
+        "url": "/cp/fabric/4232946?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_Fabric"
+      },
+      {
+        "name": "Sewing",
+        "url": "/cp/sewing/1094704?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_Sewing"
+      },
+      {
+        "name": "Walmart Business",
+        "url": "/cp/walmart-business/7810722?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Featured_WalmartBusiness"
+      }
+    ]
+  }
+]
