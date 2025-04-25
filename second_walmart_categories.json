@@ -1,0 +1,78 @@
+{
+  "template_type": "template_2",
+  "category_count": 12,
+  "categories": [
+    {
+      "source": "shop_by_category",
+      "name": "Commercial appliances",
+      "url": "https://business.walmart.com/browse/kitchen-supplies-food-service/shop-all-commercial-kitchen-appliances/1251162_1357291_2140851_1826639?povid=1826639_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "Cleaning products",
+      "url": "https://business.walmart.com/cp/cleaning-supplies/6094042?povid=6094042_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "TVs by size",
+      "url": "https://business.walmart.com/browse/4306450_7792866_7502717?povid=7502717_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "Waste management",
+      "url": "https://business.walmart.com/browse/janitorial/commercial-trash-cans/8398061_8230350_5849748?povid=5849748_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "POS systems",
+      "url": "https://business.walmart.com/browse/technology/shop-all-point-of-sale-items/4306450_7792866_3940652_3509325_3571425?povid=3571425_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "Medical & dental supplies",
+      "url": "https://business.walmart.com/cp/medical-dentist-office/2466764?povid=2466764_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "Breakroom",
+      "url": "https://business.walmart.com/cp/breakroom/2878340?povid=2878340_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "Office",
+      "url": "https://business.walmart.com/cp/office/9324698?povid=9324698_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "Janitorial",
+      "url": "https://business.walmart.com/cp/janitorial/8398061?povid=8398061_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "Facilities",
+      "url": "https://business.walmart.com/cp/facility/7322186?povid=7322186_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "Packing & shipping",
+      "url": "https://business.walmart.com/cp/packing-shipping/7833725?povid=7833725_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    },
+    {
+      "source": "shop_by_category",
+      "name": "Bulk ",
+      "url": "https://business.walmart.com/browse/featured-shops/shop-all-bulk/6928710_6342864_1817613?povid=1817613_WBlearnmore_shopbycategory_B2C_to_B2B",
+      "parent_category_name": "Walmart Business"
+    }
+  ]
+}

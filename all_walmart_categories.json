@@ -1,2682 +1,1260 @@
 {
   "template_type": "template_1",
-  "category_count": 446,
+  "category_count": 209,
   "categories": [
     {
+      "source": "categories4x4",
+      "name": "FabricLA",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/shop-all-fabric/1334134_4232946_1085270?facet=brand%3AFabricLA&povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Brand_BTF_FabricLA",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x4",
+      "name": "Waverly Inspirations",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/waverly-inspirations-fabric/1334134_4232946_2885751_3853159?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Brand_BTF_WaverlyInspirations",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x4",
+      "name": "Brother",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/brother-sewing-machines/1334134_2022582_4083068?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Brand_BTF_Brother",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x4",
+      "name": "Singer",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/singer/1334134_6868418?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Brand_BTF_6868418Singer",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x1",
+      "name": "Fabric by the yard",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/fabric-by-the-yard/1334134_4232946_4801237_3142339?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_ATF_FabricByTheYard",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x1",
+      "name": "Fabric by the bolt",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/fabric-by-the-bolt/1334134_4232946_4801237_1790841?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_ATF_FabricByTheBolt",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x1",
+      "name": "Precut fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/precut-fabric/1334134_4232946_4801237_3776967?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_ATF_PrecutFabric",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x1",
+      "name": "Fat quarters",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/fat-quarters/1334134_4232946_4801237_9189978?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_ATF_FatQuarters",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x1",
+      "name": "Sewing machines ",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/sewing-machines/1334134_4770?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_BTF_SewingMachines",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x1",
+      "name": "Notions & accessories",
+      "url": "https://www.walmart.com/browse/sewing/notions-sewing-accessories/1334134_1094704_1882256?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_BTF_NotionsAccessories",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x1",
+      "name": "Sewing patterns",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/shop-sewing-patterns/1334134_1094704_1095482_9468800?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_BTF_SewingPatterns",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categories4x1",
+      "name": "Shop all sewing",
+      "url": "https://www.walmart.com/cp/sewing/1094704?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_BTF_1094704Sewing",
+      "parent_category_name": "Fabric"
+    },
+    {
       "source": "top_nav_header",
-      "name": "Women",
-      "url": "https://www.walmart.com/cp/womens-clothing-apparel/133162?povid=FashionTopNav_Women_TopNav",
-      "parent_category_name": "Shoes"
+      "name": "Die-Cutting & Scrapbooking",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/die-cutting/1334134_3123463",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "categoryGroup",
-      "name": "Shop All",
-      "url": "https://www.walmart.com/cp/womens-clothing-apparel/133162?povid=FashionTopNav_Women_GetInspired",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Denim Shop",
-      "url": "https://www.walmart.com/cp/the-denim-shop/9468715?povid=FashionTopNav_Women_DenimShop",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Dress Edit",
-      "url": "https://www.walmart.com/cp/womens-dresses/3074670?povid=FashionTopNav_Women_DressEdit",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "The Festival Shop",
-      "url": "https://www.walmart.com/browse/clothing/concert-festival-outfits/5438_8412788_1988098_1398039?povid=FashionTopNav_Women_FestivalShop",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "New Arrivals",
-      "url": "https://www.walmart.com/shop/clothing-and-accessories/womens-new-arrivals?povid=FashionTopNav_Women_NewArrivals",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Pre-Loved Fashion for Her",
-      "url": "https://www.walmart.com/browse/clothing/pre-loved-womens-fashion/5438_1237667_3442613?povid=FashionTopNav_Women_Prelovedwomensfashion",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Spring Trends",
-      "url": "https://www.walmart.com/shop/womens-trends?povid=FashionTopNav_Women_SpringTrends",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "The Swim Shop",
-      "url": "https://www.walmart.com/browse/swim-shop/5438_1229269?povid=FashionTopNav_Women_Swimshop",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Virtual Try-On",
-      "url": "https://www.walmart.com/cp/virtual-try-on/4879497?povid=FashionTopNav_Women_VTO",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Wear to Work Shop",
-      "url": "https://www.walmart.com/browse/clothing/womens-workwear/5438_133162_4977442?povid=FashionTopNav_Women_WeartoWorkShop",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Featured Brands",
-      "url": "https://www.walmart.com/cp/fashion-brand-directory/3928184?povid=FashionTopNav_Women_Brands",
-      "parent_category": "Women"
+      "name": "Die Cutting",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/die-cutting/1334134_3123463?povid=HomeCPTN_ACS_DieCuttingScrapbooking_DieCutting",
+      "parent_category": "Die-Cutting & Scrapbooking"
     },
     {
       "source": "subCategoryGroup",
-      "name": "Joyspun",
-      "url": "https://www.walmart.com/cp/joyspun/8652177?povid=FashionTopNav_Women_Brands_Joyspun",
-      "parent_category": "Featured Brands"
+      "name": "Cricut",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/cricut/1334134_9799587?povid=HomeCPTN_ACS_DieCuttingScrapbooking_DieCutting_Cricut",
+      "parent_category": "Die Cutting"
     },
     {
       "source": "subCategoryGroup",
-      "name": "Lands' End",
-      "url": "https://www.walmart.com/browse/clothing/womens-lands-end/5438_3317124_2618113_6858757_3620111?povid=FashionTopNav_Women_Brands_LandsEnd",
-      "parent_category": "Featured Brands"
+      "name": "Die Cut Machines",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/die-cut-machines/1334134_3123463_3276179?povid=HomeCPTN_ACS_DieCuttingScrapbooking_DieCutting_DieCutMachines",
+      "parent_category": "Die Cutting"
     },
     {
       "source": "subCategoryGroup",
-      "name": "Love & Sports",
-      "url": "https://www.walmart.com/browse/clothing/love-sports/5438_3317124_6347057_8952650?povid=FashionTopNav_Women_Brands_Loveandsports",
-      "parent_category": "Featured Brands"
+      "name": "Die Cuts & Cartridges",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/die-cuts-cartridges/1334134_3123463_5444219?povid=HomeCPTN_ACS_DieCuttingScrapbooking_DieCutting_DieCutsandCartridges",
+      "parent_category": "Die Cutting"
     },
     {
       "source": "subCategoryGroup",
-      "name": "Scoop",
-      "url": "https://www.walmart.com/browse/clothing/scoop/5438_3317124_5800740_5589593?povid=FashionTopNav_Women_Brands_Scoop",
-      "parent_category": "Featured Brands"
+      "name": "Craft Vinyl",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/craft-vinyl/1334134_3123463_1745001?povid=HomeCPTN_ACS_DieCuttingScrapbooking_DieCutting_CraftVinyl",
+      "parent_category": "Die Cutting"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Oracal Vinyl",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/oracal-vinyl/1334134_3123463_1745001_3475846?povid=HomeCPTN_ACS_DieCuttingScrapbooking_DieCutting_OracalVinyl",
+      "parent_category": "Die Cutting"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Siser EasyWeed",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/siser-easyweed/1334134_3123463_1745001_3834876?povid=HomeCPTN_ACS_DieCuttingScrapbooking_DieCutting_SiserEasyWeed",
+      "parent_category": "Die Cutting"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Scrapbooking & Paper Crafts",
+      "url": "/browse/arts-crafts-sewing/scrapbooking/1334134_8495017?povid=HomeCPTN_ACS_DieCuttingScrapbooking_Scrapbooking",
+      "parent_category": "Die-Cutting & Scrapbooking"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Scrapbooking Kits",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/scrapbooking-kits/1334134_8495017_8505615?povid=HomeCPTN_ACS_DieCuttingScrapbooking_Scrapbooking_ScrapbookingKits",
+      "parent_category": "Scrapbooking & Paper Crafts"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Scrapbooking Embellishments",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/scrapbooking-embellishments/1334134_8495017_8268489?povid=HomeCPTN_ACS_DieCuttingScrapbooking_Scrapbooking_ScrapbookingEmbellishments",
+      "parent_category": "Scrapbooking & Paper Crafts"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Paper Crafting",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/paper-crafting/1334134_6172404_4854691?povid=HomeCPTN_ACS_DieCuttingScrapbooking_Scrapbooking_PaperCrafting",
+      "parent_category": "Scrapbooking & Paper Crafts"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Card Making",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/card-making/1334134_6172404_4854691_2291474?povid=HomeCPTN_ACS_DieCuttingScrapbooking_Scrapbooking_CardMaking",
+      "parent_category": "Scrapbooking & Paper Crafts"
+    },
+    {
+      "source": "top_nav_header",
+      "name": "Fabric & Sewing",
+      "url": "https://www.walmart.com/cp/sewing/1094704",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Fabric",
+      "url": "/cp/fabric/4232946?povid=HomeCPTN_ACS_FabricSewing_Fabric",
+      "parent_category": "Fabric & Sewing"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Apparel Fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/apparel-fabric/1334134_4232946_3934882_4794118?povid=HomeCPTN_ACS_FabricSewing_Fabric_ApparelFabric",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Quilting Fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/quilting-fabric/1334134_4232946_3934882_7357482?povid=HomeCPTN_ACS_FabricSewing_Fabric_QuiltingFabric",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Home Decor Fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/home-decor-fabric/1334134_4232946_3934882_6430801?povid=HomeCPTN_ACS_FabricSewing_Fabric_HomeDecorFabric",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Outdoor Fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/outdoor-fabric/1334134_4232946_3934882_7608699?povid=HomeCPTN_ACS_FabricSewing_Fabric_OutdoorFabric",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Cotton Fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/cotton-fabric/1334134_4232946_5038673_3524436?povid=HomeCPTN_ACS_FabricSewing_Fabric_CottonFabric",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Fabric by the bolt",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/fabric-by-the-bolt/1334134_4232946_4801237_1790841?povid=HomeCPTN_ACS_FabricSewing_Fabric_Fabricbythebolt",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Fleece Fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/fleece-fabric/1334134_4232946_5038673_6855639?povid=HomeCPTN_ACS_FabricSewing_Fabric_FleeceFabric",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Tulle Fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/tulle-fabric/1334134_4232946_5038673_2350634?povid=HomeCPTN_ACS_FabricSewing_Fabric_TulleFabric",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Burlap & Jute Fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/burlap-jute-fabric/1334134_4232946_5038673_6318276?povid=HomeCPTN_ACS_FabricSewing_Fabric_BurlapJuteFabric",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Lace Fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/lace-fabric/1334134_4232946_5038673_1560249?povid=HomeCPTN_ACS_FabricSewing_Fabric_LaceFabric",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Canvas Fabric",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/canvas-fabric/1334134_4232946_5038673_3931811?povid=HomeCPTN_ACS_FabricSewing_Fabric_CanvasFabric",
+      "parent_category": "Fabric"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Sewing",
+      "url": "https://www.walmart.com/cp/sewing/1094704?povid=HomeCPTN_ACS_Sewing",
+      "parent_category": "Fabric & Sewing"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sewing Machines",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/sewing-machines/1334134_4770?povid=HomeCPTN_ACS_FabricSewing_Sewing_SewingMachines",
+      "parent_category": "Sewing"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sewing Thread",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/sewing-thread/1334134_1094704_1882256_5763365?povid=HomeCPTN_ACS_FabricSewing_Sewing_SewingThread",
+      "parent_category": "Sewing"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sewing Tables",
+      "url": "/browse/arts-crafts-sewing/sewing-tables/1334134_1094704_1030599?HomeCPTN_ACS_SewingMachineThreads_SewingTables",
+      "parent_category": "Sewing"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sewing Kits",
+      "url": "/browse/arts-crafts-sewing/sewing-kits/1334134_1094704_1285621?HomeCPTN_ACS_SewingMachineThreads_SewingKits",
+      "parent_category": "Sewing"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sewing Scissors",
+      "url": "/browse/sewing-cutting-tools/sewing-scissors-shears/1334134_1094704_4161439_3812425?HomeCPTN_ACS_SewingMachineThreads_SewingScissors",
+      "parent_category": "Sewing"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Dress Forms & Mannequins",
+      "url": "/browse/sewing/dress-forms-mannequins/1334134_1094704_4482863?HomeCPTN_ACS_SewingMachineThreads_DressFormsMannequins",
+      "parent_category": "Sewing"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "All sewing supplies & notions",
+      "url": "/browse/arts-crafts-sewing/shop-all-notions-sewing-accessories/1334134_1094704_1882256_3303234?HomeCPTN_ACS_SewingMachineThreads_Notions",
+      "parent_category": "Sewing"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Trims & Embellishments",
+      "url": "/browse/arts-crafts-sewing/shop-ribbons-trim-embellishments/1334134_1094704_5620176_8064015?povid=HomeCPTN_ACS_FabricSewing_TrimsEmbellishments",
+      "parent_category": "Fabric & Sewing"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Ribbon",
+      "url": "/browse/arts-crafts-sewing/ribbons/1334134_1094704_5620176_7297629?povid=HomeCPTN_ACS_FabricSewing_TrimsEmbellishments_Ribbons",
+      "parent_category": "Trims & Embellishments"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Lace",
+      "url": "/browse/arts-crafts-sewing/lace/1334134_1094704_5620176_6973296?povid=HomeCPTN_ACS_FabricSewing_TrimsEmbellishments_Lace",
+      "parent_category": "Trims & Embellishments"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Rhinestones",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/rhinestones/1334134_1094704_5620176_7168113?povid=HomeCPTN_ACS_FabricSewing_TrimsEmbellishments_Rhinestones",
+      "parent_category": "Trims & Embellishments"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sewing Patches & Appliques",
+      "url": "/browse/arts-crafts-sewing/sewing-patches-appliques/1334134_1094704_1882256_8649453?povid=HomeCPTN_ACS_FabricSewing_TrimsEmbellishments_SewingPatchesAppliques",
+      "parent_category": "Trims & Embellishments"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Fills & Foams",
+      "url": "/browse/arts-crafts-sewing/fills-foam-and-pillow-forms/1334134_1094704_6363668?povid=HomeCPTN_ACS_FabricSewing_Sewing_FillsFoams",
+      "parent_category": "Trims & Embellishments"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Notions & Sewing Accessories",
+      "url": "/browse/arts-crafts-sewing/shop-all-notions-sewing-accessories/1334134_1094704_1882256_3303234?povid=HomeCPTN_ACS_ShopAll_NotionsAccessories",
+      "parent_category": "Fabric & Sewing"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sewing Fasteners",
+      "url": "/browse/arts-crafts-sewing/sewing-fasteners/1334134_1094704_1882256_4388053?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_SewingFasteners",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Bobbins",
+      "url": "/browse/arts-crafts-sewing/bobbins/1334134_1094704_1882256_1583062?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_Bobbins",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Needles & Thimbles",
+      "url": "/browse/arts-crafts-sewing/hand-sewing-needles-thimbles/1334134_1094704_1882256_1318830?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_NeedlesThimbles",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Elastic",
+      "url": "/browse/arts-crafts-sewing/elastic/1334134_1094704_1882256_7511123?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_Elastic",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sewing Tools",
+      "url": "/browse/arts-crafts-sewing/sewing-tools/1334134_1094704_1882256_4311430?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_SewingTools",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Hem Tape",
+      "url": "/browse/arts-crafts-sewing/hem-tape/1334134_1094704_1882256_1106135?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_HemTape",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Pins & Pincushions",
+      "url": "/browse/arts-crafts-sewing/pins-pincushions/1334134_1094704_1882256_8931866?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_PinsPincushions",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Bias Tape",
+      "url": "/browse/arts-crafts-sewing/bias-tape/1334134_1094704_1882256_6575096?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_BiasTape",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Needle Threaders",
+      "url": "/browse/arts-crafts-sewing/needle-threaders/1334134_1094704_1882256_9287485?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_NeedleThreaders",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Acrylic & Quilting Rulers",
+      "url": "/browse/arts-crafts-sewing/acrylic-quilting-rulers/1334134_1094704_1882256_3444517?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_AcrylicQuiltingRulers",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Marking, Measuring & Tracing Tools",
+      "url": "/browse/arts-crafts-sewing/marking-measuring-tracing-tools/1334134_1094704_1882256_8124358?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_MarkingMeasuringTracingTools",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Bonding & Stabilizers",
+      "url": "/browse/arts-crafts-sewing/bonding-stabilizers/1334134_1094704_1882256_3978099?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_BondingStabilizers",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Other Notions",
+      "url": "/browse/arts-crafts-sewing/other-notions/1334134_1094704_1882256_2770520?povid=HomeCPTN_ACS_FabricSewing_NotionsAccessories_OtherNotions",
+      "parent_category": "Notions & Sewing Accessories"
+    },
+    {
+      "source": "top_nav_header",
+      "name": "Kids' Crafts",
+      "url": "/browse/arts-crafts-for-kids/4171_645779",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Art Supplies",
+      "url": "/cp/art-supplies/5899871?povid=HomeCPTN_ACS_KidsCrafts_ArtSupplies",
+      "parent_category": "Kids' Crafts"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Drawing & Coloring",
+      "url": "/browse/toys/drawing-coloring/4171_645779_613041?povid=HomeCPTN_ACS_KidsCrafts_ArtSupplies_Drawing",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Kids' Art Easels & Stations",
+      "url": "/browse/toys/kid-art-easels-stations/4171_645779_1103012?povid=HomeCPTN_ACS_KidsCrafts_ArtSupplies_KidsEasels",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Paint & Paint Supplies",
+      "url": "/browse/toys/childrens-paint-paint-supplies/4171_645779_9646901?povid=HomeCPTN_ACS_KidsCrafts_ArtSupplies_PaintSupplies",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sketch Tablets",
+      "url": "/browse/toys/sketch-doodle-tablets/4171_645779_6408170?povid=HomeCPTN_ACS_KidsCrafts_ArtSupplies_SketchTablets",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Kids' Activity Tables",
+      "url": "/browse/toys/kids-activity-tables/4171_645779_7092794?povid=HomeCPTN_ACS_KidsCrafts_ArtSupplies_ActivityTables",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Kids' Craft Kits",
+      "url": "/browse/toys/craft-kits/4171_645779_613040?povid=HomeCPTN_ACS_KidsCrafts_CraftKits",
+      "parent_category": "Kids' Crafts"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Craft Supplies",
+      "url": "/browse/craft-supplies/basic-craft-supplies/1334134_6172404_8479577_6432282?povid=HomeCPTN_ACS_KidsCrafts_CraftKits_CraftSupplies",
+      "parent_category": "Kids' Craft Kits"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Jewelry Making Kits",
+      "url": "/browse/arts-crafts-for-kids/kids-jewelry-making-kits/4171_645779_9564789?povid=HomeCPTN_ACS_KidsCrafts_CraftKits_JewelryKits",
+      "parent_category": "Kids' Craft Kits"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Kids' Sewing Machines",
+      "url": "/browse/toys/kids-sewing-machines/4171_645779_7661732?povid=HomeCPTN_ACS_KidsCrafts_CraftKits_KidsSewingMachines",
+      "parent_category": "Kids' Craft Kits"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Knitting & Weaving Kits",
+      "url": "/browse/toys/knitting-weaving-kits/4171_645779_8985243?povid=HomeCPTN_ACS_KidsCrafts_CraftKits_KnittingKits",
+      "parent_category": "Kids' Craft Kits"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Quilting & Sewing Kits",
+      "url": "/browse/toys/quilting-sewing-kits/4171_645779_6317337?povid=HomeCPTN_ACS_KidsCrafts_CraftKits_QuiltingKits",
+      "parent_category": "Kids' Craft Kits"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Painting Kits",
+      "url": "/browse/arts-crafts-sewing/kids-painting-kits-for-kids-crafts/1334134_5899871_7445675_3565471?povid=HomeCPTN_ACS_KidsCrafts_CraftKits_PaintingKits",
+      "parent_category": "Kids' Craft Kits"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Kids' Craft Projects",
+      "url": "/browse/arts-crafts-for-kids/4171_645779?povid=HomeCPTN_ACS_KidsCrafts_KidsProjects",
+      "parent_category": "Kids' Crafts"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Play-Doh",
+      "url": "/browse/toys/play-dough/4171_645779_9285153_613042?povid=HomeCPTN_ACS_KidsCrafts_KidsProjects_PlayDoh",
+      "parent_category": "Kids' Craft Projects"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Kinetic Sand",
+      "url": "/browse/toys/play-sand/4171_645779_9285153_9734670?povid=HomeCPTN_ACS_KidsCrafts_KidsProjects_KineticSand",
+      "parent_category": "Kids' Craft Projects"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Easy-Bake Oven",
+      "url": "/browse/toys/easy-bake-oven/4171_645779_3071057_1527924?povid=HomeCPTN_ACS_KidsCrafts_KidsProjects_EasyBakeOven",
+      "parent_category": "Kids' Craft Projects"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Tie Dye",
+      "url": "/browse/arts-crafts-sewing/tie-dye/1334134_6172404_3659773_5620058?povid=HomeCPTN_ACS_KidsCrafts_KidsProjects_TieDye",
+      "parent_category": "Kids' Craft Projects"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Slime",
+      "url": "/browse/how-to-make-slime/diy-slime-kits/4171_645779_2165088_6010655?povid=HomeCPTN_ACS_KidsCrafts_KidsProjects_Slime",
+      "parent_category": "Kids' Craft Projects"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Hair, Nail & Spa Toys",
+      "url": "/browse/toys/hair-nail-spa-toys/4171_645779_2990448?povid=HomeCPTN_ACS_KidsCrafts_KidsProjects_HairNailToys",
+      "parent_category": "Kids' Craft Projects"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Toys & Crafts by Age",
+      "url": "/browse/toys/arts-crafts-for-kids?povid=HomeCPTN_ACS_KidsCrafts_ByAge",
+      "parent_category": "Kids' Crafts"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Age 2-4 years",
+      "url": "/browse/arts-crafts-for-kids/4171_645779?facet=age_range_general%3A2+to+4+Years&povid=HomeCPTN_ACS_KidsCrafts_ByAge_2to4",
+      "parent_category": "Toys & Crafts by Age"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Age 5-7 years",
+      "url": "/browse/toys/arts-crafts-for-kids/4171_645779?facet=age_range_general%3A5+to+7+Years&povid=HomeCPTN_ACS_KidsCrafts_ByAge_5to7",
+      "parent_category": "Toys & Crafts by Age"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Age 8-11 years",
+      "url": "/browse/toys/arts-crafts-for-kids/4171_645779?facet=age_range_general%3A8+to+11+Years&povid=HomeCPTN_ACS_KidsCrafts_ByAge_8to11",
+      "parent_category": "Toys & Crafts by Age"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Age 12+ years",
+      "url": "/browse/toys/arts-crafts-for-kids/4171_645779?facet=age_range_general%3A12+Years+%26+Up&povid=HomeCPTN_ACS_KidsCrafts_ByAge_12up",
+      "parent_category": "Toys & Crafts by Age"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Toy Deals",
+      "url": "/shop/deals/toys?povid=HomeCPTN_ACS_KidsCrafts_ToyDeals",
+      "parent_category": "Kids' Crafts"
+    },
+    {
+      "source": "top_nav_header",
+      "name": "Arts & Crafts Supplies",
+      "url": "/cp/crafting/6172404",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Art Supplies",
+      "url": "/cp/art-supplies/5899871?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies",
+      "parent_category": "Arts & Crafts Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Art Sets",
+      "url": "/browse/art-supplies/art-sets/1334134_5899871_7148292?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_ArtSets",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Art & Drawing Markers",
+      "url": "/browse/art-supplies/art-drawing-markers/1334134_5899871_9862357?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_Markers",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sketching Pencils",
+      "url": "/browse/art-supplies/art-drawing-sketching-pencils/1334134_5899871_8703361?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_SketchingPencils",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Charcoal Pencils",
+      "url": "/browse/arts-crafts-sewing/charcoal-pencils/1334134_5899871_8703361_8272602?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_CharcoalPencils",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Art Pastels",
+      "url": "/browse/arts-crafts-sewing/art-pastels/1334134_5899871_1350721_2411642?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_ArtPastels",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Acrylic Paint",
+      "url": "/browse/arts-crafts-sewing/acrylic-paints/1334134_5899871_7445675_5577403_8242343?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_AcrylicPaint",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Watercolors",
+      "url": "/browse/arts-crafts-sewing/water-colors/1334134_5899871_7445675_5577403_6107122?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_Watercolors",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Oil Paints",
+      "url": "/browse/arts-crafts-sewing/oil-paints/1334134_5899871_7445675_5577403_3396583?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_OilPaints",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Art Canvases",
+      "url": "/browse/arts-crafts-sewing/art-canvas-boards-painting-surfaces/1334134_5899871_6153803?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_ArtCanvases",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Art Brushes",
+      "url": "/browse/arts-crafts-sewing/art-brushes/1334134_5899871_7445675_3423381?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_ArtBrushes",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sketchbooks & Paper Pads",
+      "url": "/browse/arts-crafts-sewing/art-sketchbooks-paper-pads/1334134_5899871_9677556?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_Sketchbooks",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Ceramics",
+      "url": "/browse/art-supplies/ceramics-molding-sculpting/1334134_5899871_6883794?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ArtSupplies_Ceramics",
+      "parent_category": "Art Supplies"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Craft Supplies",
+      "url": "/cp/crafting/6172404?povid=HomeCPTN_ACS_ArtsCraftsSupplies_CraftSupplies",
+      "parent_category": "Arts & Crafts Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Popsicle Sticks & Dowels",
+      "url": "/browse/arts-crafts-sewing/popsicle-sticks-dowels/1334134_6172404_8479577_6432282_6957814?povid=HomeCPTN_ACS_ArtsCraftsSupplies_CraftSupplies_PopsicleSticks",
+      "parent_category": "Craft Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Glitter",
+      "url": "/browse/arts-crafts-sewing/glitter/1334134_6172404_8479577_6432282_1456277?povid=HomeCPTN_ACS_ArtsCraftsSupplies_CraftSupplies_Glitter",
+      "parent_category": "Craft Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Pom Poms",
+      "url": "/browse/arts-crafts-sewing/pom-poms/1334134_6172404_8479577_6432282_9892964?povid=HomeCPTN_ACS_ArtsCraftsSupplies_CraftSupplies_Pompoms",
+      "parent_category": "Craft Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Pipe Cleaners",
+      "url": "/browse/arts-crafts-sewing/pipe-cleaners/1334134_6172404_8479577_6432282_6775807?povid=HomeCPTN_ACS_ArtsCraftsSupplies_CraftSupplies_Pipecleaners",
+      "parent_category": "Craft Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Googly Eyes",
+      "url": "/browse/arts-crafts-sewing/wiggle-eyes/1334134_6172404_8479577_6432282_2824137?povid=HomeCPTN_ACS_ArtsCraftsSupplies_CraftSupplies_GooglyEyes",
+      "parent_category": "Craft Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Craft Sand",
+      "url": "/browse/arts-crafts-sewing/craft-sand/1334134_6172404_8479577_6432282_2523122?povid=HomeCPTN_ACS_ArtsCraftsSupplies_CraftSupplies_CraftSand",
+      "parent_category": "Craft Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Fills & Foam",
+      "url": "/browse/arts-crafts-sewing/fills-foam-and-pillow-forms/1334134_1094704_6363668?povid=HomeCPTN_ACS_ArtsCraftsSupplies_CraftSupplies_FillsFoam",
+      "parent_category": "Craft Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Hot Glue Guns",
+      "url": "/browse/arts-crafts-sewing/hot-glue-guns/1334134_6172404_7141830?povid=HomeCPTN_ACS_ArtsCraftsSupplies_CraftSupplies_HotGlueGuns",
+      "parent_category": "Craft Supplies"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Apparel Crafting",
+      "url": "/browse/crafting/fabric-apparel-crafting/1334134_6172404_3659773?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ApparelCrafting",
+      "parent_category": "Arts & Crafts Supplies"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Fabric Dyes",
+      "url": "/browse/arts-crafts-sewing/fabric-dyes/1334134_6172404_3659773_5484010?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ApparelCrafting_FabricDyes",
+      "parent_category": "Apparel Crafting"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Tie Dye Kits",
+      "url": "/browse/arts-crafts-sewing/tie-dye/1334134_6172404_3659773_5620058?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ApparelCrafting_TieDyeKits",
+      "parent_category": "Apparel Crafting"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Heat Press Machines",
+      "url": "/browse/arts-crafts-sewing/heat-press-machines/1334134_6172404_3659773_2213895?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ApparelCrafting_HeatPressMachines",
+      "parent_category": "Apparel Crafting"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Fabric Paint",
+      "url": "/browse/arts-crafts-sewing/fabric-paint/1334134_6172404_3659773_7214717?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ApparelCrafting_FabricPaint",
+      "parent_category": "Apparel Crafting"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Fabric Markers",
+      "url": "/browse/arts-crafts-sewing/fabric-markers/1334134_6172404_3659773_6212938?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ApparelCrafting_FabricMarkers",
+      "parent_category": "Apparel Crafting"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Fabric Glue",
+      "url": "/browse/arts-crafts-sewing/fabric-glue/1334134_6172404_3659773_9952212?povid=HomeCPTN_ACS_ArtsCraftsSupplies_ApparelCrafting_FabricGlue",
+      "parent_category": "Apparel Crafting"
+    },
+    {
+      "source": "top_nav_header",
+      "name": "Yarn & Needlework",
+      "url": "/browse/arts-crafts-sewing/knitting-crochet/1334134_4880989",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Yarn",
+      "url": "/browse/arts-crafts-sewing/shop-all-yarn/1334134_7780827_1095481?povid=HomeCPTN_ACS_YarnNeedlework_Yarn",
+      "parent_category": "Yarn & Needlework"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Knitting Yarn",
+      "url": "/browse/arts-crafts-sewing/knitting-yarn/1334134_7780827_6819026?povid=HomeCPTN_ACS_KnittingCrochet_Yarn_KnittingYarn",
+      "parent_category": "Yarn"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Crochet Yarn",
+      "url": "/browse/arts-crafts-sewing/crochet-yarn/1334134_7780827_8705261?povid=HomeCPTN_ACS_KnittingCrochet_Yarn_CrochetYarn",
+      "parent_category": "Yarn"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Cotton Yarn",
+      "url": "/browse/arts-crafts-sewing/cotton-yarn/1334134_7780827_4376304?povid=HomeCPTN_ACS_KnittingCrochet_Yarn_CottonYarn",
+      "parent_category": "Yarn"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Acrylic Yarn",
+      "url": "/browse/arts-crafts-sewing/acrylic-yarn/1334134_7780827_8833843?povid=HomeCPTN_ACS_KnittingCrochet_Yarn_AcrylicYarn",
+      "parent_category": "Yarn"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Wool Yarn",
+      "url": "/browse/arts-crafts-sewing/wool-yarn/1334134_7780827_4578856?povid=HomeCPTN_ACS_KnittingCrochet_Yarn_WoolYarn",
+      "parent_category": "Yarn"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Chunky Yarn",
+      "url": "/browse/arts-crafts-sewing/chunky-yarn/1334134_7780827_8903385?povid=HomeCPTN_ACS_KnittingCrochet_Yarn_ChunkyYarn",
+      "parent_category": "Yarn"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Chenille Yarn",
+      "url": "/browse/arts-crafts-sewing/chenille-yarn/1334134_7780827_9978554?povid=HomeCPTN_ACS_YarnNeedlework_Yarn_ChenilleYarn",
+      "parent_category": "Yarn"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Loop Yarn",
+      "url": "/browse/arts-crafts-sewing/loop-yarn/1334134_7780827_8046505?povid=HomeCPTN_ACS_KnittingCrochet_Yarn_LoopYarn",
+      "parent_category": "Yarn"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Yarn in Bulk",
+      "url": "/browse/arts-crafts-sewing/yarn/1334134_7780827?povid=HomeCPTN_ACS_KnittingCrochet_Yarn_YarninBulk",
+      "parent_category": "Yarn"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Crochet Thread",
+      "url": "/browse/arts-crafts-sewing/crochet-thread/1334134_4880989_2338162?povid=HomeCPTN_ACS_KnittingCrochet_CrochetThread",
+      "parent_category": "Yarn & Needlework"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Tools & Accessories",
+      "url": "/browse/arts-crafts-sewing/knitting-crochet/1334134_4880989?povid=HomeCPTN_ACS_YarnNeedlework_KnittingCrochet",
+      "parent_category": "Yarn & Needlework"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Knitting Needles",
+      "url": "/browse/knitting-crochet/knitting-needles/1334134_4880989_9407238?povid=HomeCPTN_ACS_KnittingCrochet_Tools_KnittingNeedles",
+      "parent_category": "Tools & Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Knitting Patterns & Books",
+      "url": "/browse/books/knitting-books/3920_582361_2256620_6775110?povid=HomeCPTN_ACS_KnittingCrochet_Tools_KnittingPatterns",
+      "parent_category": "Tools & Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Knitting Looms & Boards",
+      "url": "/browse/arts-crafts-sewing/knitting-looms-boards/1334134_4880989_6727372?povid=HomeCPTN_ACS_KnittingCrochet_Tools_KnittingLooms",
+      "parent_category": "Tools & Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Knitting Tools & Supplies",
+      "url": "/browse/arts-crafts-sewing/knitting-tools-supplies/1334134_4880989_3031053?povid=HomeCPTN_ACS_KnittingCrochet_Tools_KnittingTools",
+      "parent_category": "Tools & Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Knitting Kits",
+      "url": "/browse/arts-crafts-sewing/knitting-kits/1334134_4880989_1555046?povid=HomeCPTN_ACS_KnittingCrochet_Tools_KnittingKits",
+      "parent_category": "Tools & Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Crochet Hooks",
+      "url": "/browse/arts-crafts-sewing/knitting-crochet/1334134_4880989?povid=HomeCPTN_ACS_KnittingCrochet_Tools_CrochetHooks",
+      "parent_category": "Tools & Accessories"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Crochet Kits",
+      "url": "/browse/arts-crafts-sewing/crochet-kits/1334134_4880989_7926808?povid=HomeCPTN_ACS_KnittingCrochet_Tools_CrochetKit",
+      "parent_category": "Tools & Accessories"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Embroidery & Needlecraft",
+      "url": "/browse/arts-crafts-sewing/shop-all-needlepoint-embroidery/1334134_1094704_7741860_5754829?povid=HomeCPTN_ACS_YarnNeedlework_EmbroideryNeedlecraft",
+      "parent_category": "Yarn & Needlework"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Embroidery Floss",
+      "url": "/browse/arts-crafts-sewing/embroidery-floss/1334134_1094704_7741860_9317546?povid=HomeCPTN_ACS_YarnNeedlework_EmbroideryNeedlecraft_EmbroideryFloss",
+      "parent_category": "Embroidery & Needlecraft"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Embroidery Kits",
+      "url": "/browse/arts-crafts-sewing/embroidery-kits/1334134_1094704_7741860_1272414?povid=HomeCPTN_ACS_YarnNeedlework_EmbroideryNeedlecraft_EmbroideryKits",
+      "parent_category": "Embroidery & Needlecraft"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Needlework Hoops",
+      "url": "/browse/arts-crafts-sewing/needlework-hoops/1334134_1094704_7741860_5627882_7148470?povid=HomeCPTN_ACS_YarnNeedlework_EmbroideryNeedlecraft_NeedleworkHoops",
+      "parent_category": "Embroidery & Needlecraft"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Cross Stitch Kits",
+      "url": "/browse/arts-crafts-sewing/cross-stitch-kits/1334134_1094704_7741860_5627882_6237493?povid=HomeCPTN_ACS_YarnNeedlework_EmbroideryNeedlecraft_CrossStitchKits",
+      "parent_category": "Embroidery & Needlecraft"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Cross Stitch Aida Cloth",
+      "url": "/browse/arts-crafts-sewing/cross-stitch-aida-cloth/1334134_1094704_7741860_5627882_6272650?povid=HomeCPTN_ACS_YarnNeedlework_EmbroideryNeedlecraft_CrossStitchAidaCloth",
+      "parent_category": "Embroidery & Needlecraft"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Latch & Locker Hooking",
+      "url": "/browse/arts-crafts-sewing/latch-locker-hooking/1334134_1094704_7741860_7422800?povid=HomeCPTN_ACS_YarnNeedlework_EmbroideryNeedlecraft_LatchLockerHooking",
+      "parent_category": "Embroidery & Needlecraft"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Brands",
+      "url": "/browse/arts-crafts-sewing/knitting-crochet/1334134_4880989?povid=HomeCPTN_ACS_YarnNeedlework_Brands_Shopall",
+      "parent_category": "Yarn & Needlework"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Red Heart Yarn",
+      "url": "/browse/arts-crafts-sewing/red-heart-yarn/1334134_7780827_5574668?povid=HomeCPTN_ACS_KnittingCrochet_Brands_RedHeart",
+      "parent_category": "Brands"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Lion Brand",
+      "url": "/browse/arts-crafts-sewing/lion-brand-yarn/1334134_7780827_4187035?povid=HomeCPTN_ACS_YarnNeedlework_Brands_LionBrand",
+      "parent_category": "Brands"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Bernat",
+      "url": "/browse/arts-crafts-sewing/bernat-yarn/1334134_7780827_9963462?povid=HomeCPTN_ACS_YarnNeedlework_Brands_Bernat",
+      "parent_category": "Brands"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Caron",
+      "url": "/browse/arts-crafts-sewing/caron-yarn/1334134_7780827_5417191_4418696?povid=HomeCPTN_ACS_KnittingCrochet_Brands_Caron",
+      "parent_category": "Brands"
+    },
+    {
+      "source": "top_nav_header",
+      "name": "Craft Furniture & Storage",
+      "url": "/browse/arts-crafts-sewing/arts-crafts-furniture-and-storage/1334134_6355365",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Craft Furniture",
+      "url": "/browse/arts-crafts-sewing/craft-tables-craft-furniture/1334134_6355365_7824980?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftTablesFurniture",
+      "parent_category": "Craft Furniture & Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Craft Tables",
+      "url": "/browse/arts-crafts-sewing/craft-tables/1334134_6355365_7824980_3688929?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftTablesFurniture_CraftTables",
+      "parent_category": "Craft Furniture"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sewing Tables",
+      "url": "/browse/arts-crafts-sewing/sewing-tables/1334134_1094704_1030599?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftTablesFurniture_SewingTables",
+      "parent_category": "Craft Furniture"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Activity Tables",
+      "url": "/browse/arts-crafts-sewing/activity-tables/1334134_6355365_7824980_3783536?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftTablesFurniture_ActivityTables",
+      "parent_category": "Craft Furniture"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Drafting Tables",
+      "url": "/browse/arts-crafts-sewing/drafting-tables/1334134_6355365_5190638?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftTablesFurniture_DraftingTables",
+      "parent_category": "Craft Furniture"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Drafting Chairs",
+      "url": "/browse/arts-crafts-sewing/drafting-chairs/1334134_6355365_7824980_2160385?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftTablesFurniture_DraftingChairs",
+      "parent_category": "Craft Furniture"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Arts & Crafts Lighting",
+      "url": "/browse/arts-crafts-sewing/lighting-for-arts-crafts/1334134_6355365_7824980_6886469?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftTablesFurniture_ACSLighting",
+      "parent_category": "Craft Furniture"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Craft Storage",
+      "url": "/browse/arts-crafts-sewing/craft-storage/1334134_6355365_1285843?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage",
+      "parent_category": "Craft Furniture & Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Art & Poster Tubes",
+      "url": "/browse/arts-crafts-sewing/art-poster-tubes/1334134_6355365_1285843_5979214?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage_PosterTubes",
+      "parent_category": "Craft Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Art Supplies Storage",
+      "url": "/browse/arts-crafts-sewing/art-supplies-storage/1334134_6355365_1285843_5634095?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage_ArtSuppliesStorage",
+      "parent_category": "Craft Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Art Tool & Sketch Boxes",
+      "url": "/browse/arts-crafts-sewing/art-tool-sketch-boxes/1334134_6355365_1285843_3783885?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage_SketchBoxes",
+      "parent_category": "Craft Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Artwork Portfolios",
+      "url": "/browse/arts-crafts-sewing/artwork-cases-portfolios/1334134_6355365_1285843_2788731?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage_Portfolios",
+      "parent_category": "Craft Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Beading Storage",
+      "url": "/browse/arts-crafts-sewing/beading-storage/1334134_4533160_9799323_3657789?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage_BeadingStorage",
+      "parent_category": "Craft Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Craft Storage Bags & Cases",
+      "url": "/browse/arts-crafts-sewing/craft-hobby-storage-bags-cases/1334134_6355365_1285843_1335039?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage_StorageCases",
+      "parent_category": "Craft Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Drying & Print Racks",
+      "url": "/browse/arts-crafts-sewing/drying-print-racks/1334134_6355365_1285843_2003622?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage_DryingRacks",
+      "parent_category": "Craft Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Scrapbooking Storage",
+      "url": "/browse/arts-crafts-sewing/scrapbooking-storage/1334134_6355365_9682755_7304880?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage_ScrapbookingStorage",
+      "parent_category": "Craft Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Sewing Storage",
+      "url": "/browse/arts-crafts-sewing/shop-all-sewing-storage/1334134_6355365_1285843_2491869_1407835?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage_SewingStorage",
+      "parent_category": "Craft Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Yarn & Needlework Storage",
+      "url": "/browse/arts-crafts-sewing/yarn-needlework-storage/1334134_6355365_1285843_2120333?povid=HomeCPTN_ACS_CraftFurnitureStorage_CraftStorage_YarnStorage",
+      "parent_category": "Craft Storage"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Artist Easels",
+      "url": "/browse/arts-crafts-sewing/art-easels/1334134_6355365_8733351_8783992?povid=HomeCPTN_ACS_CraftFurnitureStorage_ArtistEasels",
+      "parent_category": "Craft Furniture & Storage"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Easel Pads",
+      "url": "/browse/office-supplies/easel-pads/1229749_2408070_6922198?povid=HomeCPTN_ACS_CraftFurnitureStorage_ArtistEasels_EaselPads",
+      "parent_category": "Artist Easels"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Kids' Easels",
+      "url": "/browse/toys/kid-art-easels-stations/4171_645779_1103012?povid=HomeCPTN_ACS_CraftFurnitureStorage_ArtistEasels_KidsEasels",
+      "parent_category": "Artist Easels"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Standing Easels",
+      "url": "/browse/arts-crafts-sewing/standing-easels/1334134_6355365_8733351_7692732?povid=HomeCPTN_ACS_CraftFurnitureStorage_ArtistEasels_StandingEasels",
+      "parent_category": "Artist Easels"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Table Easels",
+      "url": "/browse/arts-crafts-sewing/table-easels/1334134_6355365_8733351_2810097?povid=HomeCPTN_ACS_CraftFurnitureStorage_ArtistEasels_TableEasels",
+      "parent_category": "Artist Easels"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Wooden Easels",
+      "url": "/browse/arts-crafts-sewing/wooden-easels/1334134_6355365_8733351_1828590?povid=HomeCPTN_ACS_CraftFurnitureStorage_ArtistEasels_WoodenEasels",
+      "parent_category": "Artist Easels"
+    },
+    {
+      "source": "top_nav_header",
+      "name": "Brands & Craftings Ideas",
+      "url": "/cp/crafting-ideas/6077448",
+      "parent_category_name": "Fabric"
+    },
+    {
+      "source": "categoryGroup",
+      "name": "Top Craft Brands",
+      "url": "/cp/arts-crafts-and-sewing/1334134?povid=HomeCPTN_ACS_BrandsIdeas",
+      "parent_category": "Brands & Craftings Ideas"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Cricut",
+      "url": "/browse/arts-crafts-sewing/cricut/1334134_9799587?povid=HomeCPTN_ACS_BrandsIdeas_Brands_Cricut",
+      "parent_category": "Top Craft Brands"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Brother",
+      "url": "/browse/arts-crafts-sewing/brother/1334134_2022582?povid=HomeCPTN_ACS_BrandsIdeas_Brands_Brother",
+      "parent_category": "Top Craft Brands"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Damask Love",
+      "url": "/browse/arts-crafts-sewing/damask-love/1334134_9015215?povid=HomeCPTN_ACS_BrandsIdeas_Brands_DamaskLove",
+      "parent_category": "Top Craft Brands"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Singer",
+      "url": "/browse/arts-crafts-sewing/singer-heavy-duty-sewing-machines/1334134_6868418_9584570?povid=HomeCPTN_ACS_BrandsIdeas_Brands_Singer",
+      "parent_category": "Top Craft Brands"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Smarts & Crafts",
+      "url": "/cp/smarts-crafts/8842494?povid=HomeCPTN_ACS_BrandsIdeas_Brands_SmartsCrafts",
+      "parent_category": "Top Craft Brands"
+    },
+    {
+      "source": "subCategoryGroup",
+      "name": "Hello Hobby",
+      "url": "/cp/hello-hobby/4096169?povid=HomeCPTN_ACS_BrandsIdeas_Brands_HelloHobby",
+      "parent_category": "Top Craft Brands"
     },
     {
       "source": "subCategoryGroup",
       "name": "The Pioneer Woman",
-      "url": "https://www.walmart.com/browse/clothing/the-pioneer-woman-fashion/5438_3317124_6674614?povid=FashionTopNav_Women_Brands_PioneerWoman",
-      "parent_category": "Featured Brands"
+      "url": "/browse/arts-crafts-sewing/the-pioneer-woman-fabric-sewing/1334134_9429373?povid=HomeCPTN_ACS_BrandsIdeas_Brands_ThePioneerWoman",
+      "parent_category": "Top Craft Brands"
     },
     {
       "source": "categoryGroup",
-      "name": "Women's Clothing",
-      "url": "https://www.walmart.com/browse/clothing/women/5438_133162?povid=FashionTopNav_Women_Clothing_All",
-      "parent_category": "Women"
+      "name": "Crafting Ideas",
+      "url": "/cp/crafting-ideas/6077448?povid=HomeCPTN_ACS_BrandsIdeas_CraftingIdeas",
+      "parent_category": "Brands & Craftings Ideas"
     },
     {
       "source": "subCategoryGroup",
-      "name": "Activewear",
-      "url": "https://www.walmart.com/browse/clothing/womens-activewear/5438_133162_3554910?povid=FashionTopNav_Women_Clothing_Activewear",
-      "parent_category": "Women's Clothing"
+      "name": "DIY Floral",
+      "url": "/browse/speciality-crafts-hobbies/floral-arranging/1334134_6172404_5753260_7814131?povid=HomeCPTN_ACS_BrandsIdeas_CraftingIdeas_Floral",
+      "parent_category": "Crafting Ideas"
     },
     {
       "source": "subCategoryGroup",
-      "name": "Bras, Panties & Lingerie",
-      "url": "https://www.walmart.com/cp/womens-bras-panties-lingerie/3523459?povid=FashionTopNav_Women_Clothing_Intimates",
-      "parent_category": "Women's Clothing"
+      "name": "Tie-Dye",
+      "url": "/browse/arts-crafts-sewing/tie-dye/1334134_6172404_3659773_5620058?povid=HomeCPTN_ACS_BrandsIdeas_CraftingIdeas_TieDye",
+      "parent_category": "Crafting Ideas"
     },
     {
       "source": "subCategoryGroup",
-      "name": "Coats & Jackets",
-      "url": "https://www.walmart.com/browse/clothing/womens-coats-jackets/5438_133162_163847?povid=FashionTopNav_Women_Clothing_Coats",
-      "parent_category": "Women's Clothing"
+      "name": "Friendship Bracelets",
+      "url": "/browse/arts-crafts-sewing/jewelry-making-kits/1334134_4533160_4974817?povid=HomeCPTN_ACS_BrandsIdeas_CraftingIdeas_FriendshipBracelets",
+      "parent_category": "Crafting Ideas"
     },
     {
       "source": "subCategoryGroup",
-      "name": "Dresses",
-      "url": "https://www.walmart.com/browse/clothing/womens-dresses/5438_133162_3074670_538874?povid=FashionTopNav_Women_Clothing_Dresses",
-      "parent_category": "Women's Clothing"
+      "name": "Knitting Kits",
+      "url": "/browse/arts-crafts-sewing/knitting-kits/1334134_4880989_1555046?povid=HomeCPTN_ACS_BrandsIdeas_CraftingIdeas_KnittingKits",
+      "parent_category": "Crafting Ideas"
     },
     {
-      "source": "subCategoryGroup",
-      "name": "Jeans",
-      "url": "https://www.walmart.com/browse/clothing/womens-jeans/5438_133162_3193312?povid=FashionTopNav_Women_Clothing_Jeans",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Outfit Sets",
-      "url": "https://www.walmart.com/browse/clothing/womens-two-piece-sets/5438_133162_3848717?povid=FashionTopNav_Women_Clothing_OutfitSets",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pajamas & Loungewear",
-      "url": "https://www.walmart.com/cp/womens-pajamas-loungewear/5358743?povid=FashionTopNav_Women_Clothing_Pajamas",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pants & Capris",
-      "url": "https://www.walmart.com/browse/clothing/womens-pants-leggings/5438_133162_1360952?povid=FashionTopNav_Women_Clothing_Pants",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Scrubs",
-      "url": "https://www.walmart.com/cp/scrubs/6824908?povid=FashionTopNav_Women_Clothing_Scrubs",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shorts",
-      "url": "https://www.walmart.com/browse/clothing/womens-shorts/5438_133162_8865361?povid=FashionTopNav_Women_Clothing_Shorts",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Skirts",
-      "url": "https://www.walmart.com/browse/clothing/womens-skirts/5438_133162_1199488?povid=FashionTopNav_Women_Clothing_Skirts",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Socks, Hosiery & Tights",
-      "url": "https://www.walmart.com/browse/clothing/womens-socks-hosiery-tights/5438_133162_5155182_7615574?povid=FashionTopNav_Women_Clothing_Socks",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweaters",
-      "url": "https://www.walmart.com/browse/clothing/womens-sweaters/5438_133162_1199498?povid=FashionTopNav_Women_Clothing_Sweaters",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweatshirts & Hoodies",
-      "url": "https://www.walmart.com/browse/clothing/womens-sweatshirts-hoodies/5438_133162_8956587?povid=FashionTopNav_Women_Clothing_Sweatshirts",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Swimsuits",
-      "url": "https://www.walmart.com/browse/clothing/womens-swimsuits/5438_133162_2106553?povid=FashionTopNav_Women_Clothing_Swim",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Thermals",
-      "url": "https://www.walmart.com/browse/clothing/womens-thermal-underwear/5438_133162_6230483?povid=FashionTopNav_Women_Clothing_Thermals",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Tops",
-      "url": "https://www.walmart.com/browse/clothing/womens-tops-t-shirts/5438_133162_2290732?povid=FashionTopNav_Women_Clothing_Tops",
-      "parent_category": "Women's Clothing"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Maternity Clothing",
-      "url": "https://www.walmart.com/cp/maternity-clothing/133284?povid=FashionTopNav_Women_Maternity",
-      "parent_category": "Women"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Women's Plus Clothing",
-      "url": "https://www.walmart.com/browse/womens-plus/5438_133195?povid=FashionTopNav_Women_Plus",
-      "parent_category": "Women"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Activewear",
-      "url": "https://www.walmart.com/browse/clothing/womens-plus-activewear/5438_133195_9397775?povid=FashionTopNav_Women_Plus_Activewear",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Bras, Panties & Lingerie",
-      "url": "https://www.walmart.com/cp/womens-bras-panties-lingerie/3523459?povid=FashionTopNav_Women_Plus_Intimates",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Coats & Jackets",
-      "url": "https://www.walmart.com/browse/clothing/plus-size-coats/5438_133195_9948206_163854?povid=FashionTopNav_Women_Plus_Coats",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dresses",
-      "url": "https://www.walmart.com/browse/clothing/plus-size-dresses/5438_133195_9917949_1218833?povid=FashionTopNav_Women_Plus_Dresses",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jeans",
-      "url": "https://www.walmart.com/browse/clothing/plus-size-jeans/5438_133195_9244024?povid=FashionTopNav_Women_Plus_Jeans",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pajamas & Loungewear",
-      "url": "https://www.walmart.com/cp/womens-pajamas-loungewear/5358743?povid=FashionTopNav_Women_Plus_Pajamas",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pants & Capris",
-      "url": "https://www.walmart.com/browse/clothing/womens-plus-pants-leggings/5438_133195_1446268?povid=FashionTopNav_Women_Plus_Pants",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Scrubs",
-      "url": "https://www.walmart.com/cp/scrubs/6824908?povid=FashionTopNav_Women_Plus_Scrubs",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shorts",
-      "url": "https://www.walmart.com/browse/plus-size-shorts/5438_133195_7837678?povid=FashionTopNav_Women_Plus_Shorts",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Skirts",
-      "url": "https://www.walmart.com/browse/clothing/womens-plus-skirts/5438_133195_1218834?povid=FashionTopNav_Women_Plus_Skirts",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Socks, Hosiery & Tights",
-      "url": "https://www.walmart.com/browse/clothing/womens-socks-hosiery-tights/5438_133162_5155182_7615574?povid=FashionTopNav_Women_Plus_Socks",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweaters",
-      "url": "https://www.walmart.com/browse/clothing/womens-plus-sweaters/5438_133195_1218839?povid=FashionTopNav_Women_Plus_Sweaters",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweatshirts & Hoodies",
-      "url": "https://www.walmart.com/browse/clothing/womens-plus-sweatshirts-hoodies/5438_133195_9717508?povid=FashionTopNav_Women_Plus_Sweatshirts",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Swimsuits",
-      "url": "https://www.walmart.com/browse/clothing/womens-plus-swimsuits/5438_133195_4746724?povid=FashionTopNav_Women_Plus_Swim",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Thermals",
-      "url": "https://www.walmart.com/browse/clothing/womens-plus-thermals/5438_133195_4593173?povid=FashionTopNav_Women_Plus_Thermals",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Tops",
-      "url": "https://www.walmart.com/browse/clothing/womens-plus-tops-t-shirts/5438_133195_1228775?povid=FashionTopNav_Women_Plus_Tops",
-      "parent_category": "Women's Plus Clothing"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shoes",
-      "url": "https://www.walmart.com/browse/clothing/womens-shoes/5438_1045804_1045806_163925?povid=FashionTopNav_Women_Shoes_All",
-      "parent_category": "Women"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Boots",
-      "url": "https://www.walmart.com/browse/clothing/womens-boots/5438_1045804_1045806_3142010_1228542?povid=FashionTopNav_Women_Shoes_Boots",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Comfort Shoes",
-      "url": "https://www.walmart.com/browse/clothing/womens-comfort-shoes/5438_1045804_1045806_5451765_4720327?povid=FashionTopNav_Women_Shoes_Comfort",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dress Shoes",
-      "url": "https://www.walmart.com/browse/clothing/womens-dress-shoes/5438_1045804_1045806_7783731_1228546?povid=FashionTopNav_Women_Shoes_Dress",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Flats",
-      "url": "https://www.walmart.com/browse/clothing/flats/5438_1045804_1045806_3339745_3039811?povid=FashionTopNav_Women_Shoes_Flats",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Heels",
-      "url": "https://www.walmart.com/browse/clothing/heels/5438_1045804_1045806_5393351_8196845?povid=FashionTopNav_Women_Shoes_Heels",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Mules & Slides",
-      "url": "https://www.walmart.com/browse/clothing/mules/5438_1045804_1045806_4414146?povid=FashionTopNav_Women_Shoes_Mules",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Loafers",
-      "url": "https://www.walmart.com/browse/clothing/womens-loafers/5438_1045804_1045806_8875986_9165963?povid=FashionTopNav_Women_Shoes_Oxfords",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sandals",
-      "url": "https://www.walmart.com/browse/clothing/womens-sandals/5438_1045804_1045806_9015567_1228547?povid=FashionTopNav_Women_Shoes_Sandals",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Slippers",
-      "url": "https://www.walmart.com/browse/clothing/womens-slippers/5438_1045804_1045806_1816473_1228543?povid=FashionTopNav_Women_Shoes_Slippers",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sneakers",
-      "url": "https://www.walmart.com/browse/clothing/womens-sneakers/5438_1045804_1045806_9160743_4477679?povid=FashionTopNav_Women_Shoes_Sneakers",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wedges",
-      "url": "https://www.walmart.com/browse/clothing/wedges/5438_1045804_1045806_5665555?povid=FashionTopNav_Women_Shoes_Wedges",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wide Width",
-      "url": "https://www.walmart.com/browse/clothing/womens-wide-shoes/5438_1045804_1045806_2382013?povid=FashionTopNav_Women_Shoes_WideWidth",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Work Boots",
-      "url": "https://www.walmart.com/browse/clothing/womens-work-boots/5438_1045804_1045806_5879881_1228544?povid=FashionTopNav_Women_Shoes_Work",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Jewelry & Watches",
-      "url": "https://www.walmart.com/browse/jewelry/womens-jewelry-watches/3891_8709006?povid=FashionTopNav_Women_Jewelry_All",
-      "parent_category": "Women"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Body Jewelry",
-      "url": "https://www.walmart.com/browse/jewelry/body-jewelry/3891_1030159_1971239?povid=FashionTopNav_Women_Jewelry_Body",
-      "parent_category": "Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Bracelets & Charms",
-      "url": "https://www.walmart.com/browse/jewelry/womens-bracelets-charms/3891_8709006_9465826_5463702?povid=FashionTopNav_Women_Jewelry_Bracelets",
-      "parent_category": "Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Earrings",
-      "url": "https://www.walmart.com/browse/jewelry/womens-earrings/3891_8709006_9465826_7033694_6429678?povid=FashionTopNav_Women_Jewelry_Earrings",
-      "parent_category": "Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Necklaces & Pendants",
-      "url": "https://www.walmart.com/browse/jewelry/womens-necklaces-pendants/3891_8709006_9465826_9558004?povid=FashionTopNav_Women_Jewelry_Necklaces",
-      "parent_category": "Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Rings",
-      "url": "https://www.walmart.com/browse/jewelry/womens-rings/3891_8709006_9465826_2268227_3568479?povid=FashionTopNav_Women_Jewelry_Rings",
-      "parent_category": "Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Watches",
-      "url": "https://www.walmart.com/browse/jewelry/womens-watches/3891_8709006_3089886?povid=FashionTopNav_Women_Jewelry_Watches",
-      "parent_category": "Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wedding & Engagement Rings",
-      "url": "https://www.walmart.com/browse/jewelry/all-wedding-engagement-rings/3891_540912_1716093?povid=FashionTopNav_Women_Jewelry_Wedding",
-      "parent_category": "Jewelry & Watches"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Handbags & Accessories",
-      "url": "https://www.walmart.com/browse/clothing/womens-bags-accessories/5438_1045799_6614250_4448790?povid=FashionTopNav_Women_Accessories_All",
-      "parent_category": "Women"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Backpacks",
-      "url": "https://www.walmart.com/browse/clothing/womens-backpacks/5438_1045799_6614250_6504054_4546049?povid=FashionTopNav_Women_Accessories_Backpacks",
-      "parent_category": "Handbags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Belts",
-      "url": "https://www.walmart.com/browse/clothing/womens-belts/5438_1045799_6614250_2773875_7265378?povid=FashionTopNav_Women_Accessories_Belts",
-      "parent_category": "Handbags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hair Accessories",
-      "url": "https://www.walmart.com/browse/clothing/hair-accessories/5438_1045799_6614250_2773875_6885315_1280222?povid=FashionTopNav_Women_Accessories_Hair",
-      "parent_category": "Handbags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Handbags",
-      "url": "https://www.walmart.com/browse/clothing/womens-bags/5438_1045799_6614250_6504054_8525451?povid=FashionTopNav_Women_Accessories_Handbags",
-      "parent_category": "Handbags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hats",
-      "url": "https://www.walmart.com/browse/clothing/womens-hats/5438_1045799_6614250_2773875_6617138_4859483_3416484?povid=FashionTopNav_Women_Accessories_Hats",
-      "parent_category": "Handbags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sunglasses",
-      "url": "https://www.walmart.com/browse/clothing/womens-sunglasses/5438_1045799_6614250_8110970?povid=FashionTopNav_Women_Accessories_Sunglasses",
-      "parent_category": "Handbags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wallets & Card Cases",
-      "url": "https://www.walmart.com/browse/clothing/womens-wallets-card-cases/5438_1045799_6614250_6504054_6832780?povid=FashionTopNav_Women_Accessories_Wallets",
-      "parent_category": "Handbags & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories?povid=FashionTopNav_Women_Deals_ShopAll",
-      "parent_category": "Women"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Women's Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/womens?povid=FashionTopNav_Women_Deals_Women",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Women's Plus Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/womens/womens-clothing/womens-plus?povid=FashionTopNav_Women_Deals_WomensPlus",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Savings $15 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/womens/womens-clothing/under-15?povid=FashionTopNav_Women_Deals_Under15",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "top_nav_header",
-      "name": "Men",
-      "url": "https://www.walmart.com/cp/mens-clothing/133197?povid=FashionTopNav_Men_TopNav",
-      "parent_category_name": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shop All",
-      "url": "https://www.walmart.com/cp/mens-clothing/133197?povid=FashionTopNav_Men_GetInspired",
-      "parent_category": "Men"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Denim Shop",
-      "url": "https://www.walmart.com/cp/the-denim-shop/9468715?povid=FashionTopNav_Men_DenimShop",
-      "parent_category": "Men"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "The Festival Shop",
-      "url": "https://www.walmart.com/browse/clothing/concert-festival-outfits/5438_8412788_1988098_1398039?povid=FashionTopNav_Men_FestivalShop",
-      "parent_category": "Men"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "New Arrivals",
-      "url": "https://www.walmart.com/shop/clothing-and-accessories/mens-new-arrivals?povid=FashionTopNav_Men_NewArrivals",
-      "parent_category": "Men"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Pre-Loved Fashion for Him",
-      "url": "https://www.walmart.com/browse/clothing/pre-loved-mens-fashion/5438_1237667_9667865?povid=FashionTopNav_Men_Prelovedmensfashion",
-      "parent_category": "Men"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Sports Fan Shop",
-      "url": "https://www.walmart.com/cp/sports-fan-shop/1063984?povid=FashionTopNav_Men_SportsFanShop",
-      "parent_category": "Men"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "The Swim Shop",
-      "url": "https://www.walmart.com/browse/clothing/mens-swimwear/5438_133197_7692040_163874?povid=FashionTopNav_Men_Swimshop",
-      "parent_category": "Men"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Workwear Shop",
-      "url": "https://www.walmart.com/cp/workwear-shop/9360765?povid=FashionTopNav_Men_WorkwearShop",
-      "parent_category": "Men"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Featured Brands",
-      "url": "https://www.walmart.com/cp/fashion-brand-directory/3928184?povid=FashionTopNav_Men_Brands",
-      "parent_category": "Men"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Athletic Works",
-      "url": "https://www.walmart.com/browse/clothing/athletic-works-mens/5438_3317124_8741485_6443577?povid=FashionTopNav_Men_Brands_AthleticWorks",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Chaps",
-      "url": "https://www.walmart.com/browse/chaps/men-s-chaps/5438_3317124_2300169_9627145?povid=FashionTopNav_Men_Brands_Chaps",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Free Assembly",
-      "url": "https://www.walmart.com/browse/clothing/free-assembly-mens/5438_3317124_3377730_4336593_8168451?povid=FashionTopNav_Men_Brands_FA",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "George",
-      "url": "https://www.walmart.com/browse/5438_3317124_8129564?povid=FashionTopNav_Men_Brands_George",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Lands' End",
-      "url": "https://www.walmart.com/browse/clothing/men/5438_3317124_2618113_4593311?povid=FashionTopNav_Men_Brands_LandsEnd",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Reebok",
-      "url": "https://www.walmart.com/browse/clothing/reebok-mens/5438_3317124_7352100_9187448?povid=FashionTopNav_Men_Brands_Reebok",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Men's Clothing",
-      "url": "https://www.walmart.com/browse/clothing/men/5438_133197_5162252?povid=FashionTopNav_Men_Clothing_All",
-      "parent_category": "Men"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Activewear",
-      "url": "https://www.walmart.com/browse/mens-clothing/mens-activewear/5438_133197_1589613_592999?povid=FashionTopNav_Men_Clothing_Activewear",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Business Casual",
-      "url": "https://www.walmart.com/browse/mens-clothing/mens-business-casual/5438_133197_6362509?povid=FashionTopNav_Men_Clothing_BusinessCasual",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Coats & Jackets",
-      "url": "https://www.walmart.com/browse/mens-coats-and-jackets/5438_133197_5585888_9469516?povid=FashionTopNav_Men_Clothing_CoatsJackets",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hoodies & Sweatshirts",
-      "url": "https://www.walmart.com/browse/clothing/mens-hoodies-sweatshirts/5438_133197_4546464_5375608?povid=FashionTopNav_Men_Clothing_SweatshirtsHoodies",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jeans",
-      "url": "https://www.walmart.com/browse/mens-jeans/5438_133197_6127105_1224674?povid=FashionTopNav_Men_Clothing_Jeans",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pajamas & Robes",
-      "url": "https://www.walmart.com/browse/mens-clothing/mens-pajamas-robes/5438_133197_3346427_489816?povid=FashionTopNav_Men_Clothing_PajamasRobes",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pants",
-      "url": "https://www.walmart.com/browse/clothing/mens-pants/5438_133197_6041621_1224675?povid=FashionTopNav_Men_Clothing_Pants",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Scrubs",
-      "url": "https://www.walmart.com/browse/clothing/mens-work-scrubs/5438_6824908_8201806?povid=FashionTopNav_Men_Clothing_Scrubs",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shirts",
-      "url": "https://www.walmart.com/browse/mens-shirts/5438_133197_6286551_8039293?povid=FashionTopNav_Men_Clothing_Shirts",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shorts",
-      "url": "https://www.walmart.com/browse/clothing/mens-shorts/5438_133197_7361660_1224677?povid=FashionTopNav_Men_Clothing_Shorts",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Socks",
-      "url": "https://www.walmart.com/browse/clothing/mens-socks/5438_133197_4033504?povid=FashionTopNav_Men_Clothing_Socks",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Suits",
-      "url": "https://www.walmart.com/browse/mens-suits/5438_133197_8220242?povid=FashionTopNav_Men_Clothing_Suits",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweaters",
-      "url": "https://walmart.com/browse/clothing/mens-sweaters/5438_133197_5281276_1224678?povid=FashionTopNav_Men_Clothing_Sweaters",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Swimsuits",
-      "url": "https://www.walmart.com/browse/clothing/mens-swimwear/5438_133197_7692040_163874?povid=FashionTopNav_Men_Clothing_Swimwear",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Undershirts",
-      "url": "https://www.walmart.com/browse/clothing/mens-undershirts/5438_133197_5049011?povid=FashionTopNav_Men_Clothing_Undershirts",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Underwear",
-      "url": "https://www.walmart.com/browse/clothing/mens-underwear/5438_133197_7832280_3954495?povid=FashionTopNav_Men_Clothing_Underwear",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Workwear",
-      "url": "https://www.walmart.com/browse/mens-clothing/mens-workwear/5438_133197_2375443_1224681?povid=FashionTopNav_Men_Clothing_Workwear",
-      "parent_category": "Men's Clothing"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Big & Tall Clothing",
-      "url": "https://www.walmart.com/browse/clothing/big-tall/5438_133198_8657076?povid=FashionTopNav_Men_BigTall_All",
-      "parent_category": "Men"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Activewear",
-      "url": "https://www.walmart.com/browse/clothing/big-tall-activewear/5438_133198_8347690_593005?povid=FashionTopNav_Men_BigTall_Activewear",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Coats & Jackets",
-      "url": "https://www.walmart.com/browse/clothing/big-tall-coats-jackets/5438_133198_6761304_2844518?povid=FashionTopNav_Men_BigTall_CoatsJackets",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hoodies & Sweatshirts",
-      "url": "https://www.walmart.com/browse/clothing/mens-hoodies-sweatshirts/5438_133197_4546464_5375608?povid=FashionTopNav_Men_BigTall_SweatshirtsHoodies",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jeans",
-      "url": "https://www.walmart.com/browse/clothing/big-tall-jeans/5438_133198_4292182_8656149?povid=FashionTopNav_Men_BigTall_Jeans",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pants",
-      "url": "https://www.walmart.com/browse/clothing/mens-big-tall-pants/5438_133198_7974696?povid=FashionTopNav_Men_BigTall_Pants",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shirts",
-      "url": "https://www.walmart.com/browse/clothing/big-tall-shirts/5438_133198_8984622_5419028?povid=FashionTopNav_Men_BigTall_Shirts",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shorts",
-      "url": "https://www.walmart.com/browse/big-and-tall-shorts/5438_133198_5396581_1224685?povid=FashionTopNav_Men_BigTall_Shorts",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sleepwear & Robes",
-      "url": "https://www.walmart.com/browse/big-tall/mens-big-tall-sleepwear-robes/5438_133198_7081294_538914?povid=FashionTopNav_Men_BigTall_Pajamas",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Socks",
-      "url": "https://www.walmart.com/browse/clothing/big-tall-socks/5438_133198_9987772?povid=FashionTopNav_Men_BigTall_Socks",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Suits",
-      "url": "https://www.walmart.com/browse/clothing/big-and-tall-suits/5438_133198_7213922_1228680?povid=FashionTopNav_Men_BigTall_Suits",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweaters",
-      "url": "https://www.walmart.com/browse/clothing/big-tall-sweaters/5438_133198_3218685?povid=FashionTopNav_Men_BigTall_Sweaters",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Swimsuits",
-      "url": "https://www.walmart.com/browse/big-and-tall-swimwear/5438_133198_5270021_163862?povid=FashionTopNav_Men_BigTall_Swimwear",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Undershirts",
-      "url": "https://www.walmart.com/browse/clothing/big-tall-undershirts/5438_133198_8962556?povid=FashionTopNav_Men_BigTall_Undershirts",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Underwear",
-      "url": "https://www.walmart.com/browse/clothing/big-tall-underwear/5438_133198_8549592?povid=FashionTopNav_Men_BigTall_Underwear",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Workwear",
-      "url": "https://www.walmart.com/browse/big-and-tall-occupational-and-workwear/5438_133198_7948018?povid=FashionTopNav_Men_BigTall_Workwear",
-      "parent_category": "Big & Tall Clothing"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shoes",
-      "url": "https://www.walmart.com/browse/clothing/mens-shoes/5438_1045804_1045807_426207?povid=FashionTopNav_Men_Shoes_All",
-      "parent_category": "Men"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Boots",
-      "url": "https://www.walmart.com/browse/clothing/mens-boots/5438_1045804_1045807_1746788_1228549?povid=FashionTopNav_Men_Shoes_Boots",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Comfort Shoes",
-      "url": "https://www.walmart.com/browse/clothing/mens-comfort-shoes/5438_1045804_1045807_7671149_8749406?povid=FashionTopNav_Men_Shoes_Comfort",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dress Shoes",
-      "url": "https://www.walmart.com/browse/clothing/mens-dress-shoes/5438_1045804_1045807_2375051_1228553?povid=FashionTopNav_Men_Shoes_Dress",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hunting Boots",
-      "url": "https://www.walmart.com/browse/sports-outdoors/hunting-boots/4125_546956_4155_4363790_5147193?povid=FashionTopNav_Men_Shoes_HuntingBoots",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Loafers",
-      "url": "https://www.walmart.com/browse/clothing/mens-loafers/5438_1045804_1045807_7207488_4948740?povid=FashionTopNav_Men_Shoes_Loafers",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Oxfords",
-      "url": "https://www.walmart.com/browse/clothing/mens-oxfords/5438_1045804_1045807_1978029?povid=FashionTopNav_Men_Shoes_Oxfords",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sandals",
-      "url": "https://www.walmart.com/browse/clothing/mens-sandals/5438_1045804_1045807_2388079_1228554?povid=FashionTopNav_Men_Shoes_Sandals",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Slip-ons & Boat Shoes",
-      "url": "https://www.walmart.com/browse/clothing/mens-slip-on-shoes/5438_1045804_1045807_2857006_7972856?povid=FashionTopNav_Men_Shoes_SlipOns",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Slippers",
-      "url": "https://www.walmart.com/browse/clothing/mens-slippers/5438_1045804_1045807_8820449_1228550?povid=FashionTopNav_Men_Shoes_Slippers",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sneakers",
-      "url": "https://www.walmart.com/browse/clothing/mens-sneakers/5438_1045804_1045807_3383528_5334257?povid=FashionTopNav_Men_Shoes_Sneakers",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wide Width",
-      "url": "https://www.walmart.com/browse/clothing/mens-wide-shoes/5438_1045804_1045807_8222941?povid=FashionTopNav_Men_Shoes_WideWidth",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Work Boots",
-      "url": "https://www.walmart.com/browse/clothing/mens-work-boots/5438_1045804_1045807_1935180_5243010?povid=FashionTopNav_Men_Shoes_Work",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Jewelry & Watches",
-      "url": "https://www.walmart.com/browse/jewelry/mens-jewelry-watches/3891_1321845_7110855?povid=FashionTopNav_Men_Jewelry_All",
-      "parent_category": "Men"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jewelry",
-      "url": "https://www.walmart.com/browse/jewelry/mens-jewelry/3891_1321845_1966546_1228260?povid=FashionTopNav_Men_Jewelry_Jewelry",
-      "parent_category": "Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Watches",
-      "url": "https://www.walmart.com/browse/jewelry/mens-watches/3891_3906_1490361?povid=FashionTopNav_Men_Jewelry_Watches",
-      "parent_category": "Jewelry & Watches"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Bags & Accessories",
-      "url": "https://www.walmart.com/browse/clothing/mens-bags-accessories/5438_1045799_4846025_5294005?povid=FashionTopNav_Men_Accessories_All",
-      "parent_category": "Men"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Backpacks",
-      "url": "https://www.walmart.com/browse/clothing/mens-backpacks/5438_1045799_4846025_4608006_2744257?povid=FashionTopNav_Men_Accessories_Backpacks",
-      "parent_category": "Bags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Bags & Wallets",
-      "url": "https://www.walmart.com/browse/clothing/mens-bags/5438_1045799_4846025_4608006_6685598?povid=FashionTopNav_Men_Accessories_Bags",
-      "parent_category": "Bags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Belts & Suspenders",
-      "url": "https://www.walmart.com/browse/clothing/mens-belts-suspenders/5438_1045799_4846025_7314683_3983894?povid=FashionTopNav_Men_Accessories_Belts",
-      "parent_category": "Bags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hats",
-      "url": "https://www.walmart.com/browse/clothing/mens-hats-caps/5438_1045799_4846025_7314683_9337785_5231764?povid=FashionTopNav_Men_Accessories_Hats",
-      "parent_category": "Bags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sunglasses",
-      "url": "https://www.walmart.com/browse/clothing/mens-sunglasses/5438_1045799_4350993_4625617?povid=FashionTopNav_Men_Accessories_Sunglasses",
-      "parent_category": "Bags & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories?povid=FashionTopNav_Men_Deals_ShopAll",
-      "parent_category": "Men"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Men's Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/mens?povid=FashionTopNav_Men_Deals_Men",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Savings $15 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-15/mens?povid=FashionTopNav_Men_Deals_Under15",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "top_nav_header",
-      "name": "Young Adult",
-      "url": "https://www.walmart.com/cp/young-adult/9055522?povid=FashionTopNav_YA_TopNav",
-      "parent_category_name": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shop all",
-      "url": "https://www.walmart.com/cp/young-adult/9055522?povid=FashionTopNav_YA_YACP",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Backpack Shop",
-      "url": "https://www.walmart.com/cp/backpacks/4662138?povid=FashionTopNav_YA_BackpackShop",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Denim Shop",
-      "url": "https://www.walmart.com/cp/the-denim-shop/9468715?povid=FashionTopNav_YA_DenimShop",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "The Festival Shop",
-      "url": "https://www.walmart.com/browse/clothing/concert-festival-outfits/5438_8412788_1988098_1398039?povid=FashionTopNav_YA_FestivalShop",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Graphics Shop",
-      "url": "https://www.walmart.com/cp/graphics-shop/4892748?povid=FashionTopNav_YA_GraphicShop",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Sports Fan Shop",
-      "url": "https://www.walmart.com/cp/1063984?povid=FashionTopNav_YA_SportsFanShop",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Young Adult Trends",
-      "url": "https://www.walmart.com/shop/clothing-and-accessories/young-adult/new-arrivals?povid=FashionTopNav_YA_YATrends",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Clothing",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-clothing/5438_9055522_8250272_6258311?povid=FashionTopNav_YA_Clothing",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Activewear",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-activewear/5438_9055522_8250272_9316852?povid=FashionTopNav_YA_Clothing_Activewear",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Coats & Jackets",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-coats/5438_9055522_8250272_3199190?povid=FashionTopNav_YA_Clothing_CoatsJackets",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dresses & Jumpsuits",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-dresses/5438_9055522_8250272_4843377?povid=FashionTopNav_YA_Clothing_DressesJumpsuits",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jeans",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-jeans/5438_9055522_8250272_4324382?povid=FashionTopNav_YA_Clothing_Jeans",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pants & Leggings",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-pants/5438_9055522_8250272_2321194?povid=FashionTopNav_YA_Clothing_PantsLeggings",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shorts",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-shorts/5438_9055522_8250272_3283498?povid=FashionTopNav_YA_Clothing_Shorts",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Skirts",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-skirts/5438_9055522_8250272_9339079?povid=FashionTopNav_YA_Clothing_Skirts",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweaters",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-sweaters/5438_9055522_8250272_2316139?povid=FashionTopNav_YA_Clothing_Sweaters",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweatshirts & Hoodies",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-sweatshirts-hoodies/5438_9055522_8250272_2203618?povid=FashionTopNav_YA_Clothing_SweatshirtsHoodies",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Swimsuits",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-swimsuits/5438_9055522_8250272_9430128?povid=FashionTopNav_YA_Clothing_Swimsuits",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Tops & T-Shirts",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-tops/5438_9055522_8250272_1871872?povid=FashionTopNav_YA_Clothing_TopsTShirts",
-      "parent_category": "Clothing"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shoes",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-shoes/5438_9055522_9605583_7275602?povid=FashionTopNav_YA_Shoes",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Jewelry & Accessories",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-accessories/5438_9055522_4314194_4294458?povid=FashionTopNav_YA_Accessories",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Beauty",
-      "url": "https://www.walmart.com/browse/beauty-by-topic/young-adult-beauty/1085666_4820682_2048291?povid=FashionTopNav_YA_Beauty",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Fragrance",
-      "url": "https://www.walmart.com/browse/beauty-by-topic/young-adult-beauty/1085666_4820682_2048291?affinityOverride=default&facet=brand%3ADossier&povid=FashionTopNav_YA_Beauty_Fragrance",
-      "parent_category": "Beauty"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hair Care",
-      "url": "https://www.walmart.com/browse/beauty-by-topic/young-adult-beauty/1085666_4820682_2048291?affinityOverride=default&facet=brand%3AThe+Hair+Lab%7C%7Cbrand%3ABeautiful+Hair+and+Scalp&povid=FashionTopNav_YA_Beauty_HairCare",
-      "parent_category": "Beauty"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Makeup",
-      "url": "https://www.walmart.com/browse/beauty-by-topic/young-adult-beauty/1085666_4820682_2048291?affinityOverride=default&facet=brand%3ARelove%7C%7Cbrand%3ARelove+by+Revolution%7C%7Cbrand%3AMakeup+Revolution%7C%7Cbrand%3AAF94&povid=FashionTopNav_YA_Beauty_Makeup",
-      "parent_category": "Beauty"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Nails",
-      "url": "https://www.walmart.com/browse/beauty-by-topic/young-adult-beauty/1085666_4820682_2048291?affinityOverride=default&facet=brand%3APaintLab&povid=FashionTopNav_YA_Beauty_Nails",
-      "parent_category": "Beauty"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Skincare",
-      "url": "https://www.walmart.com/browse/beauty-by-topic/young-adult-beauty/1085666_4820682_2048291?affinityOverride=default&facet=brand%3ASkin+Proud%7C%7Cbrand%3ABubble+Skincare%7C%7Cbrand%3AITK&povid=FashionTopNav_YA_Beauty_Skincare",
-      "parent_category": "Beauty"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Featured Fashion Brands",
-      "url": "https://www.walmart.com/browse/clothing/young-adult-clothing/5438_9055522_8250272?povid=FashionTopNav_YA_FashionBrands",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Celebrity Pink",
-      "url": "https://www.walmart.com/browse/clothing/celebrity-pink/5438_3317124_8022720_6968887?povid=FashionTopNav_YA_FashionBrands_CelebrityPink",
-      "parent_category": "Featured Fashion Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Madden NYC",
-      "url": "https://www.walmart.com/browse/clothing/madden-nyc/5438_3317124_1731178?povid=FashionTopNav_YA_FashionBrands_MaddenNYC",
-      "parent_category": "Featured Fashion Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "No Boundaries",
-      "url": "https://www.walmart.com/browse/clothing/no-boundaries/5438_3317124_7537913_8880090?povid=FashionTopNav_YA_FashionBrands_NoBo",
-      "parent_category": "Featured Fashion Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Reebok",
-      "url": "https://www.walmart.com/browse/clothing/reebok/5438_3317124_7352100?povid=FashionTopNav_YA_FashionBrands_Reebok",
-      "parent_category": "Featured Fashion Brands"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Featured Beauty Brands",
-      "url": "https://www.walmart.com/browse/beauty-by-topic/young-adult-beauty/1085666_4820682_2048291?povid=FashionTopNav_YA_BeautyBrands",
-      "parent_category": "Young Adult"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "AF94 by Halsey",
-      "url": "https://www.walmart.com/browse/beauty/af94-by-halsey/1085666_3316357_8724319?povid=FashionTopNav_YA_BeautyBrands_AF94",
-      "parent_category": "Featured Beauty Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Bubble Skincare",
-      "url": "https://www.walmart.com/browse/beauty/bubble-skincare/1085666_5799520_1941055?povid=FashionTopNav_YA_BeautyBrands_BubbleSkincare",
-      "parent_category": "Featured Beauty Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dossier",
-      "url": "https://www.walmart.com/browse/beauty/dossier/1085666_6652572_9937583?povid=FashionTopNav_YA_BeautyBrands_Dossier",
-      "parent_category": "Featured Beauty Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "ITK Skincare",
-      "url": "https://www.walmart.com/browse/beauty/itk-skincare/1085666_3316357_5625401?povid=FashionTopNav_YA_BeautyBrands_ITKSkincare",
-      "parent_category": "Featured Beauty Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "PaintLab",
-      "url": "https://www.walmart.com/browse/beauty/paintlab/1085666_6652572_3647467?povid=FashionTopNav_YA_BeautyBrands_PaintLab",
-      "parent_category": "Featured Beauty Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Relove by Revolution",
-      "url": "https://www.walmart.com/browse/beauty/relove-by-revolution/1085666_3316357_8844714?povid=FashionTopNav_YA_BeautyBrands_Relove",
-      "parent_category": "Featured Beauty Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "The Hair Lab",
-      "url": "https://www.walmart.com/browse/beauty/the-hair-lab/1085666_6652572_8604407?povid=FashionTopNav_YA_BeautyBrands_HairLab",
-      "parent_category": "Featured Beauty Brands"
-    },
-    {
-      "source": "top_nav_header",
-      "name": "Kids & Baby",
-      "url": "https://www.walmart.com/cp/kids-clothing/7712430?povid=FashionTopNav_Kids_TopNav",
-      "parent_category_name": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shop All",
-      "url": "https://www.walmart.com/cp/kids-clothing/7712430?povid=FashionTopNav_Kids_GetInspired",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shop Baby Days",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/baby?povid=FashionTopNav_Kids_BabyDays",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Baby Registry",
-      "url": "https://www.walmart.com/cp/baby-registry/1229485?povid=FashionTopNav_Kids_BabyRegistry",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Backpack Shop",
-      "url": "https://www.walmart.com/cp/backpacks/4662138?povid=FashionTopNav_Kids_BackpackShop",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Character Shop",
-      "url": "https://www.walmart.com/cp/kids-clothing-character-shop/2299833?povid=FashionTopNav_Kids_CharacterShop",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "New Arrivals",
-      "url": "https://www.walmart.com/shop/clothing-and-accessories/kids-and-baby-new-arrivals?povid=FashionTopNav_Kids_NewArrivals",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "The Swim Shop",
-      "url": "https://www.walmart.com/browse/swim-shop/5438_1229269?povid=FashionTopNav_Kids_Swimshop",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Featured Brands",
-      "url": "https://www.walmart.com/cp/fashion-brand-directory/3928184?povid=FashionTopNav_Kids_Brands",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Athletic Works",
-      "url": "https://www.walmart.com/browse/athletic-works/athletic-works-kids/5438_3317124_8741485_6388502?povid=FashionTopNav_Kids_Brands_AthleticWorks",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Carter's Child of Mine",
-      "url": "https://www.walmart.com/browse/clothing/child-of-mine-by-carters/5438_3317124_5429963?povid=FashionTopNav_Kids_Brands_ChildofMine",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Garanimals",
-      "url": "https://www.walmart.com/browse/clothing/garanimals/5438_3317124_4117225?povid=FashionTopNav_Kids_Brands_Garanimals",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Justice",
-      "url": "https://www.walmart.com/browse/clothing/justice-clothing/5438_7712430_1660851_6186609?povid=FashionTopNav_Kids_Brands_Justice",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Modern Moments by Gerber",
-      "url": "https://www.walmart.com/browse/clothing/modern-moments-by-gerber/5438_3317124_2303762_4042286?povid=FashionTopNav_Kids_Brands_ModernMoments",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Reebok",
-      "url": "https://www.walmart.com/browse/clothing/reebok-kids/5438_3317124_7352100_5750486?povid=FashionTopNav_Kids_Brands_Reebok",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wonder Nation",
-      "url": "https://www.walmart.com/browse/clothing/wonder-nation/5438_3317124_3002994?povid=FashionTopNav_Kids_Brands_WonderNation",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Girls' Clothing",
-      "url": "https://www.walmart.com/browse/clothing/girls-clothing/5438_7712430_1660851_2030359?povid=FashionTopNav_Kids_Girls_Clothing_All",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Activewear",
-      "url": "https://www.walmart.com/browse/clothing/girls-activewear/5438_7712430_1660851_2747019_5550522?povid=FashionTopNav_Kids_Girls_Clothing_Activewear",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Bras",
-      "url": "https://www.walmart.com/browse/clothing/girls-bras-bralettes/5438_7712430_1660851_7081003_1568943?povid=FashionTopNav_Kids_Girls_Clothing_Bras",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Coats & Jackets",
-      "url": "https://www.walmart.com/browse/clothing/girls-coats-jackets/5438_7712430_1660851_9875551_2385763?povid=FashionTopNav_Kids_Girls_Clothing_Coats",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dancewear",
-      "url": "https://www.walmart.com/browse/clothing/girls-dancewear/5438_7712430_1660851_2000995_4420669?povid=FashionTopNav_Kids_Girls_Clothing_Dancewear",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dresses",
-      "url": "https://www.walmart.com/browse/clothing/girls-dresses/5438_7712430_1660851_1920310_9348632?povid=FashionTopNav_Kids_Girls_Clothing_Dresses",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hoodies & Sweatshirts",
-      "url": "https://www.walmart.com/browse/clothing/girls-hoodies-sweatshirts/5438_7712430_1660851_8675672_9048753?povid=FashionTopNav_Kids_Girls_Clothing_Hoodies",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jeans",
-      "url": "https://www.walmart.com/browse/clothing/girls-jeans/5438_7712430_1660851_2500436_2814775?povid=FashionTopNav_Kids_Girls_Clothing_Jeans",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jumpsuits & Rompers",
-      "url": "https://www.walmart.com/browse/girls-clothing/girls-jumpsuits/5438_7712430_1660851_7548181?povid=FashionTopNav_Kids_Girls_Clothing_Jumpsuits",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Leggings & Pants",
-      "url": "https://www.walmart.com/browse/clothing/girls-leggings-pants/5438_7712430_1660851_4495326_6783315?povid=FashionTopNav_Kids_Girls_Clothing_Leggings",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Multipacks",
-      "url": "https://www.walmart.com/browse/kids-multi-packs/girls-multi-packs/5438_9371431_7122428_9541760_2611116?povid=FashionTopNav_Kids_Girls_Clothing_Multipacks",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Outfit Sets",
-      "url": "https://www.walmart.com/browse/clothing/girls-outfit-sets/5438_7712430_1660851_4677008_6500492?povid=FashionTopNav_Kids_Girls_Clothing_OutfitSets",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pajamas & Robes",
-      "url": "https://www.walmart.com/browse/clothing/girls-pajamas/5438_7712430_1660851_4474882_7402458?povid=FashionTopNav_Kids_Girls_Clothing_Pajamas",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shorts",
-      "url": "https://www.walmart.com/browse/clothing/girls-shorts/5438_7712430_1660851_6426702_2315824?povid=FashionTopNav_Kids_Girls_Clothing_Shorts",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Socks & Tights",
-      "url": "https://www.walmart.com/browse/clothing/girls-socks-tights/5438_7712430_1660851_2219575_5344648?povid=FashionTopNav_Kids_Girls_Clothing_SocksTights",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweaters",
-      "url": "https://www.walmart.com/browse/girls-clothing/girls-sweaters/5438_7712430_1660851_6376029?povid=FashionTopNav_Kids_Girls_Clothing_Sweaters",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweatpants",
-      "url": "https://www.walmart.com/browse/clothing/girls-sweatpants/5438_7712430_1660851_6048242?povid=FashionTopNav_Kids_Girls_Clothing_Sweatpants",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Swimsuits",
-      "url": "https://www.walmart.com/browse/clothing/girls-swimsuits/5438_7712430_1660851_8650973_5982437?povid=FashionTopNav_Kids_Girls_Clothing_Swim",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Tops & T-Shirts",
-      "url": "https://www.walmart.com/browse/clothing/girls-shirts-tops/5438_7712430_1660851_2219120_2463384?povid=FashionTopNav_Kids_Girls_Clothing_Tops",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Underwear",
-      "url": "https://www.walmart.com/browse/clothing/girls-underwear/5438_7712430_1660851_8078048_6529873?povid=FashionTopNav_Kids_Girls_Clothing_Underwear",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Uniforms",
-      "url": "https://www.walmart.com/browse/clothing/girls-school-uniforms/5438_1086304_5558414_1681383?povid=FashionTopNav_Kids_Girls_Clothing_Uniforms",
-      "parent_category": "Girls' Clothing"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Boys' Clothing",
-      "url": "https://www.walmart.com/browse/clothing/boys-clothing/5438_7712430_7809949_5213726?povid=FashionTopNav_Kids_Boys_Clothing_All",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Activewear",
-      "url": "https://www.walmart.com/browse/clothing/boys-activewear/5438_7712430_7809949_6070553_1259012?povid=FashionTopNav_Kids_Boys_Clothing_Activewear",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Coats & Jackets",
-      "url": "https://www.walmart.com/browse/clothing/boys-coats-jackets/5438_7712430_7809949_1242633?povid=FashionTopNav_Kids_Boys_Clothing_Coats",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Graphic Tees",
-      "url": "https://www.walmart.com/browse/clothing/boys-graphic-tees/5438_7712430_7809949_6884529_8971236?povid=FashionTopNav_Kids_Boys_Clothing_GraphicTees",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hoodies & Sweatshirts",
-      "url": "https://www.walmart.com/browse/clothing/boys-hoodies-sweatshirts/5438_7712430_7809949_9435315?povid=FashionTopNav_Kids_Boys_Clothing_Hoodies",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jeans",
-      "url": "https://www.walmart.com/browse/clothing/boys-jeans/5438_7712430_7809949_2391038_6061514?povid=FashionTopNav_Kids_Boys_Clothing_Jeans",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Multipacks",
-      "url": "https://www.walmart.com/browse/clothing/boys-multi-packs/5438_9371431_7122428_9541760_8871436_5182449?povid=FashionTopNav_Kids_Boys_Clothing_Multipacks",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Outfit Sets",
-      "url": "https://www.walmart.com/browse/clothing/boys-outfit-sets/5438_7712430_7809949_8960515?povid=FashionTopNav_Kids_Boys_Clothing_OutfitSets",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pajamas & Robes",
-      "url": "https://www.walmart.com/browse/clothing/boys-pajamas/5438_7712430_7809949_7223575_4078132?povid=FashionTopNav_Kids_Boys_Clothing_Pajamas",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Pants",
-      "url": "https://www.walmart.com/browse/clothing/boys-pants/5438_7712430_7809949_2391038_5054300?povid=FashionTopNav_Kids_Boys_Clothing_Pants",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shorts",
-      "url": "https://www.walmart.com/browse/clothing/boys-shorts/5438_7712430_7809949_2033777?povid=FashionTopNav_Kids_Boys_Clothing_Shorts",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Socks",
-      "url": "https://www.walmart.com/browse/clothing/boys-socks/5438_7712430_7809949_3843108?povid=FashionTopNav_Kids_Boys_Clothing_Socks",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Suits & Sports Coats",
-      "url": "https://www.walmart.com/browse/clothing/boys-suits-sport-coats/5438_7712430_7809949_7566941?povid=FashionTopNav_Kids_Boys_Clothing_Suits",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweaters",
-      "url": "https://www.walmart.com/browse/clothing/boys-sweaters/5438_7712430_7809949_9611297?povid=FashionTopNav_Kids_Boys_Clothing_Sweaters",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sweatpants",
-      "url": "https://www.walmart.com/browse/clothing/boys-sweatpants/5438_7712430_7809949_2391038_4799398?povid=FashionTopNav_Kids_Boys_Clothing_Sweatpants",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Swimsuits ",
-      "url": "https://www.walmart.com/browse/clothing/boys-swimsuits/5438_7712430_7809949_5471393_1481720?povid=FashionTopNav_Kids_Boys_Clothing_Swim",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Tops & T-Shirts",
-      "url": "https://www.walmart.com/browse/clothing/boys-shirts/5438_7712430_7809949_6884529_6740443?povid=FashionTopNav_Kids_Boys_Clothing_Shirts",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Underwear",
-      "url": "https://www.walmart.com/browse/clothing/boys-underwear/5438_7712430_7809949_7737142_6032066?povid=FashionTopNav_Kids_Boys_Clothing_Underwear",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Uniforms",
-      "url": "https://www.walmart.com/browse/clothing/boys-school-uniforms/5438_1086304_7581478_7932761?povid=FashionTopNav_Kids_Boys_Clothing_SchoolUniforms",
-      "parent_category": "Boys' Clothing"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Baby Clothing",
-      "url": "https://www.walmart.com/browse/clothing/baby-clothes/5438_7712430_8775031_4648145?povid=FashionTopNav_Kids_Baby_All",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Baby Girl",
-      "url": "https://www.walmart.com/browse/clothing/baby-girls-clothing/5438_7712430_8775031_5315201_3279226?povid=FashionTopNav_Kids_Baby_Girl",
-      "parent_category": "Baby Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Baby Boy",
-      "url": "https://www.walmart.com/browse/clothing/baby-boys-clothing/5438_7712430_8775031_6531901_8447302?povid=FashionTopNav_Kids_Baby_Boy",
-      "parent_category": "Baby Clothing"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Toddler Clothing",
-      "url": "https://www.walmart.com/browse/clothing/toddler-clothing/5438_7712430_2700757_2676407?povid=FashionTopNav_Kids_Toddler_All",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Toddler Girl",
-      "url": "https://www.walmart.com/browse/clothing/toddler-girls-12m-5t-clothing/5438_7712430_2700757_9070216_7482646?povid=FashionTopNav_Kids_Toddler_Girls",
-      "parent_category": "Toddler Clothing"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Toddler Boy",
-      "url": "https://www.walmart.com/browse/clothing/toddler-boys-12m-5t-clothing/5438_7712430_2700757_9326390_9412011?povid=FashionTopNav_Kids_Toddler_Boys",
-      "parent_category": "Toddler Clothing"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Preemie Clothing",
-      "url": "https://www.walmart.com/browse/clothing/preemie-baby-clothes/5438_7712430_8775031_8300877?povid=FashionTopNav_Kids_Baby_Preemie",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Gender Neutral Baby Clothing",
-      "url": "https://www.walmart.com/browse/clothing/gender-neutral-baby-clothes/5438_7712430_8775031_5688272_8739147?povid=FashionTopNav_Kids_Baby_GenderNeutral",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shop All Baby",
-      "url": "https://www.walmart.com/cp/baby-products/5427?povid=FashionTopNav_Kids_Baby_ShopAllBaby",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shoes",
-      "url": "https://www.walmart.com/browse/clothing/kids-shoes/5438_1045804_1045805_2220239?povid=FashionTopNav_Kids_Shoes_All",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Girls",
-      "url": "https://www.walmart.com/browse/clothing/girl-shoes/5438_1045804_1045805_9450043_605881?povid=FashionTopNav_Kids_Shoes_Girls",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Boys",
-      "url": "https://www.walmart.com/browse/clothing/boys-shoes/5438_1045804_1045805_8936014_624079?povid=FashionTopNav_Kids_Shoes_Boys",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Big & Little Shoes (11-6)",
-      "url": "https://www.walmart.com/browse/clothing/big-little-kids-shoes/5438_1045804_1045805_2131015_6674936?povid=FashionTopNav_Kids_Shoes_BigLittle",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Toddler Shoes (5-12)",
-      "url": "https://www.walmart.com/browse/clothing/toddler-shoes/5438_1045804_1045805_4993130_2734786?povid=FashionTopNav_Kids_Shoes_Toddler",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Baby Shoes (0-6)",
-      "url": "https://www.walmart.com/browse/clothing/baby-shoes/5438_1045804_1045805_3124309_8172491?povid=FashionTopNav_Kids_Shoes_Baby",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Backpacks & Accessories",
-      "url": "https://www.walmart.com/browse/clothing/kids-bags-accessories/5438_1045799_8612588_1577100?povid=FashionTopNav_Kids_Accessories",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Backpacks",
-      "url": "https://www.walmart.com/browse/clothing/school-backpacks/5438_1045799_4662138_3134823?povid=FashionTopNav_Kids_Accessories_Backpacks",
-      "parent_category": "Backpacks & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hats, Gloves & Scarves",
-      "url": "https://www.walmart.com/browse/hats-gloves-scarves/hats-gloves-scarves/5438_1045799_2476209_8189464?facet=age_group%3AChild%7C%7Cage_group%3AInfant%7C%7Cage_group%3ANewborn%7C%7Cage_group%3ATween&povid=FashionTopNav_Kids_Accessories_HatsGlovesScarves",
-      "parent_category": "Backpacks & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sunglasses",
-      "url": "https://www.walmart.com/browse/sunglasses/kids-sunglasses/5438_1045799_4350993_9198767?povid=FashionTopNav_Kids_Accessories_Sunglasses",
-      "parent_category": "Backpacks & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Jewelry & Watches",
-      "url": "https://www.walmart.com/cp/kids-jewelry-watches/4201804?povid=FashionTopNav_Kids_Jewelry",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories?povid=FashionTopNav_Kids_Deals_ShopAll",
-      "parent_category": "Kids & Baby"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Kids Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/kids?povid=FashionTopNav_Kids_Deals_Kids",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Kids $10 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-10/kids?povid=FashionTopNav_Kids_Deals_Kids_Under10",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Baby Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/baby?povid=FashionTopNav_Kids_Deals_Baby",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Baby $10 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-10/baby?povid=FashionTopNav_Kids_Deals_Baby_Under10",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "top_nav_header",
-      "name": "Shoes",
-      "url": "https://www.walmart.com/cp/shoes/1045804?povid=FashionTopNav_Shoes_TopNav",
-      "parent_category_name": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shop All",
-      "url": "https://www.walmart.com/cp/shoes/1045804?povid=FashionTopNav_Shoes_GetInspired",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "The Festival Shop",
-      "url": "https://www.walmart.com/browse/clothing/concert-festival-outfits/5438_8412788_1988098_1398039?povid=FashionTopNav_Shoes_FestivalShop",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "New Arrivals",
-      "url": "https://www.walmart.com/shop/clothing-and-accessories/shoes-new-arrivals?povid=FashionTopNav_Shoes_NewArrivals",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Sneaker Shop",
-      "url": "https://www.walmart.com/cp/sneakers/3354416?povid=FashionTopNav_Shoes_SneakerShop",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Featured Brands",
-      "url": "https://www.walmart.com/cp/fashion-brand-directory/3928184?povid=FashionTopNav_Shoes_Brands",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Avia",
-      "url": "https://www.walmart.com/browse/clothing/avia-shoes/5438_3317124_9355446_9396169?povid=FashionTopNav_Shoes_Brands_Avia",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Crocs",
-      "url": "https://www.walmart.com/browse/clothing/crocs/5438_1045804_4546787_1254885?povid=FashionTopNav_Shoes_Brands_Crocs",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Madden NYC",
-      "url": "https://www.walmart.com/browse/clothing/madden-nyc-shoes/5438_3317124_1731178_4072621?povid=FashionTopNav_Shoes_Brands_MaddenNYC",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Skechers",
-      "url": "https://www.walmart.com/browse/clothing/skechers/5438_3317124_9585587?povid=FashionTopNav_Shoes_Brands_Sketchers",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "StockX",
-      "url": "https://www.walmart.com/cp/stockx/2811001?povid=FashionTopNav_Shoes_Brands_StockX",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wonder Nation",
-      "url": "https://www.walmart.com/browse/wonder-nation/wonder-nation-shoes/5438_3317124_3002994_7476897?povid=FashionTopNav_Shoes_Brands_WonderNation",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Women's Shoes",
-      "url": "https://www.walmart.com/browse/clothing/womens-shoes/5438_1045804_1045806_163925?povid=FashionTopNav_Shoes_Women_All",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Boots",
-      "url": "https://www.walmart.com/browse/clothing/womens-boots/5438_1045804_1045806_3142010_1228542?povid=FashionTopNav_Shoes_Women_Boots",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Comfort Shoes",
-      "url": "https://www.walmart.com/browse/clothing/womens-comfort-shoes/5438_1045804_1045806_5451765_4720327?povid=FashionTopNav_Shoes_Women_Comfort",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dress Shoes",
-      "url": "https://www.walmart.com/browse/clothing/womens-dress-shoes/5438_1045804_1045806_7783731_1228546?povid=FashionTopNav_Shoes_Women_Dress",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Flats",
-      "url": "https://www.walmart.com/browse/clothing/flats/5438_1045804_1045806_3339745_3039811?povid=FashionTopNav_Shoes_Women_Flats",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Heels",
-      "url": "https://www.walmart.com/browse/clothing/heels/5438_1045804_1045806_5393351_8196845?povid=FashionTopNav_Shoes_Women_Heels",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Mules & Slides",
-      "url": "https://www.walmart.com/browse/clothing/mules/5438_1045804_1045806_4414146?povid=FashionTopNav_Shoes_Women_Mules",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Loafers",
-      "url": "https://www.walmart.com/browse/clothing/womens-loafers/5438_1045804_1045806_8875986_9165963?povid=FashionTopNav_Shoes_Women_Oxfords",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sandals",
-      "url": "https://www.walmart.com/browse/clothing/womens-sandals/5438_1045804_1045806_9015567_1228547?povid=FashionTopNav_Shoes_Women_Sandals",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Slippers",
-      "url": "https://www.walmart.com/browse/clothing/womens-slippers/5438_1045804_1045806_1816473_1228543?povid=FashionTopNav_Shoes_Women_Slippers",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sneakers",
-      "url": "https://www.walmart.com/browse/clothing/womens-sneakers/5438_1045804_1045806_9160743_4477679?povid=FashionTopNav_Shoes_Women_Sneakers",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wedges",
-      "url": "https://www.walmart.com/browse/clothing/wedges/5438_1045804_1045806_5665555?povid=FashionTopNav_Shoes_Women_Wedges",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wide Width",
-      "url": "https://www.walmart.com/browse/clothing/womens-wide-shoes/5438_1045804_1045806_2382013?povid=FashionTopNav_Shoes_Women_WideWidth",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Work Boots",
-      "url": "https://www.walmart.com/browse/clothing/womens-work-boots/5438_1045804_1045806_5879881_1228544?povid=FashionTopNav_Shoes_Women_WorkShoes",
-      "parent_category": "Women's Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Men's Shoes",
-      "url": "https://www.walmart.com/browse/clothing/mens-shoes/5438_1045804_1045807_426207?povid=FashionTopNav_Shoes_Men_All",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Boots",
-      "url": "https://www.walmart.com/browse/clothing/mens-boots/5438_1045804_1045807_1746788_1228549?povid=FashionTopNav_Shoes_Men_Boots",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Comfort Shoes",
-      "url": "https://www.walmart.com/browse/clothing/mens-comfort-shoes/5438_1045804_1045807_7671149_8749406?povid=FashionTopNav_Shoes_Men_Comfort",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dress Shoes",
-      "url": "https://www.walmart.com/browse/clothing/mens-dress-shoes/5438_1045804_1045807_2375051_1228553?povid=FashionTopNav_Shoes_Men_Dress",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Loafers",
-      "url": "https://www.walmart.com/browse/clothing/mens-loafers/5438_1045804_1045807_7207488_4948740?povid=FashionTopNav_Shoes_Men_Loafers",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Oxfords",
-      "url": "https://www.walmart.com/browse/clothing/mens-oxfords/5438_1045804_1045807_1978029?povid=FashionTopNav_Shoes_Men_Oxfords",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sandals",
-      "url": "https://www.walmart.com/browse/clothing/mens-sandals/5438_1045804_1045807_2388079_1228554?povid=FashionTopNav_Shoes_Men_Sandals",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Slip-ons & Boat Shoes",
-      "url": "https://www.walmart.com/browse/clothing/mens-slip-on-shoes/5438_1045804_1045807_2857006_7972856?povid=FashionTopNav_Shoes_Men_SlipOns",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Slippers",
-      "url": "https://www.walmart.com/browse/clothing/mens-slippers/5438_1045804_1045807_8820449_1228550?povid=FashionTopNav_Shoes_Men_Slippers",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sneakers",
-      "url": "https://www.walmart.com/browse/clothing/mens-sneakers/5438_1045804_1045807_3383528_5334257?povid=FashionTopNav_Shoes_Men_Sneakers",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wide Width",
-      "url": "https://www.walmart.com/browse/clothing/mens-wide-shoes/5438_1045804_1045807_8222941?povid=FashionTopNav_Shoes_Men_WideWidth",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Work Shoes",
-      "url": "https://www.walmart.com/browse/clothing/mens-work-boots/5438_1045804_1045807_1935180_5243010?povid=FashionTopNav_Shoes_Men_WorkShoes",
-      "parent_category": "Men's Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Kids' Shoes",
-      "url": "https://www.walmart.com/browse/clothing/kids-shoes/5438_1045804_1045805_2220239?povid=FashionTopNav_Shoes_Kids_ShopAll",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Big & Little Kids' Shoes (11-6)",
-      "url": "https://www.walmart.com/browse/clothing/big-little-kids-shoes/5438_1045804_1045805_2131015_6674936?povid=FashionTopNav_Shoes_Kids_BigLittleKids",
-      "parent_category": "Kids' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Toddler Shoes (5-12)",
-      "url": "https://www.walmart.com/browse/clothing/toddler-shoes/5438_1045804_1045805_4993130_2734786?povid=FashionTopNav_Shoes_Kids_Toddler",
-      "parent_category": "Kids' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Baby Shoes (0-6)",
-      "url": "https://www.walmart.com/browse/clothing/baby-shoes/5438_1045804_1045805_3124309_8172491?povid=FashionTopNav_Shoes_Kids_Baby",
-      "parent_category": "Kids' Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Girls' Shoes",
-      "url": "https://www.walmart.com/browse/clothing/girl-shoes/5438_1045804_1045805_9450043_605881?povid=FashionTopNav_Shoes_Girls_All",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Boots",
-      "url": "https://www.walmart.com/browse/clothing/girls-boots/5438_1045804_1045805_9450043_2384773_6538558?povid=FashionTopNav_Shoes_Girls_Boots",
-      "parent_category": "Girls' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dress Shoes",
-      "url": "https://www.walmart.com/browse/clothing/girls-dress-shoes/5438_1045804_1045805_9450043_1750784?povid=FashionTopNav_Shoes_Girls_Dress",
-      "parent_category": "Girls' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Flats",
-      "url": "https://www.walmart.com/browse/clothing/girls-flats/5438_1045804_1045805_9450043_3818027_4356279?povid=FashionTopNav_Shoes_Girls_Flats",
-      "parent_category": "Girls' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sandals",
-      "url": "https://www.walmart.com/browse/clothing/girls-sandals/5438_1045804_1045805_9450043_5681665_7908420?povid=FashionTopNav_Shoes_Girls_Sandals",
-      "parent_category": "Girls' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Slippers",
-      "url": "https://www.walmart.com/browse/clothing/girls-slippers/5438_1045804_9450043_1958434?povid=FashionTopNav_Shoes_Girls_Slippers",
-      "parent_category": "Girls' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sneakers",
-      "url": "https://www.walmart.com/browse/clothing/girls-sneakers/5438_1045804_1045805_9450043_5871318_5232046?povid=FashionTopNav_Shoes_Girls_Sneakers",
-      "parent_category": "Girls' Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Boys' Shoes",
-      "url": "https://www.walmart.com/browse/clothing/boys-shoes/5438_1045804_1045805_8936014_624079?povid=FashionTopNav_Shoes_Boys_All",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Boots",
-      "url": "https://www.walmart.com/browse/clothing/boys-boots/5438_1045804_1045805_8936014_5548173_4832330?povid=FashionTopNav_Shoes_Boys_Boots",
-      "parent_category": "Boys' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Dress Shoes",
-      "url": "https://www.walmart.com/browse/clothing/boys-dress-shoes/5438_1045804_1045805_8936014_5597430_2594762?povid=FashionTopNav_Shoes_Boys_Dress",
-      "parent_category": "Boys' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sandals",
-      "url": "https://www.walmart.com/browse/clothing/boys-sandals/5438_1045804_1045805_8936014_9467457_7497137?povid=FashionTopNav_Shoes_Boys_Sandals",
-      "parent_category": "Boys' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Slippers",
-      "url": "https://www.walmart.com/browse/clothing/boys-slippers/5438_1045804_8936014_1814837?povid=FashionTopNav_Shoes_Boys_Slippers",
-      "parent_category": "Boys' Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sneakers",
-      "url": "https://www.walmart.com/browse/clothing/boys-sneakers/5438_1045804_1045805_8936014_7629925_5921502?povid=FashionTopNav_Shoes_Boys_Sneakers",
-      "parent_category": "Boys' Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Work Boots & Shoes",
-      "url": "https://www.walmart.com/browse/clothing/work-boots/5438_1045804_2674215_8710650?povid=FashionTopNav_Shoes_WorkBoots_ShopAll",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Composite Toe Shoes",
-      "url": "https://www.walmart.com/browse/clothing/composite-toe-shoes/5438_1045804_2674215_9797108?povid=FashionTopNav_Shoes_WorkBoots_Composite",
-      "parent_category": "Work Boots & Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Nursing Shoes",
-      "url": "https://www.walmart.com/browse/clothing/nursing-shoes/5438_1045804_2674215_8344391?povid=FashionTopNav_Shoes_WorkBoots_Nursing",
-      "parent_category": "Work Boots & Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Safety Shoes",
-      "url": "https://www.walmart.com/browse/clothing/safety-shoes/5438_1045804_2674215_4225219?povid=FashionTopNav_Shoes_WorkBoots_Safety",
-      "parent_category": "Work Boots & Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Slip-Resistant Shoes",
-      "url": "https://www.walmart.com/browse/clothing/slip-resistant-work-shoes/5438_1045804_2674215_3570678?povid=FashionTopNav_Shoes_WorkBoots_SlipResistant",
-      "parent_category": "Work Boots & Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Steel Toe Boots",
-      "url": "https://www.walmart.com/browse/clothing/steel-toe-boots/5438_1045804_2674215_1594408?povid=FashionTopNav_Shoes_WorkBoots_SteelToe",
-      "parent_category": "Work Boots & Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Waterproof Work Boots",
-      "url": "https://www.walmart.com/browse/clothing/steel-toe-boots/5438_1045804_2674215_1594408?povid=FashionTopNav_Shoes_WorkBoots_Waterproof",
-      "parent_category": "Work Boots & Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Work Boots",
-      "url": "https://www.walmart.com/browse/clothing/work-boots/5438_1045804_2674215_8710650?povid=FashionTopNav_Shoes_WorkBoots_WorkBoots",
-      "parent_category": "Work Boots & Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories?povid=FashionTopNav_Shoes_Deals_ShopAll",
-      "parent_category": "Shoes"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Crocs Up to 30% Off",
-      "url": "https://www.walmart.com/browse/clothing/crocs/5438_1045804_4546787_1254885?povid=FashionTopNav_Shoes_Deals_Croctober",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shoes Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/shoes?povid=FashionTopNav_Shoes_Deals_Shoes",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Savings $15 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-15/shoes?povid=FashionTopNav_Shoes_Deals_Under15",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "top_nav_header",
-      "name": "Jewelry & Accessories",
-      "url": "https://www.walmart.com/cp/jewelry/3891?povid=FashionTopNav_JWA_TopNav",
-      "parent_category_name": "Shoes"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Shop All",
-      "url": "https://www.walmart.com/cp/jewelry/3891?povid=FashionTopNav_JWA_Jewelry_GetInspired",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Accessories New Arrivals",
-      "url": "https://www.walmart.com/shop/clothing-and-accessories/new-arrivals?catId=5438_1045799_6841567&povid=FashionTopNav_JWA_Accessories_NewArrivals",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Backpack Shop",
-      "url": "https://www.walmart.com/cp/backpacks/4662138?povid=FashionTopNav_JWA_Accessories_BackpackShop",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "The Festival Shop",
-      "url": "https://www.walmart.com/browse/clothing/concert-festival-outfits/5438_8412788_1988098_1398039?povid=FashionTopNav_JWA_Accessories_FestivalShop",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Jewelry New Arrivals",
-      "url": "https://www.walmart.com/shop/clothing-and-accessories/new-arrivals?catId=3891_3661913&povid=FashionTopNav_JWA_Jewelry_NewArrivals",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "The Pre-Loved Edit",
-      "url": "https://www.walmart.com/cp/pre-loved-fashion/1237667?povid=FashionTopNav_JWA_Accessories_PrelovedEdit",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Sunglasses",
-      "url": "https://www.walmart.com/cp/sunglasses/4350993?povid=FashionTopNav_JWA_Accessories_Sunglasses",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Wedding & Engagement",
-      "url": "https://www.walmart.com/cp/the-wedding-ring-shop/540912?povid=FashionTopNav_JWA_Jewelry_WeddingRingShop",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Featured Brands",
-      "url": "https://www.walmart.com/cp/fashion-brand-directory/3928184?povid=FashionTopNav_JWA_Brands",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Brilliance Fine Jewelry",
-      "url": "https://www.walmart.com/browse/jewelry-brands/brilliance-fine-jewelry/3891_8069787_4359693?povid=FashionTopNav_JWA_Brands_Brilliance",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Cate & Chloe",
-      "url": "https://www.walmart.com/browse/jewelry/cate-chloe/3891_8069787_9275829?povid=FashionTopNav_JWA_Brands_CateChloe",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "JeenMata",
-      "url": "https://www.walmart.com/browse/jewelry/jeenmata/3891_8069787_9262634?povid=FashionTopNav_JWA_Brands_JeenMata",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Michael Kors",
-      "url": "https://www.walmart.com/browse/clothing/jewelry-accessories/5438_1282109?facet=brand%3AMichael+Kors&povid=FashionTopNav_JWA_Brands_MK",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Rebag",
-      "url": "https://www.walmart.com/browse/clothing/rebag/5438_1237667_9703759?povid=FashionTopNav_JWA_Brands_Rebag",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Time & Tru",
-      "url": "https://www.walmart.com/browse/clothing/jewelry-accessories/5438_1282109?facet=brand%3ATime+and+Tru&povid=FashionTopNav_JWA_Brands_TimeTru",
-      "parent_category": "Featured Brands"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Women's Jewelry & Watches",
-      "url": "https://www.walmart.com/browse/jewelry/womens-jewelry-watches/3891_8709006?povid=FashionTopNav_JWA_Jewelry_Women_All",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Anklets",
-      "url": "https://www.walmart.com/browse/jewelry/ankle-bracelets/3891_1030159_6967793?facet=gender%3AFemale&povid=FashionTopNav_JWA_Jewelry_Women_Anklets",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Bracelets & Charms",
-      "url": "https://www.walmart.com/browse/jewelry/womens-bracelets-charms/3891_8709006_9465826_5463702?povid=FashionTopNav_JWA_Jewelry_Women_Bracelets",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Body Jewelry",
-      "url": "https://www.walmart.com/browse/jewelry/body-jewelry/3891_1030159_1971239?povid=FashionTopNav_JWA_Jewelry_Women_BodyJewelry",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Diamond Jewelry",
-      "url": "https://www.walmart.com/browse/jewelry/diamond-jewelry/3891_2701344_7489019?facet=gender%3AFemale&povid=FashionTopNav_JWA_Jewelry_Women_Diamond",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Earrings",
-      "url": "https://www.walmart.com/browse/jewelry/womens-earrings/3891_8709006_9465826_7033694_6429678?povid=FashionTopNav_JWA_Jewelry_Women_Earrings",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Fashion Jewelry",
-      "url": "https://www.walmart.com/browse/jewelry/fashion-jewelry/3891_4808399_3352357?povid=FashionTopNav_JWA_Jewelry_Women_Fashion",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Fine Jewelry",
-      "url": "https://www.walmart.com/browse/jewelry/fine-jewelry/3891_6070542?povid=FashionTopNav_JWA_Jewelry_Women_Fine",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jewelry Sets",
-      "url": "https://www.walmart.com/browse/jewelry/womens-jewelry-sets/3891_8709006_9465826_1823091?povid=FashionTopNav_JWA_Jewelry_Women_Sets",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Necklaces & Pendants",
-      "url": "https://www.walmart.com/browse/jewelry/womens-necklaces-pendants/3891_8709006_9465826_9558004?povid=FashionTopNav_JWA_Jewelry_Women_Necklaces",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Rings",
-      "url": "https://www.walmart.com/browse/jewelry/womens-rings/3891_8709006_9465826_2268227_3568479?povid=FashionTopNav_JWA_Jewelry_Women_Rings",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Watches",
-      "url": "https://www.walmart.com/browse/jewelry/womens-watches/3891_3906_3089886?povid=FashionTopNav_JWA_Jewelry_Women_Watches",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Watch Bands",
-      "url": "https://www.walmart.com/browse/jewelry/watch-bands/3891_3906_1224988_6509587?facet=gender%3AFemale&povid=FashionTopNav_JWA_Jewelry_Women_WatchAccessories",
-      "parent_category": "Women's Jewelry & Watches"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Women's Handbags",
-      "url": "https://www.walmart.com/browse/clothing/womens-bags/5438_1045799_6614250_6504054_8525451?povid=FashionTopNav_JWA_Accessories_Women_Handbags_ShopAll",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Backpacks",
-      "url": "https://www.walmart.com/browse/clothing/womens-backpacks/5438_1045799_6614250_6504054_4546049?povid=FashionTopNav_JWA_Accessories_Women_Handbags_Backpacks",
-      "parent_category": "Women's Handbags"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Beach Bags",
-      "url": "https://www.walmart.com/browse/clothing/beach-bags/5438_1045799_9766135_5269894?povid=FashionTopNav_JWA_Accessories_Women_Handbags_Beachbags",
-      "parent_category": "Women's Handbags"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Crossbody Bags ",
-      "url": "https://www.walmart.com/browse/clothing/womens-crossbody-bags/5438_1045799_6614250_6504054_1969654?povid=FashionTopNav_JWA_Accessories_Women_Handbags_CrossbodyBags",
-      "parent_category": "Women's Handbags"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Designer Bags",
-      "url": "https://www.walmart.com/browse/clothing/designer-handbags/5438_1045799_1045800_7821647?povid=FashionTopNav_JWA_Accessories_Women_Handbags_Designer",
-      "parent_category": "Women's Handbags"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Fanny Packs",
-      "url": "https://www.walmart.com/browse/clothing/womens-belt-bags/5438_1045799_6614250_6504054_5799722?povid=FashionTopNav_JWA_Accessories_Women_Handbags_BeltBags",
-      "parent_category": "Women's Handbags"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shoulder Bags",
-      "url": "https://www.walmart.com/browse/clothing/womens-shoulder-bags/5438_1045799_6614250_6504054_9781157?povid=FashionTopNav_JWA_Accessories_Women_Handbags_ShoulderBags",
-      "parent_category": "Women's Handbags"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Tote Bags",
-      "url": "https://www.walmart.com/browse/clothing/womens-tote-bags/5438_1045799_6614250_6504054_9696341?povid=FashionTopNav_JWA_Accessories_Women_Handbags_Totes",
-      "parent_category": "Women's Handbags"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Wallets & Card Cases",
-      "url": "https://www.walmart.com/browse/clothing/womens-wallets-card-cases/5438_1045799_6614250_6504054_6832780?povid=FashionTopNav_JWA_Accessories_Women_Handbags_Wallets",
-      "parent_category": "Women's Handbags"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Women's Accessories",
-      "url": "https://www.walmart.com/browse/clothing/womens-accessories/5438_1045799_6614250_2773875_6876064?povid=FashionTopNav_JWA_Accessories_Women_Accessories_ShopAll",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Belts",
-      "url": "https://www.walmart.com/browse/clothing/womens-belts/5438_1045799_6614250_2773875_7265378?povid=FashionTopNav_JWA_Accessories_Women_Accessories_Belts",
-      "parent_category": "Women's Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hair Accessories",
-      "url": "https://www.walmart.com/browse/clothing/hair-accessories/5438_1045799_6614250_2773875_6885315_1280222?povid=FashionTopNav_JWA_Accessories_Women_Accessories_HairAccessories",
-      "parent_category": "Women's Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hats, Gloves & Scarves",
-      "url": "https://www.walmart.com/browse/women-s-hats-gloves-scarves/womens-hats-gloves-scarves/5438_1045799_6614250_2773875_6617138_4079563?povid=FashionTopNav_JWA_Accessories_Women_Accessories_Hats",
-      "parent_category": "Women's Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sunglasses",
-      "url": "https://www.walmart.com/browse/clothing/womens-sunglasses/5438_1045799_6614250_8110970?povid=FashionTopNav_JWA_Accessories_Women_Accessories_Sunglasses",
-      "parent_category": "Women's Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Scarves & Wraps",
-      "url": "https://www.walmart.com/browse/clothing/womens-scarves/5438_1045799_6614250_2773875_6617138_7947933_2550584?povid=FashionTopNav_JWA_Accessories_Women_Accessories_ScarvesWraps",
-      "parent_category": "Women's Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Men's Watches & Jewelry",
-      "url": "https://www.walmart.com/browse/jewelry/mens-jewelry-watches/3891_1321845_7110855?povid=FashionTopNav_JWA_Jewelry_Men_All",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Bracelets",
-      "url": "https://www.walmart.com/browse/jewelry/mens-bracelets/3891_1321845_1966546_7241366_2152784?povid=FashionTopNav_JWA_Jewelry_Men_Bracelets",
-      "parent_category": "Men's Watches & Jewelry"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Earrings",
-      "url": "https://www.walmart.com/browse/jewelry/mens-earrings/3891_1321845_1966546_2327211_5616769?povid=FashionTopNav_JWA_Jewelry_Men_Earrings",
-      "parent_category": "Men's Watches & Jewelry"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Rings",
-      "url": "https://www.walmart.com/browse/jewelry/mens-rings/3891_1321845_1966546_1293129?povid=FashionTopNav_JWA_Jewelry_Men_Rings",
-      "parent_category": "Men's Watches & Jewelry"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Necklaces",
-      "url": "https://www.walmart.com/browse/jewelry/men-s-necklaces/3891_1321845_1966546_6181068?povid=FashionTopNav_JWA_Jewelry_Men_Necklaces",
-      "parent_category": "Men's Watches & Jewelry"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Watches",
-      "url": "https://www.walmart.com/browse/jewelry/mens-watches/3891_3906_1490361?povid=FashionTopNav_JWA_Jewelry_Men_Watches",
-      "parent_category": "Men's Watches & Jewelry"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Men's Bags & Accessories",
-      "url": "https://www.walmart.com/browse/bags-accessories/men-s-bags-accessories/5438_1045799_4846025?povid=FashionTopNav_JWA_Accessories_Men_All",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Backpacks",
-      "url": "https://www.walmart.com/browse/clothing/mens-backpacks/5438_1045799_4846025_4608006_2744257?povid=FashionTopNav_JWA_Accessories_Men_Backpacks",
-      "parent_category": "Men's Bags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Bags & Wallets",
-      "url": "https://www.walmart.com/browse/clothing/mens-bags/5438_1045799_4846025_4608006?povid=FashionTopNav_JWA_Accessories_Men_Bags",
-      "parent_category": "Men's Bags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Belts & Suspenders",
-      "url": "https://www.walmart.com/browse/clothing/mens-belts-suspenders/5438_1045799_4846025_7314683_3983894?povid=FashionTopNav_JWA_Accessories_Men_Be;ts",
-      "parent_category": "Men's Bags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Hats, Gloves & Scarves",
-      "url": "https://www.walmart.com/browse/men-s-accessories/mens-hats-gloves-scarves/5438_1045799_4846025_7314683_9337785?povid=FashionTopNav_JWA_Accessories_Men_Hats",
-      "parent_category": "Men's Bags & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Sunglasses",
-      "url": "https://www.walmart.com/browse/clothing/mens-sunglasses/5438_1045799_4350993_4625617?povid=FashionTopNav_JWA_Accessories_Men_Sunglasses",
-      "parent_category": "Men's Bags & Accessories"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Kids' Jewelry & Watches",
-      "url": "https://www.walmart.com/cp/kids-jewelry-watches/4201804?povid=FashionTopNav_JWA_Jewelry_Kids_All",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jewelry",
-      "url": "https://www.walmart.com/browse/jewelry/kids-jewelry/3891_4201804_1228270?povid=FashionTopNav_JWA_Jewelry_Kids_Jewelry",
-      "parent_category": "Kids' Jewelry & Watches"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Watches",
-      "url": "https://www.walmart.com/browse/jewelry/kids-watches/3891_3906_8010157?povid=FashionTopNav_JWA_Jewelry_Kids_Watches",
-      "parent_category": "Kids' Jewelry & Watches"
-    },
-    {
-      "source": "categoryGroup",
-      "name": "Kids' Backpacks & Accessories",
-      "url": "https://www.walmart.com/browse/clothing/kids-bags-accessories/5438_1045799_8612588_1577100?povid=FashionTopNav_JWA_Accessories_Kids_All",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
       "source": "categoryGroup",
-      "name": "Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories?povid=FashionTopNav_JWA_Deals_ShopAll",
-      "parent_category": "Jewelry & Accessories"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jewelry & Watches Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/jewelry-and-watches?povid=FashionTopNav_JWA_Jewelry_Deals_Jewelry",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jewelry & Watches $25 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-25/jewelry-and-watches?povid=FashionTopNav_JWA_Jewelry_Deals_Under15",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Bags & Accessories Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/bags-and-accessories?povid=FashionTopNav_JWA_Accessories_Deals_Accessories",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Bags & Accessories $25 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-25/bags-and-accessories?povid=FashionTopNav_JWA_Accessories_Deals_Under25",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "top_nav_header",
-      "name": "Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories?povid=FashionTopNav_Savings_TopNav",
-      "parent_category_name": "Shoes"
+      "name": "Easter Crafts",
+      "url": "/browse/arts-crafts-sewing/easter-crafts/1334134_1735092?povid=HomeCPTN_ACS_BrandsIdeas_Easter",
+      "parent_category": "Brands & Craftings Ideas"
     },
     {
       "source": "categoryGroup",
-      "name": "Fashion Savings",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories?povid=FashionTopNav_Savings_ShopAll",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Women",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/womens?povid=FashionTopNav_Savings_Women",
-      "parent_category": "Fashion Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Women's Plus",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/womens/womens-clothing/womens-plus?povid=FashionTopNav_Savings_WomensPlus",
-      "parent_category": "Fashion Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Men",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/mens?povid=FashionTopNav_Savings_Men",
-      "parent_category": "Fashion Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Kids",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/kids?povid=FashionTopNav_Savings_Kids",
-      "parent_category": "Fashion Savings"
+      "name": "Arts & Crafts Deals",
+      "url": "/shop/deals/all-home/arts-crafts-and-sewing?povid=HomeCPTN_ACS_BrandsIdeas_Savings",
+      "parent_category": "Brands & Craftings Ideas"
     },
     {
-      "source": "subCategoryGroup",
-      "name": "Baby",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/baby?povid=FashionTopNav_Savings_Baby",
-      "parent_category": "Fashion Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shoes",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/shoes?povid=FashionTopNav_Savings_Shoes",
-      "parent_category": "Fashion Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jewelry & Watches",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/jewelry-and-watches?povid=FashionTopNav_Savings_Jewelry",
-      "parent_category": "Fashion Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Accessories",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/bags-and-accessories?povid=FashionTopNav_Savings_Accessories",
-      "parent_category": "Fashion Savings"
-    },
-    {
       "source": "categoryGroup",
-      "name": "Savings $15 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/deals-under-15?povid=FashionTopNav_Savings_Deals_Under15",
-      "parent_category": "Savings"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Womens $15 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/womens/womens-clothing/under-15?povid=FashionTopNav_Savings_Deals_Women_Under15",
-      "parent_category": "Savings $15 & Under"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Mens $15 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-15/mens?povid=FashionTopNav_Savings_Deals_Men_Under15",
-      "parent_category": "Savings $15 & Under"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Kids $10 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-10/kids?povid=FashionTopNav_Savings_Deals_Kids_Under10",
-      "parent_category": "Savings $15 & Under"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Baby $10 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-10/baby?povid=FashionTopNav_Savings_Deals_Baby_Under10",
-      "parent_category": "Savings $15 & Under"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Shoes $15 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-15/shoes?povid=FashionTopNav_Savings_Deals_Shoes_Under15",
-      "parent_category": "Savings $15 & Under"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Jewelry & Watches $25 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-25/jewelry-and-watches?povid=FashionTopNav_Savings_Deals_Jewelry_Under25",
-      "parent_category": "Savings $15 & Under"
-    },
-    {
-      "source": "subCategoryGroup",
-      "name": "Accessories $25 & Under",
-      "url": "https://www.walmart.com/shop/deals/clothing-and-accessories/fashion-under-25/bags-and-accessories?povid=FashionTopNav_Savings_Deals_Accessories_Under25",
-      "parent_category": "Savings $15 & Under"
+      "name": "Same-Day Pickup",
+      "url": "/browse/arts-crafts-and-sewing/1334134?&facet=pickup_and_delivery%3AFREE+Pickup&povid=HomeCPTN_ACS_BrandsIdeas_Projects_SamedayPickup",
+      "parent_category": "Brands & Craftings Ideas"
     },
     {
       "source": "shop_by_category",
-      "name": "Sandals",
-      "url": "https://www.walmart.com/browse/clothing/sandals-flip-flops/5438_1045804_3082355_1372134?",
-      "parent_category_name": "Shoes"
+      "name": "Cotton",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/cotton-fabric/1334134_4232946_5038673_3524436?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_BTF_Cotton",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Comfort",
-      "url": "https://www.walmart.com/browse/clothing/comfort-shoes/5438_1045804_6737830_7410366?",
-      "parent_category_name": "Shoes"
+      "name": "Muslin",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/muslin-fabric/1334134_4232946_5038673_4275315?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_BTF_Muslin",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Sneakers",
-      "url": "https://www.walmart.com/browse/clothing/sneakers/5438_1045804_3354416_1544714?povid=ApparelNav_SHOES_Shoes_CP_Hubspokes_Cat_Sneakers",
-      "parent_category_name": "Shoes"
+      "name": "Fleece",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/fleece-fabric/1334134_4232946_5038673_6855639?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_BTF_Fleece",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Slippers",
-      "url": "https://www.walmart.com/browse/clothing/slippers/5438_1045804_4638960_5905603?povid=ApparelNav_SHOES_Shoes_CP_Hubspokes_Cat_Slippers",
-      "parent_category_name": "Shoes"
+      "name": "Linen",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/linen-fabric/1334134_4232946_5038673_8177488?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_BTF_Linen",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Water Shoes",
-      "url": "https://www.walmart.com/browse/clothing/water-shoes/5438_1045804_6031182_4690988?",
-      "parent_category_name": "Shoes"
+      "name": "Velvet",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/velvet-fabric/1334134_4232946_5038673_6769174?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_BTF_Velvet",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Work",
-      "url": "https://www.walmart.com/browse/clothing/work-boots/5438_1045804_2674215_8710650?",
-      "parent_category_name": "Shoes"
+      "name": "Denim",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/denim-fabric/1334134_4232946_5038673_4563000?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_BTF_Denim",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Women's",
-      "url": "https://www.walmart.com/browse/clothing/womens-shoes/5438_1045804_1045806_163925?povid=ApparelNav_SHOES_Shoes_CP_Hubspokes_Cat_WomensShoes",
-      "parent_category_name": "Shoes"
+      "name": "Solid",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/solid-fabric/1334134_4232946_8857834_3811836?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_ATF_Solid",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Men's",
-      "url": "https://www.walmart.com/browse/clothing/mens-shoes/5438_1045804_1045807_426207?povid=ApparelNav_SHOES_Shoes_CP_Hubspokes_Cat_MensShoes",
-      "parent_category_name": "Shoes"
+      "name": "Striped",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/striped-fabric/1334134_4232946_8857834_8068331?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_ATF_Striped",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Girls'",
-      "url": "https://www.walmart.com/browse/clothing/girl-shoes/5438_1045804_1045805_9450043_605881?povid=ApparelNav_SHOES_Shoes_CP_Hubspokes_Cat_GirlsShoes",
-      "parent_category_name": "Shoes"
+      "name": "Plaid",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/plaid-fabric/1334134_4232946_8857834_7266548?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_ATF_Plaid",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Boys'",
-      "url": "https://www.walmart.com/browse/clothing/boys-shoes/5438_1045804_1045805_8936014_624079?povid=ApparelNav_SHOES_Shoes_CP_Hubspokes_Cat_BoysShoes",
-      "parent_category_name": "Shoes"
+      "name": "Floral",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/floral-fabric/1334134_4232946_8857834_5709527?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_ATF_Floral",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Baby",
-      "url": "https://www.walmart.com/browse/clothing/baby-shoes/5438_1045804_1045805_3124309_8172491?",
-      "parent_category_name": "Shoes"
+      "name": "Holiday & seasonal",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/holiday-special-occasion-fabric/1334134_4232946_4841276?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_ATF_HolidaySeasonal",
+      "parent_category_name": "Fabric"
     },
     {
       "source": "shop_by_category",
-      "name": "Shop all",
-      "url": "https://www.walmart.com/browse/shoes/5438_1045804_3183050?povid=ApparelNav_SHOES_Shoes_CP_Hubspokes_Cat_ShopAllShoes",
-      "parent_category_name": "Shoes"
+      "name": "Licensed & characters",
+      "url": "https://www.walmart.com/browse/arts-crafts-sewing/licensed-character-fabric/1334134_4232946_8857834_6811958?povid=Home_Hubspoke_ArtsCrafts_4232946Fabric_Category_ATF_LicensedCharacters",
+      "parent_category_name": "Fabric"
     }
   ]
 }
