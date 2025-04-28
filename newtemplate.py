@@ -1,72 +1,97 @@
 from playwright.sync_api import sync_playwright
 from playwright_stealth import stealth_sync
 import json
+import random
 import time
 
-def extract_pills_module_data():
+def human_delay(min_time=2.5, max_time=4.0):
+    time.sleep(random.uniform(min_time, max_time))
+
+def scrape_walmart_shop_by_category_data():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        # context = new_context(
-
-        # )
-
-        page = browser.new_page(
+        browser = p.chromium.launch(headless=False, slow_mo=50)
+        context = browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
             locale="en-US",
             timezone_id="America/Los_Angeles",
-            bypass_csp=True,
-            viewport={"width": 1280, "height": 800}
         )
+        page = context.new_page()
         stealth_sync(page)
 
-        print("Navigating to Walmart page...")
+        print("Navigating...")
         page.goto(
-            "https://www.walmart.com/shop/clothing-and-accessories/new-arrivals",
-            # timeout=60000,
-            wait_until="networkidle"
+            'https://www.walmart.com/cp/vision-centers/1078944?povid=GlobalNav_rWeb_PharmacyHealthWellness_VisionCenter_VisionCenter',
+            timeout=60000,
+            wait_until="domcontentloaded"
         )
 
-        time.sleep(5)
+        page.wait_for_load_state("domcontentloaded")
+        human_delay(3, 5)
 
         if "application error" in page.content().lower():
-            print("Application error detected. Exiting.")
-            page.screenshot(path="error_screenshot.png")
+            print("Detected client-side application error. Retrying after 5 seconds...")
+            time.sleep(5)
+            page.reload()
+            page.wait_for_load_state("domcontentloaded")
+            human_delay(3, 5)
+
+        if "verify" in page.title().lower():
+            print("Bot detection triggered. Exiting.")
             browser.close()
             return
 
-        print("🔍 Extracting __NEXT_DATA__ JSON...")
         next_data = page.evaluate("window.__NEXT_DATA__")
         if not next_data:
-            print("Could not find __NEXT_DATA__.")
-            browser.close()
+            print("__NEXT_DATA__ not found.")
             return
+        
+        initial_data = next_data.get("props", {}).get("pageProps", {}).get("initialTempoData", {})
+        modules_1 = initial_data.get("contentLayout", {}).get("modules", [])
+        modules_2 = initial_data.get("data", {}).get("contentLayout", {}).get("modules", [])
 
-        modules = (
-            next_data.get("props", {})
-            .get("pageProps", {})
-            .get("initialTempoData", {})
-            .get("contentLayout", {})
-            .get("modules", [])
+        modules = modules_1 + modules_2
+
+        has_shop_by_category = any(
+            m.get("configs", {}).get("headingText", "").strip().lower() == "shop by category"
+            for m in modules
         )
+        has_rows6 = any(isinstance(m.get("configs", {}).get("rows6"), list) for m in modules)
 
-        pills_data = []
+        if has_shop_by_category or has_rows6:
+            template_type = "template_4"
+        else :
+            template_type = "unknown"
+
+        print(f"Detected layout: {template_type}")
+        current_parent_category = "Vision Centre"
+        all_categories = []
+
         for module in modules:
-            if module.get("type") == "PillsModule":
-                for pill in module.get("configs", {}).get("pillsV2", []):
-                    pills_data.append({
-                        "title": pill.get("title"),
-                        "url": pill.get("url"),
-                        "image": pill.get("image", {}).get("src")
-                    })
+            configs = module.get("configs", {})
+            heading = configs.get("headingText", "").strip().lower()
 
-        print(f"Extracted {len(pills_data)} pills")
-        print(json.dumps(pills_data, indent=2))
+            if heading in [ "shop by category", "explore more", "shop by pattern", "shop by material", "commercial products"]:
+                rows6 = configs.get("rows6")  
+                if isinstance(rows6, list):
+                    for row in rows6:
+                        for category in row.get("categories", []):
+                            name = category.get("name")
+                            alt_name = category.get("image", {}).get("alt")
+                            url = category.get("image", {}).get("clickThrough", {}).get("value")
+                            if name and url:
+                                all_categories.append({
+                                    "source": "shop_by_category",
+                                    "name": name,
+                                    "url": url,
+                                    "parent_category_name": current_parent_category
+                                })
 
-        with open("walmart_pills_categories.json", "w", encoding="utf-8") as f:
-            json.dump(pills_data, f, indent=2, ensure_ascii=False)
+            with open('shop_by_category_data.json', 'w', encoding='utf-8') as f:
+                json.dump(all_categories, f, ensure_ascii=False, indent=2)
 
-        browser.close()
+            print(f"Saved {len(all_categories)} items to 'shop_by_category_data.json'.")
 
+            browser.close()
 
 if __name__ == "__main__":
-    extract_pills_module_data()
+    scrape_walmart_shop_by_category_data()
