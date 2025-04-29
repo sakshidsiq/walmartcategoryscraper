@@ -20,7 +20,7 @@ def scrape_walmart_pills_data():
 
         print("Navigating...")
         page.goto(
-            'https://www.walmart.com/browse/health/pain-relievers/976760_6972993?povid=GlobalNav_rWeb_PharmacyHealthWellness_HealthCare_PainManagement',
+            'https://www.walmart.com/shop/deals/wellness-and-personal-care/Vitamins-and-supplements?povid=wellness_multivitamins_vitamindeals_rweb',
             timeout=60000,
             wait_until="domcontentloaded"
         )
@@ -39,27 +39,55 @@ def scrape_walmart_pills_data():
             print("Bot detection triggered. Exiting.")
             browser.close()
             return
+        
+        next_data = page.evaluate("window.__NEXT_DATA__")
+        if not next_data:
+            print("__NEXT_DATA__ not found.")
+            return
+        
 
-        script_tag = page.query_selector('script#__NEXT_DATA__')
-        if script_tag:
-            page_data = json.loads(script_tag.inner_text())
 
-            pills_data = page_data['props']['pageProps']['initialData']['moduleDataByZone']['pillsTopZone']['configs']['pillsV2']
+        initial_data = next_data.get("props", {}).get("pageProps", {}).get("initialTempoData", {})
+        modules_1 = initial_data.get("contentLayout", {}).get("modules", [])
+        modules_2 = initial_data.get("data", {}).get("contentLayout", {}).get("modules", [])
+        modules_3 = []
+        pills_top_zone = next_data.get("props", {}).get("pageProps", {}).get("initialData", {}).get("moduleDataByZone", {}).get("pillsTopZone")
+        if isinstance(pills_top_zone, dict):
+            modules_3.append(pills_top_zone)
+        modules_4 = []
+        chip_module = next_data.get("props", {}).get("pageProps", {}).get("initialData", {}).get("contentLayout", {}).get("modules", [])[2]
+        if isinstance(chip_module, dict):
+            modules_4.append(chip_module)
 
-            all_pills = []
-            for pill in pills_data:
-                pill_info = {
-                    "title": pill['title'],
-                    "url": pill['url']
-                }
-                all_pills.append(pill_info)
+        modules = modules_1 + modules_2 + modules_3 + modules_4
 
-            with open('pills_data.json', 'w', encoding='utf-8') as f:
-                json.dump(all_pills, f, ensure_ascii=False, indent=2)
+        has_pillsV2 = any(isinstance(m.get("configs", {}).get("pillsV2"), list) for m in modules)
 
-            print(f"Saved {len(all_pills)} items to 'pills_data.json'.")
-        else:
-            print("Unable to find __NEXT_DATA__ script tag.")
+        if has_pillsV2:
+            template_type = "template_3"
+        else :
+            template_type = "unknown"
+
+        print(f"Detected layout: {template_type}")
+        all_pills = []
+
+        for module in modules:
+            configs = module.get("configs", {})
+            pillsV2 = configs.get("pillsV2")
+            if isinstance(pillsV2, list): 
+                for pill in pillsV2:
+                    pill_info = {
+                        "name": pill['title'],
+                        "url": pill['url'],
+                        "source": "shop_by_category",
+                        "parent_category_name": "vitamin deals"
+                    }
+                    all_pills.append(pill_info)
+
+        with open('pills_data.json', 'w', encoding='utf-8') as f:
+            json.dump(all_pills, f, ensure_ascii=False, indent=2)
+
+        print(f"Saved {len(all_pills)} items to 'pills_data.json'.")
 
         browser.close()
 

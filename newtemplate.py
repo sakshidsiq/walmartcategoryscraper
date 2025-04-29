@@ -48,8 +48,12 @@ def scrape_walmart_shop_by_category_data():
         initial_data = next_data.get("props", {}).get("pageProps", {}).get("initialTempoData", {})
         modules_1 = initial_data.get("contentLayout", {}).get("modules", [])
         modules_2 = initial_data.get("data", {}).get("contentLayout", {}).get("modules", [])
+        modules_5 = []
+        vision_center_module = next_data.get("props", {}).get("pageProps", {}).get("initialData",{}).get("data", {}).get("contentLayout", {}).get("modules", [])
+        if isinstance(vision_center_module, dict):
+            modules_5.append(vision_center_module)
 
-        modules = modules_1 + modules_2
+        modules = modules_1 + modules_2 + modules_5
 
         has_shop_by_category = any(
             m.get("configs", {}).get("headingText", "").strip().lower() == "shop by category"
@@ -57,7 +61,7 @@ def scrape_walmart_shop_by_category_data():
         )
         has_rows6 = any(isinstance(m.get("configs", {}).get("rows6"), list) for m in modules)
 
-        if has_shop_by_category or has_rows6:
+        if has_rows6 or has_shop_by_category:
             template_type = "template_4"
         else :
             template_type = "unknown"
@@ -70,7 +74,7 @@ def scrape_walmart_shop_by_category_data():
             configs = module.get("configs", {})
             heading = configs.get("headingText", "").strip().lower()
 
-            if heading in [ "shop by category", "explore more", "shop by pattern", "shop by material", "commercial products"]:
+            if heading in [ "shop by category", "shop frames by price", "shop frames by shape"]:
                 rows6 = configs.get("rows6")  
                 if isinstance(rows6, list):
                     for row in rows6:
@@ -83,6 +87,7 @@ def scrape_walmart_shop_by_category_data():
                                     "source": "shop_by_category",
                                     "name": name,
                                     "url": url,
+                                    "alt_name": alt_name,
                                     "parent_category_name": current_parent_category
                                 })
 

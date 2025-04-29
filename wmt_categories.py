@@ -3,6 +3,9 @@ from playwright_stealth import stealth_sync
 import json
 import random
 import time
+import pandas as pd
+
+
 
 def human_delay(min_time=2.5, max_time=4.0):
     time.sleep(random.uniform(min_time, max_time))
@@ -12,7 +15,7 @@ def scroll_page_like_human(page, steps=6):
         page.mouse.wheel(0, random.randint(300, 500))
         human_delay(0.4, 0.8)
 
-def extract_all_categories():
+def extract_all_categories(subcat_name, subcat_url, department_name):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=False, slow_mo=50)
         context = browser.new_context(
@@ -24,10 +27,12 @@ def extract_all_categories():
         page = context.new_page()
         stealth_sync(page)
         print("Navigating...")
-        page.goto("https://www.walmart.com/cp/fabric/4232946?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_Fabric", timeout=60000, wait_until="domcontentloaded")
+        page.goto(subcat_url, timeout=60000, wait_until="domcontentloaded")
 
         page.wait_for_load_state("domcontentloaded")
         time.sleep(3)
+
+        failed_urls = []
 
         if "application error" in page.content().lower():
             print("Detected client-side application error. Retrying after 5 seconds...")
@@ -37,10 +42,13 @@ def extract_all_categories():
             time.sleep(3)
 
             if "application error" in page.content().lower():
-                print("Still encountering application error after reload.")
+                print(f"[ERROR] Application error on page: {subcat_url}")
+                failed_urls.append({"url": subcat_url, "subcategory": subcat_name, "department": department_name, "reason": "application error"})
                 return
+            
         if "verify" in page.title().lower():
-            print("Bot detection triggered. Page title:", page.title())
+            print(f"[ERROR] Bot verification required: {subcat_url}")
+            failed_urls.append({"url": subcat_url, "subcategory": subcat_name, "department": department_name, "reason": "bot verification"})
             return
 
         scroll_page_like_human(page)
@@ -49,14 +57,47 @@ def extract_all_categories():
         print("Extracting __NEXT_DATA__...")
         next_data = page.evaluate("window.__NEXT_DATA__")
         if not next_data:
-            print("__NEXT_DATA__ not found.")
+            print(f"[ERROR] __NEXT_DATA__ not found for {subcat_url}")
+            failed_urls.append({"url": subcat_url, "subcategory": subcat_name, "department": department_name, "reason": "__NEXT_DATA__ missing"})
             return
+        
 
         initial_data = next_data.get("props", {}).get("pageProps", {}).get("initialTempoData", {})
         modules_1 = initial_data.get("contentLayout", {}).get("modules", [])
         modules_2 = initial_data.get("data", {}).get("contentLayout", {}).get("modules", [])
+        modules_3 = []
+        pills_top_zone = next_data.get("props", {}).get("pageProps", {}).get("initialData", {}).get("moduleDataByZone", {}).get("pillsTopZone")
+        if isinstance(pills_top_zone, dict):
+            modules_3.append(pills_top_zone)
+        # modules_4 = []
+        # chip_module = next_data.get("props", {}).get("pageProps", {}).get("initialData", {}).get("contentLayout", {}).get("modules", [])
+        # module_index = chip_module[2] if len(chip_module)>2 else None
+        # if isinstance(chip_module[2], dict):
+        #     modules_4.append(module_index)
 
-        modules = modules_1 + modules_2
+        module_detected = None
+        if modules_1:
+            module_detected = modules_1
+            print("Detected module source: modules_1 (initialTempoData > contentLayout)")
+        elif modules_2:
+            module_detected = modules_2
+            print("Detected module source: modules_2 (initialTempoData > data > contentLayout)")
+        elif modules_3:
+            module_detected = modules_3
+            print("Detected module source: modules_3 (moduleDataByZone > pillsTopZone)")
+        elif True:
+            chip_module = next_data.get("props", {}).get("pageProps", {}).get("initialData", {}).get("contentLayout", {}).get("modules", [])
+            if len(chip_module) > 2 and isinstance(chip_module[2], dict):
+                module_detected = [chip_module[2]]  
+                print("Detected module source: modules_4 (contentLayout index 2)")
+            else:
+                print(f"[ERROR] No module detected in {subcat_url}")
+                failed_urls.append({"url": subcat_url, "subcategory": subcat_name, "department": department_name, "reason": "no modules found"})
+                return
+
+        print(f"Modules detected: {len(module_detected)}")
+
+        modules = module_detected
 
         generic_name_elements = page.query_selector_all(".dn > [link-identifier='Generic Name']")
         has_nav_headers = any("navHeaders" in m.get("configs", {}) for m in modules)
@@ -71,17 +112,27 @@ def extract_all_categories():
             for m in modules
         )
         has_rows6 = any(isinstance(m.get("configs", {}).get("rows6"), list) for m in modules)
+        has_rows4 = any(isinstance(m.get("configs", {}).get("rows4"), list) for m in modules)
+        has_pillsV2 = any(isinstance(m.get("configs", {}).get("pillsV2"), list) for m in modules)
 
         if has_nav_headers or has_categories4x1 or has_generic_name_elements or has_categories4x4:
             template_type = "template_1"
-        elif has_shop_by_category or has_rows6:
+        elif has_shop_by_category or has_rows4 or has_rows6:
             template_type = "template_2"
+        elif has_pillsV2:
+            template_type = "template_3"
         else:
             template_type = "unknown"
-
+        
         print(f"Detected layout: {template_type}")
-        current_parent_category = "Fabric"
+        current_parent_category = subcat_name
         all_categories = []
+        all_categories.append({
+            "source": "departments",
+            "name": subcat_name,
+            "parent_category_name": department_name,
+            "source_url": subcat_url
+        })
 
         if template_type == "template_1":
             for el in generic_name_elements:
@@ -92,7 +143,8 @@ def extract_all_categories():
                         "source": "generic_name_selector",
                         "name": name,
                         "url": url,
-                        "parent_category_name": current_parent_category
+                        "parent_category_name": current_parent_category,
+                        "source_url": subcat_url
                     })
 
             for module in modules:
@@ -103,7 +155,8 @@ def extract_all_categories():
                         "source": "categories4x1",
                         "name": item.get("name"),
                         "url": item.get("image", {}).get("clickThrough", {}).get("value"),
-                        "parent_category_name": current_parent_category
+                        "parent_category_name": current_parent_category,
+                        "source_url": subcat_url
                     })
 
                 for row in configs.get("rows", []):
@@ -112,7 +165,8 @@ def extract_all_categories():
                             "source": "categories4x4",
                             "name": item.get("name"),
                             "url": item.get("image", {}).get("clickThrough", {}).get("value"),
-                            "parent_category_name": current_parent_category
+                            "parent_category_name": current_parent_category,
+                            "source_url": subcat_url
                         })
 
                 for nav in configs.get("navHeaders", []):
@@ -123,7 +177,8 @@ def extract_all_categories():
                             "source": "top_nav_header",
                             "name": header_name,
                             "url": header.get("clickThrough", {}).get("value"),
-                            "parent_category_name": current_parent_category
+                            "parent_category_name": current_parent_category,
+                            "source_url": subcat_url
                         })
 
                     parent_category = header_name
@@ -138,7 +193,9 @@ def extract_all_categories():
                                 "source": "categoryGroup",
                                 "name": category_name,
                                 "url": category_url,
-                                "parent_category": parent_category
+                                "parent_category_name": parent_category,
+                                "ancestor_name": current_parent_category,
+                                "source_url": subcat_url
                             })
 
                         subcategory_parent = category_name
@@ -154,7 +211,9 @@ def extract_all_categories():
                                         "source": "subCategoryGroup",
                                         "name": sub_name,
                                         "url": sub_url,
-                                        "parent_category": subcategory_parent
+                                        "parent_category_name": subcategory_parent,
+                                        "ancestor_name": current_parent_category,
+                                        "source_url": subcat_url
                                     })
 
         if template_type in ["template_1", "template_2"]:
@@ -176,7 +235,8 @@ def extract_all_categories():
                                "auto batteries", "diy oil change", "auto fluids & additives", "the balloon shop", "the party shop", "the greeting card shop", "crowd pleasers", "seasonal shops", "party essentials", "pick a sport", "brands to sport", "exercise essentials brands", 
                                "top tech brands", "outdoor activities", "camping gear", "shop boating & marine", "explore by brand", "set up camp", "camping essentials", "brands to bring outside", "shop by type", "gear & accessories", 
                                "kids’ bikes by wheel size", "specialty cycling", "floats & water fun", "gear for the whole year", "more gotta-have brands", "around the office", "supplies that get the job done", "moving boxes", "packing supplies", "shipping solutions", "explore more", "shop by pattern", "shop by material", "commercial products"]:
-                    rows6 = configs.get("rows6")  
+                    rows6 = configs.get("rows6")
+                    rows4 = configs.get("rows4")  
                     if isinstance(rows6, list):
                         for row in rows6:
                             for category in row.get("categories", []):
@@ -187,33 +247,98 @@ def extract_all_categories():
                                         "source": "shop_by_category",
                                         "name": name,
                                         "url": url,
-                                        "parent_category_name": current_parent_category
+                                        "parent_category_name": current_parent_category,
+                                        "source_url": subcat_url
+                                    })
+                    elif isinstance(rows4, list):
+                        for row in rows4:
+                            for category in row.get("categories", []):
+                                name = category.get("name")
+                                url = category.get("image", {}).get("clickThrough", {}).get("value")
+                                if name and url:
+                                    all_categories.append({
+                                        "source": "shop_by_category",
+                                        "name": name,
+                                        "url": url,
+                                        "parent_category_name": current_parent_category,
+                                        "souce_url": subcat_url
                                     })
 
+        if template_type == "template_3":
+            for module in modules:
+                configs = module.get("configs", {})
+                pillsV2 = configs.get("pillsV2")
+                if isinstance(pillsV2, list): 
+                    for pill in pillsV2:
+                        name = pill.get("title")
+                        url = pill.get("url")
+                        if name and url:
+                            all_categories.append({
+                                "name": name,
+                                "url": url,
+                                "source": "shop_by_category",
+                                "parent_category_name": current_parent_category,
+                                "source_url": subcat_url
+                            })
+
         if template_type == "unknown":
-            print("No recognizable category structure found.")
+            print(f"[ERROR] Unknown template type for {subcat_url}")
+            failed_urls.append({"url": subcat_url, "subcategory": subcat_name, "department": department_name, "reason": "unknown template"})
             return
 
         seen = set()
         unique_categories = []
+        try:
+            with open("all_walmart_categories.json", "r", encoding="utf-8") as f:
+                existing_categories = json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            existing_categories = []
         for item in all_categories:
-            key = (item['name'], item['url'])
-            if key not in seen:
-                seen.add(key)
+            if 'name' in item and 'url' in item and item['url']:
+                key = (item['name'], item['url'])
+                if key not in seen:
+                    seen.add(key)
+                    unique_categories.append(item)
+            else:
+                print(f"category with no URL: {item['name']}")
                 unique_categories.append(item)
+        combined_categories = existing_categories + unique_categories
 
-        output_data = {
-            "template_type": template_type,
-            "category_count": len(unique_categories),
-            "categories": unique_categories
-        }
+        # output_data = {
+        #     "template_type": template_type,
+        #     "category_count": len(unique_categories),
+        #     "categories": unique_categories
+        # }
 
         with open("all_walmart_categories.json", "w", encoding="utf-8") as f:
-            json.dump(output_data, f, indent=2, ensure_ascii=False)
+            json.dump(combined_categories, f, indent=2, ensure_ascii=False)
 
         print(f"Extracted and saved {len(unique_categories)} categories to 'all_walmart_categories.json'")
+        if failed_urls:
+            with open("failed_category_urls.json", "w", encoding="utf-8") as f:
+                json.dump(failed_urls, f, indent=2, ensure_ascii=False)
+            print(f"\nSaved {len(failed_urls)} failed URLs to 'failed_category_urls.json'")
+        else:
+            print("\nNo failed URLs encountered.")
         browser.close()
 
 
-if __name__ == "__main__":
-    extract_all_categories()
+df = pd.read_json("new_departments.json")
+for index, row in df.iterrows():
+    department_name = row['department']
+    subcategories = row['subcategories']
+
+    print(f"\nDepartment: {department_name}")
+
+    for subcat in subcategories:
+        subcat_name = subcat.get("name")
+        subcat_url = subcat.get("url")
+
+        print(f"  Subcategory Name: {subcat_name}")
+        print(f"  Subcategory URL: {subcat_url}")
+        extract_all_categories(subcat_name, subcat_url, department_name)
+        time.sleep(180)
+
+
+# if __name__ == "__main__":
+#     extract_all_categories()

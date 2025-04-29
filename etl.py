@@ -9,7 +9,6 @@ def assign_hierarchy_levels(df):
 
     missing_source_df.to_json("missing_source_data.json", orient='records', lines=True)
 
-    # df = df.dropna(subset=['source'])
 
     df.loc[df['parent_category_name'].isna(), 'level'] = 0
 

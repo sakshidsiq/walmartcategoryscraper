@@ -3,40 +3,48 @@
     "department": "Pharmacy, Health & Wellness",
     "subcategories": [
       {
-        "name": "Vitamins & Supplements",
-        "url": "https://www.walmart.com/cp/vitamins-supplements/1005863?povid=GlobalNav_rWeb_PharmacyHealthWellness_Wellness_VitaminsSupplements"
+        "name": "All Health & Wellness",
+        "url": "https://www.walmart.com/cp/the-wellness-hub/5523094?povid=GlobalNav_PharmacyHealthWellness_HW_healthandwellnesshub"
       },
       {
-        "name": "Summer Fitness",
-        "url": "https://www.walmart.com/shop/deals/SummerFitness"
+        "name": "Vitamins & Supplements",
+        "url": "https://www.walmart.com/cp/vitamins-supplements/1005863?povid=GlobalNav_PharmacyHealthWellness_Wellness_VitaminsSupplements"
       },
       {
         "name": "Protein, Fitness, & Weight Management",
-        "url": "https://www.walmart.com/cp/protein-fitness/1166769?povid=GlobalNav_rWeb_PharmacyHealthWellness_Wellness_ProteinSupplements"
+        "url": "https://www.walmart.com/cp/protein-fitness/1166769?povid=GlobalNav_PharmacyHealthWellness_Wellness_ProteinSupplements"
       },
       {
         "name": "Digestive Health & Wellness",
-        "url": "https://www.walmart.com/cp/digestive-health/1396434?povid=GlobalNav_rWeb_PharmacyHealthWellness_Wellness_DigestiveHealth"
+        "url": "https://www.walmart.com/cp/digestive-health/1396434?povid=GlobalNav_PharmacyHealthWellness_Wellness_DigestiveHealth"
       },
       {
         "name": "Pain Management",
-        "url": "https://www.walmart.com/browse/health/pain-relievers/976760_6972993?povid=GlobalNav_rWeb_PharmacyHealthWellness_HealthCare_PainManagement"
+        "url": "https://www.walmart.com/browse/health/pain-relievers/976760_6972993?povid=GlobalNav_PharmacyHealthWellness_HealthCare_PainManagement"
       },
       {
         "name": "Allergy & Sinus",
-        "url": "https://www.walmart.com/cp/allergy-sinus/3771182?povid=GlobalNav_rWeb_PharmacyHealthWellness_HealthCare_AllergySinusAsthma"
+        "url": "https://www.walmart.com/cp/allergy-sinus/3771182?povid=GlobalNav_PharmacyHealthWellness_HealthCare_AllergySinusAsthma"
       },
       {
         "name": "Medical Supplies & Equipment",
-        "url": "https://www.walmart.com/cp/caregiver/2915579?povid=GlobalNav_rWeb_PharmacyHealthWellness_FeaturedShops_Caregiver"
+        "url": "https://www.walmart.com/cp/caregiver/2915579?povid=GlobalNav_PharmacyHealthWellness_FeaturedShops_Caregiver"
       },
       {
         "name": "First Aid",
-        "url": "https://www.walmart.com/cp/2571007?povid=GlobalNav_rweb_PharmacyHealthWellness_Health_FirstAid"
+        "url": "https://www.walmart.com/cp/2571007?povid=GlobalNav_PharmacyHealthWellness_Health_FirstAid"
       },
       {
         "name": "Diabetes Management",
-        "url": "https://www.walmart.com/cp/diabetes-support/1231757?povid=GlobalNav_rweb_PharmacyHealthWellness_Health_diabetes"
+        "url": "https://www.walmart.com/cp/diabetes-support/1231757?povid=GlobalNav_PharmacyHealthWellness_Health_diabetes"
+      },
+      {
+        "name": "Women's Wellness",
+        "url": "https://www.walmart.com/cp/1767021?povid=GlobalNav_PharmacyHealthWellness_Wellness_Womens_wellness"
+      },
+      {
+        "name": "International Medicine",
+        "url": "https://www.walmart.com/cp/multicultural-otc/4178898?povid=GlobalNav_PharmacyHealthWellness_Wellness_MTC_OTC"
       },
       {
         "name": "OTC & FSA/HSA",
@@ -44,11 +52,11 @@
       },
       {
         "name": "Pharmacy",
-        "url": "https://www.walmart.com/cp/pharmacy/5431?povid=GlobalNav_rWeb_PharmacyHealthWellness_Pharmacy_Pharmacy"
+        "url": "https://www.walmart.com/cp/pharmacy/5431?povid=GlobalNav_PharmacyHealthWellness_Pharmacy_Pharmacy"
       },
       {
         "name": "Vision Center",
-        "url": "https://www.walmart.com/cp/vision-centers/1078944?povid=GlobalNav_rWeb_PharmacyHealthWellness_VisionCenter_VisionCenter"
+        "url": "https://www.walmart.com/cp/vision-centers/1078944?povid=GlobalNav_PharmacyHealthWellness_VisionCenter_VisionCenter"
       }
     ]
   },
@@ -62,6 +70,10 @@
       {
         "name": "New Arrivals",
         "url": "https://www.walmart.com/shop/clothing-and-accessories/new-arrivals?povid=GlobalNav_rWeb_ClothingShoesAccessories_NewArrivals"
+      },
+      {
+        "name": "Editors' Picks",
+        "url": "https://www.walmart.com/shop/clothing-and-accessories/womens-editors-picks?povid=GlobalNav_rWeb_ClothingShoesAccessories_EditorsPicks"
       },
       {
         "name": "Women",
